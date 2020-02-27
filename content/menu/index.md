@@ -1,0 +1,29 @@
+---
+headless: true
+---
+
+- **GETTING STARTED**
+  - [Overview]({{< relref "/" >}})
+  - [Quick Start]({{< relref "/docs/quick-start" >}})
+  - [Visual Settings]({{< relref "/" >}})
+  - [Font Settings]({{< relref "/" >}})
+  - [Preview and Publish]({{< relref "/" >}})
+- **PAGE EDITING**
+  - [Create a section]({{< relref "/docs/section" >}})
+  - [Section Settings]({{< relref "/" >}})
+- **SECTIONS EDITING**
+  - [Header and Footer]({{< relref "/docs/header-footer" >}})
+  - [First Screen]({{< relref "/" >}})
+  - [Slider and Galleries]({{< relref "/" >}})
+  - [Columns]({{< relref "/" >}})
+  - [Forms]({{< relref "/" >}})
+- **SITE SETTINGS**
+  - [Analitycs]({{< relref "/" >}})
+  - [SEO]({{< relref "/" >}})
+  - [Open Graph]({{< relref "/" >}})
+  - [Cookies]({{< relref "/" >}})
+  - [Javascipt and CSS]({{< relref "/" >}})
+- **INTEGRATIONS**
+  - [Google Tag]({{< relref "/" >}})
+  - [Google Analitycs]({{< relref "/" >}})
+  - [Mailchimp]({{< relref "/" >}})
