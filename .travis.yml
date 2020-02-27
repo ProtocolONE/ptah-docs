@@ -3,73 +3,58 @@ os:
 language: go
 go:
 - 1.13.x
-
 env:
   global:
-  - GO111MODULE=on 
-
+  - GO111MODULE=on
 sudo: required
-
 dist: bionic
-
 cache:
   directories:
-  - $HOME/gopath/pkg/mod
-
+  - "$HOME/gopath/pkg/mod"
 if: branch in (master, develop)
-
 before_install:
-#  - sudo snap install hugo --channel=extended
-  - git clone -b v0.59.1 https://github.com/gohugoio/hugo.git
-  - cd hugo
-  - go install --tags extended
-  - hugo env
-
+- git clone -b v0.59.1 https://github.com/gohugoio/hugo.git
+- cd hugo
+- go install --tags extended
+- hugo env
 jobs:
-  include: 
-    - if: branch = develop
-      install: true
-      script:
-      - cd $TRAVIS_BUILD_DIR
-      - hugo --environment staging
-      #- mkdir $TRAVIS_BUILD_DIR/public/api
-      #- cd $TRAVIS_BUILD_DIR/api-reference 
-      #- hugo --environment staging && cp -r $TRAVIS_BUILD_DIR/api-reference/public/* ../public/api/
-      - echo "docs.stg.ptah.super.com" > ./public/CNAME
-      deploy:
-        - provider: pages
-          skip-cleanup: true
-          github-token: "$GITHUB_TOKEN"
-          keep-history: true
-          target-branch: master
-          verbose: true
-          repo: protocolone/ptah-docs-stage
-          fqdn: docs.stg.ptah.super.com
-          local-dir: "./public"
-          on:
-            branch: develop
-    - if: branch = master
-      install: true
-      script:
-      - cd $TRAVIS_BUILD_DIR
-      - hugo --environment production
-      #- mkdir $TRAVIS_BUILD_DIR/public/api
-      #- cd $TRAVIS_BUILD_DIR/api-reference 
-      #- hugo --environment production && cp -r $TRAVIS_BUILD_DIR/api-reference/public/* ../public/api/
-      - echo "docs.ptah.super.com" > ./public/CNAME
-      deploy:
-        - provider: pages
-          skip-cleanup: true
-          github-token: "$GITHUB_TOKEN"
-          keep-history: true
-          target-branch: gh-pages
-          verbose: true
-          repo: protocolone/ptah-docs
-          fqdn: docs.ptah.super.com
-          local-dir: "./public"
-          on:
-            branch: master
-
+  include:
+  - if: branch = develop
+    install: true
+    script:
+    - cd $TRAVIS_BUILD_DIR
+    - hugo --environment staging
+    - echo "docs.stg.ptah.super.com" > ./public/CNAME
+    deploy:
+    - provider: pages
+      skip-cleanup: true
+      github-token: "$GITHUB_TOKEN"
+      keep-history: true
+      target-branch: master
+      verbose: true
+      repo: protocolone/ptah-docs-stage
+      fqdn: docs.stg.ptah.super.com
+      local-dir: "./public"
+      on:
+        branch: develop
+  - if: branch = master
+    install: true
+    script:
+    - cd $TRAVIS_BUILD_DIR
+    - hugo --environment production
+    - echo "docs.ptah.super.com" > ./public/CNAME
+    deploy:
+    - provider: pages
+      skip-cleanup: true
+      github-token: "$GITHUB_TOKEN"
+      keep-history: true
+      target-branch: gh-pages
+      verbose: true
+      repo: protocolone/ptah-docs
+      fqdn: docs.ptah.super.com
+      local-dir: "./public"
+      on:
+        branch: master
 notifications:
   slack:
-    secure: OoFvC851wiCEROz8KhtySp95ijT7fcZvOW8LiLnXxbjU+sWBHhefMdB6hprQFPP3yH6uTOCW2Mn5Vhea3UU8/nJVh0yTXNOapbY3MIa76ss3PgBWCSospyBuX3lJXg8DpxkGs4dVYCxb8FPSdSU4ysjq60zCrWmOykAczD97dXFaq3b7hRSux74aVjwsuaICu0AfNNx1LTgC4/01yXS8Lfg3koMIQRIxfnd/RWNRlKLfDA6nLi9OPgKiwwPkzWZDwWVu8erkjMpZJ9ZICf5ts3p3alIc46Jd22+5vFumdGX3i3DBCo5+Biw/oqBeb7pMNRwg6vpbBMmEUDvOLsHZAaJQAF8zmJYZTSIbaNTs+uD43A5e4NV8Be9G9jWQ+veyKNuCw/li1qLCzyLjUeKuSdjigaoqFTed5GGfp1cZpc/DRo2NMtKi1h/BuZXeqpqOv2PEGOai2GdgDfLlCU3I+2pzKn6hVkEP31a6AA/jP6PlbnhswrEcgizONefA8wyg792bUlqj+k49gfLKl12VnQSi8fvK/z4Br01GTLmDxdx6q1/AQ2nD/aa94haW//0Qck1P1tH3Ph/8aSI1ne9Bxy9dnU4EWBK0ZYZbRWQ1w/QKJJLOtARRn6Cv4FchgL0zzOlCUfgDBmhSNsoSbySMV14HE4mcsehtn7JtlTVNl/A=
+    secure: 5clmRtRDy7m5OoHw3FNhKpR2Lhga0AF0LvMwvTAKG/CPBTdBubK3D31MbwQwAUeetKkqFyFepbRY1lfNK7VL0aTD8r0HtE47aUZdCNVr+5DnxsMf7dit3nYmXIN0rXsAOWZ5Wa1yUKxhxI5B71WNWPbcJOTOAwbsIiOAn4blHhvug6qwfs+/ysC+BJQgAOhl/+PYrlhPgpEKIc97wCDyEtkHwwl7igWsL3TlLkZEXXfY8140OW21n4tWNZdhpmhb8jcHQE+IrYldQ8ZPZDFI2HVS54WpGxkfuLc5bsxaQI6iCjkMffUsPe+uFRUdtU92Ly1EGKPZOOng93T125s2rC1Jj7p9arofNWnktDFkY0roZqpIYRX9dX2NnyXUl7FDIAI5bHnq2E/B8ffJqc9x7JKjNKW3qRAETAg67TZ5WFAdpp5yhA45TH5zAdrP9/j4qBzw1RQ47yQIIw9C4vUuL39FY9/YPCWEA5zGAHozGGE1j3qjqs2Ez+wwGnH8Yq22XzD9uvnrAZNOcMGK6F4vKX+6Ue2+9MmYeQp5ohWIpWQFKL4V8g+9+m2fRNEA7vmZ4pjP7OIv1H0oVJVHos/hxymZZ/ng2veiXKFclvklDBQLb/iVP1z5daz65g7bIzKQYHa6iceuBVkXnTcnv8DLDiLeE3XQCWf/7itdXXmzcqE=
