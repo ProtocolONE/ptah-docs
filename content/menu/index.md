@@ -4,22 +4,19 @@ headless: true
 
 - **GETTING STARTED**
   - [Overview]({{< relref "/" >}})
-  - [Quick Start]({{< relref "/docs/quick-start" >}})
-  - [Visual Settings]({{< relref "/" >}})
-  - [Font Settings]({{< relref "/" >}})
-  - [Preview and Publish]({{< relref "/" >}})
+  - [Quick start]({{< relref "/docs/quick-start" >}})
+  - [Create a section]({{< relref "/docs/add-section" >}})
+  - [Setting up a payment system]({{< relref "/docs/payments" >}})
+  - [Preview and publish]({{< relref "/" >}})
 - **PAGE EDITING**
-  - [Create a section]({{< relref "/docs/section" >}})
-  - [Section Settings]({{< relref "/" >}})
-- **SECTIONS EDITING**
-  - [Header and Footer]({{< relref "/docs/header-footer" >}})
-  - [First Screen]({{< relref "/" >}})
-  - [Slider and Galleries]({{< relref "/" >}})
-  - [Columns]({{< relref "/" >}})
-  - [Forms]({{< relref "/" >}})
+  - [Edit a section content]({{< relref "/docs/edit-section" >}})
+  - [Indents and size]({{< relref "/docs/size" >}})
+  - [Align content]({{< relref "/docs/align" >}})
+  - [Background image and video]({{< relref "/docs/background" >}})
+  - [Edit headings]({{< relref "/docs/headings" >}})
+  - [Search Engine Optimization]({{< relref "/" >}})
 - **SITE SETTINGS**
   - [Analitycs]({{< relref "/" >}})
-  - [SEO]({{< relref "/" >}})
   - [Open Graph]({{< relref "/" >}})
   - [Cookies]({{< relref "/" >}})
   - [Javascipt and CSS]({{< relref "/" >}})
