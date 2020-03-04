@@ -13,21 +13,21 @@ On hover over a Block or an Element you can view a functional icons: Edit Proper
 TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками
 {{< figure src="/images/tmp.png">}}
 
-##  Adjust block properties
+# Adjust block properties
 
 TODO ??? уникальные св-ва блока - это же тоже самое, что св-ва секции, только вынесены отдельно.
 
 [Learn about background, alignment and size properties.](TODO)
 
-## Add an element to the section
+# Add an element to the section
 
 To add an element to the section, hover over a block where you want to add a new element and click on the **Add element icon** on the Preview Area.
 
-## Adjust element properties
+# Adjust element properties
 
 To customize element properties, select the element by click and press the **Edit icon** on the Preview Area.
 
-### **Text**
+## **Text**
 
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
@@ -63,7 +63,7 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-### **Buttons and Icons**
+## **Buttons and Icons**
 
 {{< tabs "elements-buttons-icons" >}}
 {{< tab "BUTTON" >}}
@@ -78,7 +78,7 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-### **Images and Videos**
+## **Images and Videos**
 
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
@@ -100,7 +100,7 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-### **Game parameters**
+## **Game parameters**
 
 {{< tabs "elements-game" >}}
 {{< tab "AVAILABLE PLATFORMS" >}}
@@ -115,7 +115,7 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-### **HTML elements**
+## **HTML elements**
 
 {{< tabs "elements-html" >}}
 {{< tab "SPACER" >}}
@@ -135,11 +135,15 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-## Next steps
+***
 
-### TODO Indents and size
-### TODO Align content
-### TODO Background image and video
+{{< hint info >}}
+**Next steps**
+{{< /hint >}}
+
+- TODO Indents and size
+- TODO Align content
+- TODO Background image and video
 
 ***
 

@@ -14,14 +14,14 @@ You can learn more about [objects properties](/docs/edit-section).
 
 After you make a change on the Settings Panel the content on the right on the Preview Area will be updated. 
 
-## Add a new section
+# Add a new section
 
 1. On the Settings Panel click on the **Add section icon** and select a desired section from the preview thumbs list.
 2. Now you can [change the entire content](/docs/edit-section) of the selected section on the Preview Area.
 
 {{< figure src="/images/add-section.gif">}}
 
-## Adjust section properties
+# Adjust section properties
 
 You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
@@ -29,7 +29,7 @@ To edit a section, you can hover over a section and click the **Settings icon** 
 
 [Learn about background, alignment and size properties.](TODO)
 
-### **Main sections**
+## **Main sections**
 
 {{< tabs "sections-main" >}}
 {{< tab "HEADER" >}}
@@ -46,7 +46,7 @@ TODO картинка с готовыми настройками
 {{< /tab >}}
 {{< /tabs >}}
 
-### **Sections for graphics**
+## **Sections for graphics**
 
 {{< tabs "sections-images-video" >}}
 {{< tab "SLIDER" >}}
@@ -76,25 +76,25 @@ TODO картинка с готовыми настройками
 {{< /tab >}}
 {{< /tabs >}}
 
-## Change sections order
+# Change sections order
 
 To change sections order, drag and drop a section on the Settings Panel.
 
 TODO animation
 {{< figure src="/images/add-section.gif">}}
 
-## Remove a content from the page
+# Remove a content from the page
 
 On hover over any object on the page you can view a **Deletion icon** at the top-right object's corner.
 
-### Remove a section
+## Remove a section
 
 To remove a section, hover over and click on the **Deletion icon** on the Preview Area or click the **Bucket icon** at the end of the section title on the Settings Panel.
 
 TODO АНИМАЦИЯ
 {{< figure src="/images/add-section.gif">}}
 
-### Remove an element
+## Remove an element
 
 To remove an element from a section, hover over and click on the **Deletion icon** on the Preview Area.
 
@@ -103,11 +103,13 @@ TODO АНИМАЦИЯ
 
 ***
 
-## Next steps
+{{< hint info >}}
+**Next steps**
+{{< /hint >}}
 
-### TODO Edit a section content and properties
-### TODO Accept payments
-### TODO Preview and publish
+- TODO Edit a section content and properties
+- TODO Accept payments
+- TODO Preview and publish
 
 ***
 

@@ -40,9 +40,12 @@ Grow your business based on the helpful data gained from Ptah Builder integratio
 
 ***
 
-## Next steps
+{{< hint info >}}
+**Next steps**
+{{< /hint >}}
 
 ### [**Continue with the Quick Start guide**](/docs/quick-start)
+
 ***
 
 {{< questions >}}{{< questions-text >}}{{< /questions-text >}}{{< /questions >}}

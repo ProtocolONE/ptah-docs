@@ -10,8 +10,8 @@ headless: true
   - [Preview and publish]({{< relref "/" >}})
 - **PAGE EDITING**
   - [Edit a section content]({{< relref "/docs/edit-section" >}})
-  - [Indents and size]({{< relref "/docs/size" >}})
-  - [Align content]({{< relref "/docs/align" >}})
+  - [Size and spacing]({{< relref "/docs/size" >}})
+  - [Content alignment]({{< relref "/docs/align" >}})
   - [Background image and video]({{< relref "/docs/background" >}})
   - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
