@@ -15,7 +15,7 @@ You can contribute to Ptah in several ways. Here are some examples:
 - Write technical documentation and blog posts, for users and contributors.
 - Help others by answering questions about Ptah.
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. [Open Source Guide](https://opensource.guide/how-to-contribute/) is a great one to get you inspired.
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine. [Open Source Guide](https://opensource.guide/how-to-contribute) is a great one to get you inspired.
 
 ### Report bugs
 

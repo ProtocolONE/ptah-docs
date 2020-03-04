@@ -1,63 +1,48 @@
 ---
-title: Ptah Documentation
+title: Ptah Landing Page Builder Documentation
 type: docs
 ---
 
-# Documentation
+# Promote your game using Ptah
 ***
 
-## Ptah Editor
+[Ptah Builder](https://ptah.super.com) is the easy-to-use open-source landing page builder for video games without any coding.
 
-Easy-to-use open-source [landing page builder for video games](https://ptah.super.com).
+Ptah provides you with all the features you need to promote your game, exactly how you want it to be seen.
 
-Free tool for building video game landing page templates without any coding.
+TODO: КАРТИНКА СЕРВИСА или анимация как быстро делается лэндинг из готовых модулей
 
-## Promote your game
+{{< button href="https://ptah.super.com/editor/demo" >}}Try now the demo editor{{< /button >}}
 
-Ptah provides you with all the features you need to promote the your game, exactly how you want it to be seen.
+## Build the responsive landing page you want
 
-[КАРТИНКА СЕРВИСА ИЛИ АНИМАЦИЯ]
+Ptah is created specifically for responsive design. You can super-easy ensure your landing page looks and performs perfectly on every device. 
 
-{{< button href="https://ptah.super.com/editor/demo" >}}Try now demo{{< /button >}}
+TODO: АНИМАЦИЯ переключение между desktop, tablet, mobile views
 
-## Build your page from a wide range of pre-designed blocks
+## Build your desired page from a wide range of pre-designed blocks
 
-### Инновационный блочный механизм редактирования
-Вы собираете страницу из готовых блоков, спроектированных профессионалами. Это быстро и легко.
+You can make your landing page using ready-made modules and view the result in the real-time preview area.
+No coding skills required.
 
-КАРТИНКА
+Build your landing page for a video game out of professionally designed blocks for system requirements, your products list and others.
 
-### Библиотека содержит 480+ блоков и постоянно пополняется
-Наши дизайнеры постоянно создают новые, современные элементы в соответствии с трендами веб-дизайна.
+## Boost your paying conversion rate
 
-КАРТИНКА
+Set up accepting payments in a matter of minutes using [PaySuper](https://docs.pay.super.com/docs/payments). 
+PaySuper automates a ton of work with accepting payments, tax calculation, receipts for purchases and your payout invoices. 
 
-### Гибкие настройки для индивидуального дизайна
+## Analise and target the landing page for your game
 
-У каждого блока есть тонкие настройки. Вы создаете свое решение ваших задач.
+Grow your business based on the helpful data gained from Ptah Builder integrations: Mailchimp, Google Analytics and others.
 
-### Full-screen photographs
+[ССЫЛКА на раздел с настройками]
 
-Allow the viewer to see every last detail of a photograph.
+***
 
-КАРТИНКА
+## Next steps
 
-### Ambient background YouTube video
-
-Create a mood and a style by adding a background video.
-
-[ССЫЛКА на раздел про секции и слоты]
-
-## Accepting payments with PaySuper
-
-[The PaySuper Form](https://docs.pay.super.com/docs/payments) loads near instantly and is designed to boost your paying conversion rate.
-
-## Marketing
-
-Use external services if you want to. Manage lead collection with MailChimp, analyze with Google Analytics, or make your page open to search engine optimization with OG tags and metadata.
-
-[ССЫЛКА на раздел настройками]
-
+### [**Continue with the Quick Start guide**](/docs/quick-start)
 ***
 
 {{< questions >}}{{< questions-text >}}{{< /questions-text >}}{{< /questions >}}

@@ -5,7 +5,7 @@ headless: true
 - **GETTING STARTED**
   - [Overview]({{< relref "/" >}})
   - [Quick start]({{< relref "/docs/quick-start" >}})
-  - [Create a section]({{< relref "/docs/add-section" >}})
+  - [Add a section]({{< relref "/docs/add-section" >}})
   - [Setting up a payment system]({{< relref "/docs/payments" >}})
   - [Preview and publish]({{< relref "/" >}})
 - **PAGE EDITING**
@@ -13,14 +13,13 @@ headless: true
   - [Indents and size]({{< relref "/docs/size" >}})
   - [Align content]({{< relref "/docs/align" >}})
   - [Background image and video]({{< relref "/docs/background" >}})
-  - [Edit headings]({{< relref "/docs/headings" >}})
-  - [Search Engine Optimization]({{< relref "/" >}})
+  - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
-  - [Analitycs]({{< relref "/" >}})
+  - [Search Engine Optimization]({{< relref "/" >}})
   - [Open Graph]({{< relref "/" >}})
   - [Cookies]({{< relref "/" >}})
   - [Javascipt and CSS]({{< relref "/" >}})
 - **INTEGRATIONS**
   - [Google Tag]({{< relref "/" >}})
-  - [Google Analitycs]({{< relref "/" >}})
+  - [Google Analytics]({{< relref "/" >}})
   - [Mailchimp]({{< relref "/" >}})

@@ -1,0 +1,18 @@
+# Terms:
+***
+
+- **Ptah Landing Page Builder** = **Ptah Builder** = **Ptah** - the open-source landing page builder for video games
+- **Sections Library**
+- **Elements Library**
+
+# Ptah Editor:
+***
+
+- **the Navigation Panel** - the sidebar on the left with the settings menu
+- **the Settings Panel** - the sidebar on the left with the Sections list and the elements properties
+
+# Ptah Dashboard: 
+***
+
+- **the landing pages list**
+- **the Create new landing button**

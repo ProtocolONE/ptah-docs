@@ -8,4 +8,4 @@ bookToc: true
 
 ## Section alignment
 
-## Slot alignment
+## Block alignment

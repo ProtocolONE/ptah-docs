@@ -6,14 +6,21 @@ bookToc: true
 # Quick Start
 ***
 
-{{< button href="https://ptah.super.com/editor/demo" >}}Try now demo{{< /button >}}
+## 1. Регистрация
 
-## 1. Создаем новый сайт на дашборде.
+## 2. Создаем новый landing page на дашборде.
 
-    Либо выбираем готовый шаблон ССЫЛКИ на шаблоны,
+From your dashboard, you can access, create, and manage your projects.
+
+Start from scratch or from one of our 100+ templates
+
+Ptah lets you start your design from a completely blank canvas, so there’s no limit to your creativity. That way, you can design a truly custom website—instead of relying on a template built by someone who doesn’t know you or your company.
+But if you want to get started fast, Ptah offers over 100 beautiful, flexible templates
+
+    Либо выбираем готовый шаблон СКРИНШОТ с шаблонами,
     либо создаем все элементы из библиотеки готовых блоков, которые можно кастомизировать АНИМАЦИЯ GIF.
 
-## 2. Добавляем секции.
+## 3. Добавляем секции.
 
     ССЫЛКА на раздел про создание секции.
 
@@ -25,8 +32,8 @@ bookToc: true
     -Site customization with a custom HTML code
     -Applying a custom font
 
-## 3. Интегрируем платежную систему PaySuper.
+## 4. Интегрируем платежную систему PaySuper.
 
-## 4. Публикуем.
+## 5. Публикуем.
 
     СПИСОК ссылок для SEO, интеграций.

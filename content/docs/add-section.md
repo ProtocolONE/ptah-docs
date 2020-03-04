@@ -1,52 +1,114 @@
 ---
-title: Create a section
+title: Add a section
 bookToc: true
 ---
 
-# Create a section
+# Using ready-made sections
 ***
 
-Ptah builder lets you construct landing pages for games using a series of sections which contain different web-elements.
-On the left panel you can select desired sections and their properties.
-After you make a change the preview area will update and you can edit a content of the inserted section.
+The Ptah Builder allows you to create and adjust the content of your web-page and automatically saves all changes.
 
-Each section is designed to emphasize a different aspect of your game.
+The sidebar on the left gives you access to all web-elements of your landing page. We call this the Settings Panel.
+The Settings Panel allows you to view and adjust the Properties of any object you have already added.
+You can learn more about [objects properties](/docs/edit-section).
 
-You can build your page from a wide range of pre-designed sections:
+After you make a change on the Settings Panel the content on the right on the Preview Area will be updated. 
 
-    Header
-    Footer
-    Main Screen
-    Products
-    и т.д.
+## Add a new section
 
-## How to add a new section
-
-1. On the left panel select a desired section from the preview thumbs list.
-2. Now you can change the entire content of the selected section on the preview area.
+1. On the Settings Panel click on the **Add section icon** and select a desired section from the preview thumbs list.
+2. Now you can [change the entire content](/docs/edit-section) of the selected section on the Preview Area.
 
 {{< figure src="/images/add-section.gif">}}
 
-## Sections properties
+## Adjust section properties
 
-    ССЫЛКА на раздел background и alignment
+You can build your page from a wide range of pre-designed sections.
+Each section is designed to emphasize a different aspect of your video game.
+To edit a section, you can hover over a section and click the **Settings icon** that will be appeared to the upper right of the editable section.
 
-    Уникальные свойства каждой секции:
+[Learn about background, alignment and size properties.](TODO)
 
-    Header and Footer
-    First Screen
-    Slider
-    Galleries
-    Columns
-    Forms
+### **Main sections**
 
-## Change the order of sections
+{{< tabs "sections-main" >}}
+{{< tab "HEADER" >}}
+- **Sticky position** - creates a fixed (sticky) header on scroll.
 
-    1.
-    2.
+TODO картинка с готовыми настройками
+{{< figure src="/images/tmp.png">}}
+{{< /tab >}}
+{{< tab "FORMS" >}}
+- **Form integrations** - TODO
 
-## Removing a content
+TODO картинка с готовыми настройками
+{{< figure src="/images/tmp.png">}}
+{{< /tab >}}
+{{< /tabs >}}
 
-    remove a section
-    remove a slot
-    remove an element
+### **Sections for graphics**
+
+{{< tabs "sections-images-video" >}}
+{{< tab "SLIDER" >}}
+- **Number of slides in the banner** - from 2 to 6 slides available.
+- **Show/hide pagination** - TODO
+- **Pagination color** - TODO
+- **Nav bullets size** - TODO
+- **Show/hide navigation arrows** - TODO
+- **Navigation color** - TODO
+- **Autoplay** - TODO
+- **Transition delay (ms)** - TODO
+
+TODO картинка с готовыми настройками
+{{< figure src="/images/tmp.png">}}
+{{< /tab >}}
+{{< tab "GALLERIES (Carousel)" >}}
+- **Image** - TODO
+- **Show/hide pagination** - TODO
+- **Pagination color** - TODO
+- **Nav bullets size** - TODO
+- **Show/hide navigation arrows** - TODO
+- **Navigation color** - TODO
+- **Autoplay** - TODO
+
+TODO картинка с готовыми настройками
+{{< figure src="/images/tmp.png">}}
+{{< /tab >}}
+{{< /tabs >}}
+
+## Change sections order
+
+To change sections order, drag and drop a section on the Settings Panel.
+
+TODO animation
+{{< figure src="/images/add-section.gif">}}
+
+## Remove a content from the page
+
+On hover over any object on the page you can view a **Deletion icon** at the top-right object's corner.
+
+### Remove a section
+
+To remove a section, hover over and click on the **Deletion icon** on the Preview Area or click the **Bucket icon** at the end of the section title on the Settings Panel.
+
+TODO АНИМАЦИЯ
+{{< figure src="/images/add-section.gif">}}
+
+### Remove an element
+
+To remove an element from a section, hover over and click on the **Deletion icon** on the Preview Area.
+
+TODO АНИМАЦИЯ
+{{< figure src="/images/add-section.gif">}}
+
+***
+
+## Next steps
+
+### TODO Edit a section content and properties
+### TODO Accept payments
+### TODO Preview and publish
+
+***
+
+{{< questions >}}{{< questions-text >}}{{< /questions-text >}}{{< /questions >}}
