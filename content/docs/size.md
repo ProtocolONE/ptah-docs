@@ -1,25 +1,84 @@
 ---
-title: Edit indents and size
+title: Size and spacing
 bookToc: true
 ---
 
-# Edit indents and size of web-elements
+# Spacing on the page
 ***
 
-## Section indents
+Creating extra spaces around elements makes analysing a landing page content more comfortable. 
+Spacing helps your users increase focus on your content, and in turn, increases conversions.
 
-## Slot indents
+TODO картинка
+{{< figure class="center" src="/images/img1.png">}}
 
-## Section size
+The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. 
+Look at the the one of the Ptah section with the default spacing: 
 
-    1 vh is equivalent To 1% of the height of the browser window
+TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
 
-## Slot size
+{{< figure class="center" src="/images/img2.png">}}
 
-    width (columns)
+Any element on your page can have spacing that immediately surrounds the element within the border (the padding) and outside the border (the margin).
 
-## Element indents
+{{< figure class="center" src="/images/spacing.png">}}
 
-## Element size
+You can customize padding and margin of any element. 
+To edit indents for a section or block, hover over and click the **Settings icon** at the top-right. 
+You can update an element's indents right on the Setting Panel after selecting the element.
 
-    Resizing tool (синяя обводка вокруг элемента)
+# Size settings and units
+
+## Section
+
+A section width is set automatically to the full screen on every device.
+
+You can adjust the section height:
+
+TODO картинка настроек высоты в панели настроек
+
+- **Auto**
+    
+    A section height is set automatically depending on the default indents and its elements sizes.
+    
+- **Viewport Height**
+    
+    You can specify the height in relative terms using viewport-height (vh) 
+    where 1 vh is equivalent to 1% of the height of the browser window.
+    
+- **Pixels**
+    
+    You can specify the height in absolute terms using pixel values (px).
+    
+
+## Text
+
+[Set up the default text settings on the Fonts Settings](TODO).
+
+To customize a text size, double-click on the it and adjust the font size in pixels (px) on the Setting Panel.
+
+TODO анимация с размером шрифта
+
+## Others
+
+You can customize the size of elements in the Settings Panel.
+
+TODO картинка с настройками размера в панели настроек
+
+More than that, you can change size on the Preview Area clicking on the element and stretching the Resizing tool rectangle.
+
+TODO анимация изменения размера элемента кнопки или картинки
+
+***
+
+{{< hint info >}}
+**Next steps**
+{{< /hint >}}
+
+- TODO Fonts
+- TODO Align content
+- TODO Background image and video
+
+***
+
+{{< questions >}}{{< questions-text >}}{{< /questions-text >}}{{< /questions >}}
