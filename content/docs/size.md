@@ -55,7 +55,7 @@ TODO картинка настроек высоты в панели настро
 
 [Set up the default text settings on the Fonts Settings](TODO).
 
-To customize a text size, double-click on the it and adjust the font size in pixels (px) on the Setting Panel.
+To customize a text size, double-click on it and adjust the font size in pixels (px) on the Settings Panel.
 
 TODO анимация с размером шрифта
 
@@ -65,7 +65,7 @@ You can customize the size of elements in the Settings Panel.
 
 TODO картинка с настройками размера в панели настроек
 
-More than that, you can change size on the Preview Area clicking on the element and stretching the Resizing tool rectangle.
+More than that, you can change size on the Preview Area clicking on the element and stretching the **Resizing tool rectangle**.
 
 TODO анимация изменения размера элемента кнопки или картинки
 
