@@ -28,6 +28,7 @@ To edit indents for a section or block, hover over and click the **Settings icon
 You can update an element's indents right on the Setting Panel after selecting the element.
 
 # Size settings and units
+***
 
 ## Section
 

@@ -14,16 +14,19 @@ TODO КАРТИНКА лучше слайдер для секции, блока 
 {{< figure src="/images/tmp.png">}}
 
 # Adjust block properties
+***
 
 TODO ??? уникальные св-ва блока - это же тоже самое, что св-ва секции, только вынесены отдельно.
 
 [Learn about background, alignment and size properties.](TODO)
 
 # Add an element to the section
+***
 
 To add an element to the section, hover over a block where you want to add a new element and click on the **Add element icon** on the Preview Area.
 
 # Adjust element properties
+***
 
 To customize element properties, select the element by click and press the **Edit icon** on the Preview Area.
 
