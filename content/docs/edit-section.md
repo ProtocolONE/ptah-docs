@@ -1,14 +1,14 @@
 ---
-title: Edit a section content
+title: Edit section content
 bookToc: true
 ---
 
 # On-page editing
 ***
 
-The Ptah Builder makes editing pretty intuitive. You can change the content and its properties right on the page in the Preview Area and everything will be automatically saved.
+Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 
-On hover over a Block or an Element you can view a functional icons: Edit Properties, .
+On hover over a Block or an Element, you can view functional icons: Edit Properties.
 
 TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками
 {{< figure src="/images/tmp.png">}}
@@ -23,12 +23,12 @@ TODO ??? уникальные св-ва блока - это же тоже сам
 # Add an element to the section
 ***
 
-To add an element to the section, hover over a block where you want to add a new element and click on the **Add element icon** on the Preview Area.
+To add an element to the section, hover over a block where you want to add a new element and click on the **Add element icon** in Preview Area.
 
 # Adjust element properties
 ***
 
-To customize element properties, select the element by click and press the **Edit icon** on the Preview Area.
+To customize element properties, select the element and press the **Edit icon** in Preview Area.
 
 ## **Text**
 
