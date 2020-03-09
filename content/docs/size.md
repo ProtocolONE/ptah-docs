@@ -23,8 +23,12 @@ Any element on your page can have spacing that immediately surrounds the element
 {{< figure class="center" src="/images/spacing.png">}}
 
 You can customise the padding and margin of any element. 
-To edit indents for a section or a block, hover over and click the **Settings icon** at the top-right. 
+
+{{< hint >}}
+To edit indents for a section or a block, hover over and click the **Settings icon** at the top-right.
+
 You can update an element's indents right on Settings Panel after selecting the element.
+{{< /hint >}}
 
 # Size settings and units
 ***
@@ -49,7 +53,16 @@ TODO картинка настроек высоты в панели настро
 - **Pixels**
     
     You can specify the height in absolute terms using pixel values (px).
-    
+
+## Make full screen section
+
+You can use a powerful visual effect to make a full screen version of page: just set the height of every section to fit the whole height of the browser window and replace scrolling with slider controls.
+
+TODO анимация слайдера
+
+{{< hint >}}
+To set up a full screen version, click the **Settings icon** on the top menu and turn on the **Full page scroll** option on the **Visual tab**.
+{{< /hint >}}
 
 ## Text
 
@@ -65,7 +78,9 @@ You can customize the size of elements in Settings Panel.
 
 TODO картинка с настройками размера в панели настроек
 
+{{< hint >}}
 More than that, you can change the size in Preview Area by clicking on the element and stretching the **Resizing tool rectangle**.
+{{< /hint >}}
 
 TODO анимация изменения размера элемента кнопки или картинки
 
