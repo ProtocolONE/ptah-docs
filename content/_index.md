@@ -6,9 +6,9 @@ type: docs
 # Promote your game using Ptah
 ***
 
-[Ptah Builder](https://ptah.super.com) is the easy-to-use open-source landing page builder for video games without any coding.
+[Ptah Builder](https://ptah.super.com) is an easy-to-use open-source tool to build landing pages for video games without any coding.
 
-Ptah provides you with all the features you need to promote your game, exactly how you want it to be seen.
+Ptah provides you with all the features you need to promote your game.
 
 TODO: КАРТИНКА СЕРВИСА или анимация как быстро делается лэндинг из готовых модулей
 
@@ -16,7 +16,7 @@ TODO: КАРТИНКА СЕРВИСА или анимация как быстр�
 
 ## Build the responsive landing page you want
 
-Ptah is created specifically for responsive design. You can super-easy ensure your landing page looks and performs perfectly on every device. 
+Ptah naturally creates responsive web pages. It is super-easy to ensure your landing page looks and performs perfectly on any device, mobile or desktop. 
 
 TODO: АНИМАЦИЯ переключение между desktop, tablet, mobile views
 
@@ -25,7 +25,7 @@ TODO: АНИМАЦИЯ переключение между desktop, tablet, mobi
 You can make your landing page using ready-made modules and view the result in the real-time preview area.
 No coding skills required.
 
-Build your landing page for a video game out of professionally designed blocks for system requirements, your products list and others.
+Build your landing page for a video game with professionally designed blocks of functionality, including system requirements, your products list and others.
 
 ## Boost your paying conversion rate
 

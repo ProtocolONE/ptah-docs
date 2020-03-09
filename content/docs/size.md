@@ -6,33 +6,32 @@ bookToc: true
 # Spacing on the page
 ***
 
-Creating extra spaces around elements makes analysing a landing page content more comfortable. 
-Spacing helps your users increase focus on your content, and in turn, increases conversions.
+You can create extra space around elements to helps your users focus on the content, what may increases conversions.
 
 TODO картинка
 {{< figure class="center" src="/images/img1.png">}}
 
 The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. 
-Look at the the one of the Ptah section with the default spacing: 
+This is how one of Ptah sections with default spacing looks like: 
 
 TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
 
 {{< figure class="center" src="/images/img2.png">}}
 
-Any element on your page can have spacing that immediately surrounds the element within the border (the padding) and outside the border (the margin).
+Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).
 
 {{< figure class="center" src="/images/spacing.png">}}
 
-You can customize padding and margin of any element. 
-To edit indents for a section or block, hover over and click the **Settings icon** at the top-right. 
-You can update an element's indents right on the Setting Panel after selecting the element.
+You can customise the padding and margin of any element. 
+To edit indents for a section or a block, hover over and click the **Settings icon** at the top-right. 
+You can update an element's indents right on Settings Panel after selecting the element.
 
 # Size settings and units
 ***
 
 ## Section
 
-A section width is set automatically to the full screen on every device.
+The section's width is set to full screen automatically on every device.
 
 You can adjust the section height:
 
@@ -40,7 +39,7 @@ TODO картинка настроек высоты в панели настро
 
 - **Auto**
     
-    A section height is set automatically depending on the default indents and its elements sizes.
+    The section's height is set automatically depending on the default indents and its elements sizes.
     
 - **Viewport Height**
     
@@ -54,19 +53,19 @@ TODO картинка настроек высоты в панели настро
 
 ## Text
 
-[Set up the default text settings on the Fonts Settings](TODO).
+[Set up the default text settings in Fonts Settings](TODO).
 
-To customize a text size, double-click on it and adjust the font size in pixels (px) on the Settings Panel.
+To customise the text size, double-click on it and adjust the font size in pixels (px) in Settings Panel.
 
 TODO анимация с размером шрифта
 
 ## Others
 
-You can customize the size of elements in the Settings Panel.
+You can customize the size of elements in Settings Panel.
 
 TODO картинка с настройками размера в панели настроек
 
-More than that, you can change size on the Preview Area clicking on the element and stretching the **Resizing tool rectangle**.
+More than that, you can change the size in Preview Area by clicking on the element and stretching the **Resizing tool rectangle**.
 
 TODO анимация изменения размера элемента кнопки или картинки
 

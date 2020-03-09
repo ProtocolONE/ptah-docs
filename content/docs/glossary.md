@@ -8,8 +8,11 @@
 # Ptah Editor:
 ***
 
-- **the Navigation Panel** - the sidebar on the left with the settings menu
-- **the Settings Panel** - the sidebar on the left with the Sections list and the elements properties
+- **Navigation Panel** - a sidebar on the left with the settings menu
+- **Settings Panel** - a sidebar on the left with the Sections list and the elements properties
+- **Preview Area** - a preview area for content
+- **the Resizing tool rectangle**
+- **the Settings icon**
 
 # Ptah Dashboard: 
 ***
