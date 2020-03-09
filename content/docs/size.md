@@ -54,7 +54,7 @@ TODO картинка настроек высоты в панели настро
     
     You can specify the height in absolute terms using pixel values (px).
 
-## Make full screen section
+## Make a full screen section
 
 You can use a powerful visual effect to make a full screen version of page: just set the height of every section to fit the whole height of the browser window and replace scrolling with slider controls.
 
