@@ -23,7 +23,7 @@ To edit a section background, you need to open Settings Panel to adjust Properti
 TODO image
 
 {{< hint >}}
-To adjust a page background, click the **Settings icon** on the top menu and open the Visual tab.
+To adjust a page background, click the **Settings icon** on the top menu and choose the Visual tab.
 {{< /hint >}}
 
 TODO image
@@ -54,7 +54,7 @@ click the **Background icon** on hover the section in Preview Area (or use the s
 TODO анимация
 
 {{< hint >}}
-Moreover you can use an image as a background for the whole page: click the **Settings icon** on the top menu and open the Visual tab and upload the image using the Upload Image button or enter the link to the image resource.
+Moreover you can use an image as a background for the whole page: click the **Settings icon** on the top menu and choose the Visual tab and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
 TODO картинка
