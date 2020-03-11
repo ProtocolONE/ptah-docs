@@ -12,7 +12,7 @@ headless: true
   - [Edit a section content]({{< relref "/docs/edit-section" >}})
   - [Size and spacing]({{< relref "/docs/size" >}})
   - [Content alignment]({{< relref "/docs/align" >}})
-  - [Background image and video]({{< relref "/docs/background" >}})
+  - [Background]({{< relref "/docs/background" >}})
   - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
   - [Search Engine Optimization]({{< relref "/" >}})

@@ -9,6 +9,7 @@ bookToc: true
 There are several ways to fill a page or section background:
 
 - [Color fill](#color-fill-and-opacity)
+- [Gradient](#gradient)
 - [Image background](#image-background)
 - [Fullscreen video background](#full-screen-video-background)
 - [Color overlay](#add-a-color-overlay-to-a-background)
@@ -31,24 +32,39 @@ TODO image
 # Color fill and opacity
 
 {{< hint >}}
-To add a solid color, open settings of a section and click on the Color in Settings Panel. 
+To add a solid color, open settings of the section (or block) and click on the Color in Settings Panel. 
 Now you can pick the color in the Color Picker.
 {{< /hint >}}
 
-Changing the opacity in the Color Picker makes your background color partly opaque.
-
-TODO image с полупрозрачностью
+{{< hint warning >}}
+- Checking the opacity in the Color Picker changes your background color from transparent to solid. To get a solid color, check the opacity at 100%.
+- To view the color background, examine that there is no image or video background and the overlay color set at 0%.
+{{< /hint >}}
+TODO image с полупрозрачностью и значениями настроек или анимация
 
 You can make the same steps to apply a color to the whole page on the Page Setting in the Visual tab.
+
+# Gradient
+
+Increase the visual appeal with the use of gradients.
+
+{{< hint >}}
+To add a color gradient, open the section (or block) properties on Settings Panel and press the **Plus icon** to add new color.
+{{< /hint >}}
+
+TODO анимация
+
+{{< hint warning >}}
+- It's possible to add up to 4 colors to the linear gradient.
+- Adjust the colors opacity to make a solid or transparent gradient background.
+{{< /hint >}}
 
 # Image background
 
 ## Add a background to the section
 
 {{< hint >}}
-A background image can be uploaded to each section:
-
-click the **Background icon** on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section title) and upload the image using the Upload Image button or enter the link to the image resource.
+To insert a background image to the section, click the **Background icon** on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
 TODO анимация
@@ -64,7 +80,7 @@ Set the position of the background image:
 - **Left** - moves an image horizontally.
 - **Top** - moves an image vertically.
 
-{{< hint >}}
+{{< hint warning >}}
 To center an image, click on the round icon at the center of the preview image area in Settings Panel.
 {{< /hint >}}
 TODO анимация
