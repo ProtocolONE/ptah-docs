@@ -61,10 +61,10 @@ TODO анимация
 
 # Image background
 
-## Add a background to the section
+## Add a background to the section or block
 
 {{< hint >}}
-To insert a background image to the section, click the **Background icon** on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
+To insert a background image to the section (or block), click the **Background icon** on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
 TODO анимация
