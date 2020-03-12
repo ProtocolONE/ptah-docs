@@ -14,6 +14,8 @@ There are several ways to fill a page or section background:
 - [Fullscreen video background](#full-screen-video-background)
 - [Color overlay](#add-a-color-overlay-to-a-background)
 
+## A section background settings
+
 {{< hint >}}
 To edit a section background, you need to open Settings Panel to adjust Properties:
 
@@ -22,6 +24,20 @@ To edit a section background, you need to open Settings Panel to adjust Properti
 {{< /hint >}}
 
 TODO image
+
+## Background of multiple sections
+
+Grouping sections helps you to make the same background for all child sections.
+
+{{< hint >}}
+To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click on the **Group selected button**.
+{{< /hint >}}
+
+Now you can set a background of the group clicking on the **Image icon** at the end of the group's name. The group background replaces their child sections' backgrounds.
+
+TODO image
+
+## A page background settings
 
 {{< hint >}}
 To adjust a page background, click the **Settings icon** on the top menu and choose the Visual tab.
