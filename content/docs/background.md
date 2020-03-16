@@ -15,37 +15,41 @@ There are several ways to fill a page or section background:
 - [Color overlay](#add-a-color-overlay-to-a-background)
 
 ## A section background settings
+***
 
 {{< hint >}}
 To edit a section background, you need to open Settings Panel to adjust Properties:
 
-- click the **Background icon** on hover over the section in Preview Area.
+- click the Background icon on hover over the section in Preview Area.
 - or click the same icon on Settings Panel at the end of the section's title.
 {{< /hint >}}
 
 TODO image
 
 ## Background of multiple sections
+***
 
 Grouping sections helps you to make the same background for all child sections.
 
 {{< hint >}}
-To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click on the **Group selected button**.
+To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click on the Group selected button.
 {{< /hint >}}
 
-Now you can set a background of the group clicking on the **Image icon** at the end of the group's name. The group background replaces their child sections' backgrounds.
+Now you can set a background of the group clicking on the Image icon at the end of the group's name. The group background replaces their child sections' backgrounds.
 
 TODO image
 
 ## A page background settings
+***
 
 {{< hint >}}
-To adjust a page background, click the **Settings icon** on the top menu and choose the Visual tab.
+To adjust a page background, click the Settings icon on the top menu and choose the Visual tab.
 {{< /hint >}}
 
 TODO image
 
-# Color fill and opacity
+## Color fill and opacity
+***
 
 {{< hint >}}
 To add a solid color, open settings of the section (or block) and click on the Color in Settings Panel. 
@@ -60,12 +64,13 @@ TODO image с полупрозрачностью и значениями нас�
 
 You can make the same steps to apply a color to the whole page on the Page Setting in the Visual tab.
 
-# Gradient
+## Gradient
+***
 
 Increase the visual appeal with the use of gradients.
 
 {{< hint >}}
-To add a color gradient, open the section (or block) properties on Settings Panel and press the **Plus icon** to add new color.
+To add a color gradient, open the section (or block) properties on Settings Panel and press the Plus icon to add new color.
 {{< /hint >}}
 
 TODO анимация
@@ -75,18 +80,20 @@ TODO анимация
 - Adjust the colors opacity to make a solid or transparent gradient background.
 {{< /hint >}}
 
-# Image background
+## Image background
+***
 
-## Add a background to the section or block
+### Add a background to the section or block
+***
 
 {{< hint >}}
-To insert a background image to the section (or block), click the **Background icon** on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
+To insert a background image to the section (or block), click the Background icon on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
 TODO анимация
 
 {{< hint >}}
-Moreover you can use an image as a background for the whole page: click the **Settings icon** on the top menu and choose the Visual tab and upload the image using the Upload Image button or enter the link to the image resource.
+Moreover you can use an image as a background for the whole page: click the Settings icon on the top menu and choose the Visual tab and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
 TODO картинка
@@ -110,7 +117,8 @@ Configure the display of the image:
 - **Cover** - displays the image at the full width of the section. This mode increases or decrease the width of the picture to fit the width of the browser window. To set the image vertical position, adjust the Top parameter value.
 - **Stretch** - displays the image at the full height of the section. This mode may affect image quality because this mode increases or decrease the height of the picture to fit the height of the section. To set the image horizontal position, adjust the Left parameter value.
 
-## Add a background to the page
+### Add a background to the page
+***
 
 You can adjust visual parameters of the page background:
 
@@ -118,7 +126,8 @@ You can adjust visual parameters of the page background:
     TODO картинка
 - **Fixed while scrolling** - on scroll the foreground content of the page moves but the background image has a fixed position.
 
-## Recommended image parameters
+### Recommended image parameters
+***
 
 Formatting your images:
 
@@ -130,7 +139,8 @@ Formatting your images:
 - **Color profile:** sRGB to look right on mobile devices
 - **Resolution:** limit of 60 MP. It is the dimensions multiplication divided by one million.
 
-# Full-screen video background
+## Full-screen video background
+***
 
 You can use a video background for a section or page instead of image.
 
@@ -146,7 +156,8 @@ To add a video background to the page, open the Page Settings and upload a video
 
 TODO image
 
-## Recommended video parameters
+### Recommended video parameters
+***
 
 - **Name:** only use letters, numbers, underscores, and hyphens
 - **Format:** mp4
@@ -154,7 +165,8 @@ TODO image
 - **Frame rate:** around 25 frames per second (fps)
 - **Resolution :** 720p, which is 1280 x 720 pixels
 
-# Add a color overlay to a background
+## Add a color overlay to a background
+***
 
 Apply a color over an image or video to make a background more contrast for the foreground elements. It helps to make a text more readable on the image or video.
 

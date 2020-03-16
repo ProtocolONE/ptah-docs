@@ -3,7 +3,7 @@ title: Add a section
 bookToc: true
 ---
 
-# Using ready-made sections
+# Create a page using ready-made sections
 ***
 
 Ptah Builder allows you to create and adjust the content of your web-page and automatically saves all changes.
@@ -14,30 +14,32 @@ You can learn more about [objects properties](/docs/edit-section).
 
 After you make a change on Settings Panel the content on the right on Preview Area will be updated. 
 
-# Add a new section
+## Add a new section
+***
 
 {{< hint >}}
-Click the **Add section icon** on Settings Panel and select a desired section from the preview thumbs list.
+Click the Add section icon on Settings Panel and select a desired section from the preview thumbs list.
 
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
 
 {{< figure src="/images/add-section.gif">}}
 
-# Adjust section properties
+## Adjust section properties
+***
 
 You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
 
 {{< hint >}}
-To edit a section, you can hover over a section and click the **Settings icon** that will be appeared to the upper right of the editable section.
+To edit a section, you can hover over a section and click the Settings icon that will be appeared to the upper right of the editable section.
 
 [Set up the size and spacing.](/docs/size)
 
 [Learn about background properties.](TODO)
 {{< /hint >}}
 
-## **Main sections**
+**Main sections**
 
 {{< tabs "sections-main" >}}
 {{< tab "HEADER" >}}
@@ -54,7 +56,7 @@ TODO картинка с готовыми настройками
 {{< /tab >}}
 {{< /tabs >}}
 
-## **Sections for graphics**
+**Sections for graphics**
 
 {{< tabs "sections-images-video" >}}
 {{< tab "SLIDER" >}}
@@ -84,7 +86,8 @@ TODO картинка с готовыми настройками
 {{< /tab >}}
 {{< /tabs >}}
 
-# Change sections order
+## Change sections order
+***
 
 {{< hint >}}
 To change the sections order, drag and drop a section on Settings Panel.
@@ -93,23 +96,26 @@ To change the sections order, drag and drop a section on Settings Panel.
 TODO animation
 {{< figure src="/images/add-section.gif">}}
 
-# Remove content from the page
+## Remove content from the page
+***
 
-On hover over any object on the page, you can view a **Deletion icon** at the top-right object's corner.
+On hover over any object on the page, you can view a Deletion icon at the top-right object's corner.
 
-## Remove a section
+### Remove a section
+***
 
 {{< hint >}}
-To remove a section, hover over and click on the **Deletion icon** on Preview Area or click the **Bucket icon** at the end of the section title on Settings Panel.
+To remove a section, hover over and click on the Deletion icon on Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
 {{< /hint >}}
 
 TODO АНИМАЦИЯ
 {{< figure src="/images/add-section.gif">}}
 
-## Remove an element
+### Remove an element
+***
 
 {{< hint >}}
-To remove an element from a section, hover over and click on the **Deletion icon** on Preview Area.
+To remove an element from a section, hover over and click on the Deletion icon on Preview Area.
 {{< /hint >}}
 
 TODO АНИМАЦИЯ

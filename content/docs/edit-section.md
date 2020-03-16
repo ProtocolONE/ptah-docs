@@ -13,26 +13,27 @@ On hover over a Block or an Element, you can view an icon to set properties at t
 TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками
 {{< figure src="/images/tmp.png">}}
 
-# Adjust block properties
+## Adjust block properties
 ***
 
 [Set up the size and spacing.](/docs/size)
 
-# Add an element to the section
+## Add an element to the section
 ***
 
 {{< hint >}}
-To add an element to the section, hover over a block where you want to add a new element and click on the **Add element icon** in Preview Area.
+To add an element to the section, hover over a block where you want to add a new element and click on the Add element icon in Preview Area.
 {{< /hint >}}
 
-# Adjust element properties
+## Adjust element properties
 ***
 
 {{< hint >}}
-To customise element properties, select the element by click and press the **Edit icon** on Preview Area.
+To customise element properties, select the element by click and press the Edit icon on Preview Area.
 {{< /hint >}}
 
-## **Text**
+### **Text**
+***
 
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
@@ -68,7 +69,8 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-## **Buttons and Icons**
+### **Buttons and Icons**
+***
 
 {{< tabs "elements-buttons-icons" >}}
 {{< tab "BUTTON" >}}
@@ -83,7 +85,8 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-## **Images and Videos**
+### **Images and Videos**
+***
 
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
@@ -105,7 +108,8 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-## **Game parameters**
+### **Game parameters**
+***
 
 {{< tabs "elements-game" >}}
 {{< tab "AVAILABLE PLATFORMS" >}}
@@ -120,7 +124,8 @@ TODO image
 {{< /tab >}}
 {{< /tabs >}}
 
-## **HTML elements**
+### **HTML elements**
+***
 
 {{< tabs "elements-html" >}}
 {{< tab "SPACER" >}}

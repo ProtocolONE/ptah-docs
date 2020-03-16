@@ -25,15 +25,16 @@ Any element on your page can have spacing that immediately surrounds the element
 You can customise the padding and margin of any element. 
 
 {{< hint >}}
-To edit indents for a section or a block, hover over and click the **Settings icon** at the top-right.
+To edit indents for a section or a block, hover over and click the Settings icon at the top-right.
 
 You can update an element's indents right on Settings Panel after selecting the element.
 {{< /hint >}}
 
-# Size settings and units
+## Size settings and units
 ***
 
-## Section
+### Section size
+***
 
 The section's width is set to full screen automatically on every device.
 
@@ -54,17 +55,19 @@ TODO картинка настроек высоты в панели настро
     
     You can specify the height in absolute terms using pixel values (px).
 
-## Make a full-screen section
+### Make a full-screen section
+***
 
 You can use a powerful visual effect to make a full-screen version of the page: set the height of every section to fit the whole height of the browser window and replace scrolling with slider controls.
 
 TODO анимация слайдера
 
 {{< hint >}}
-To set up a full screen version, click the **Settings icon** on the top menu and turn on the **Full page scroll** option on the **Visual tab**.
+To set up a full screen version, click the Settings icon on the top menu and turn on the Full page scroll option on the Visual tab.
 {{< /hint >}}
 
-## Text
+### Text
+***
 
 [Set up the default text settings in Fonts Settings](TODO).
 
@@ -72,14 +75,15 @@ To customise the text size, double-click on it and adjust the font size in pixel
 
 TODO анимация с размером шрифта
 
-## Others
+### Others
+***
 
 You can customize the size of elements in Settings Panel.
 
 TODO картинка с настройками размера в панели настроек
 
 {{< hint >}}
-More than that, you can change the size in Preview Area by clicking on the element and stretching the **Resizing tool rectangle**.
+More than that, you can change the size in Preview Area by clicking on the element and stretching the Resizing tool rectangle.
 {{< /hint >}}
 
 TODO анимация изменения размера элемента кнопки или картинки

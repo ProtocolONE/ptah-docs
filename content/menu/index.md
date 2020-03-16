@@ -15,7 +15,7 @@ headless: true
   - [Background]({{< relref "/docs/background" >}})
   - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
-  - [Search Engine Optimization]({{< relref "/" >}})
+  - [Search Engine Optimization]({{< relref "/docs/seo" >}})
   - [Open Graph]({{< relref "/" >}})
   - [Cookies]({{< relref "/" >}})
   - [Javascipt and CSS]({{< relref "/" >}})
