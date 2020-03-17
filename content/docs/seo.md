@@ -3,7 +3,7 @@ title: Search engine optimization
 bookToc: true
 ---
 
-# SEO for your gaming landing page
+# SEO checklist for your gaming landing page
 ***
 
 The best SEO strategies help you to increase organic traffic and rankings in search engines.
@@ -16,12 +16,9 @@ TODO картинка
 {{< figure class="center" src="/images/img3.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
-We recommend to use Ptah Builder Settings to adjust SEO parameters of your landing page.
+We recommend to use Ptah Settings to adjust SEO parameters of your landing page.
 
 To achieve the goals of your landing page you can follow this checklist:
-
-## SEO Checklist with examples
-***
 
 **For the web page URLs:**
 
@@ -31,8 +28,8 @@ To achieve the goals of your landing page you can follow this checklist:
 
 **For the web page descriptions:**
 
-- [Create Title Tag](#create-title-tag)
-- [Create meta description](#create-meta-description)
+- [Add a page title](#add-a-page-title)
+- [Add a page description](#add-a-page-description)
 - [Upload a favicon](#define-a-favicon-to-show-in-search-results)
 
 **For typography:**
@@ -42,7 +39,7 @@ To achieve the goals of your landing page you can follow this checklist:
 
 **For links:**
 
-- [Connect to social media](#connect-to-social-media)
+- [Social media links](#social-media-links)
 
 **For images and videos:**
 
@@ -50,15 +47,9 @@ To achieve the goals of your landing page you can follow this checklist:
 
 **After you launched the landing page:**
 
-- [Verify your site with Google Search Console](#)
-- [Index your site by Google](#)
-- [Verify your site with Bing Webmaster Tools](#)
-- [Follow Google Analytics](#)
+- [Verify and index your site](#verify-your-site-with-google-search-console)
 
-## The SEO-Friendly URL Structure
-***
-
-### Choose the right domain name
+## Choose the right domain name
 ***
 
 First of all, the domain name must be easy-to-read and brandable. 
@@ -69,7 +60,7 @@ For this reason, keywords that are relevant to your game should appear somewhere
 **For example:**
 Your company name is WonderWorld, thus the domain for a game can be like wonderworldgames.com.
 
-### Set up the secure protocol HTTPS
+## Set up the secure protocol HTTPS
 ***
 
 Start using HTTPS because this protocol uses an SSL certificate to move data. It gives your users peace of mind when sharing potentially sensitive data on a website.
@@ -79,7 +70,7 @@ Moreover, at the Chrome browser’s alerting system looks more reliable for user
 TODO image
 {{< figure class="center" src="/images/img4.png">}}
 
-### Keep reader-friendly URLs
+## Keep reader-friendly URLs
 ***
 
 - **Keep URL short**
@@ -95,20 +86,17 @@ Google recommends using hyphens (-) instead of underscores (_) in your URLs.
 
 Search engines can decrypt from uppercase and lowercase letters in URLs, which can lead to duplicate URLs and loss of page rank.
 
-## The essential meta data
+## Add a page title
 ***
 
-### Create Title Tag
-***
-
-The meta title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
+The title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
 Remember, title appears in search engines and the Web browser’s title bar.
 
 **For example:**
 TODO EXAMPLE CODE, TODO SERP IMAGE
 
 {{< hint >}}
-To add a title, click the Settings icon on the top menu. Choose the SEO tab to enter a title text and click Save.
+To add a page title, click the Settings icon on the top menu. Choose the SEO tab to enter a title text and click Save.
 {{< /hint >}}
 
 - **The recommended format for the title is: Primary Keyword – Secondary Keyword | Brand**
@@ -126,10 +114,10 @@ Include the page’s primary keyword in both tags. Each page title should be abs
 
 It's not a character limit, but you can take into account, that the title length in search results depends on the display width.
 
-### Create meta description
+## Add a page description
 ***
 
-The meta description provides a summary of a web page. Search engines such often display the meta description in search results.
+The page description provides a summary of a web page. Search engines such often display the page description in search results.
 
 **For example:**
 TODO EXAMPLE CODE, TODO SERP IMAGE
@@ -145,11 +133,11 @@ It's not a character limit, but you can take into account, that the description 
 
 - **Don't include double quotation marks**
 
-It's recommended to remove all non-alphanumeric characters from meta descriptions to prevent removing the description from search results.
+It's recommended to remove all non-alphanumeric characters from descriptions to prevent removing the description from search results.
 
 - **Each page descriptions should be absolutely unique**
 
-### Define a favicon to show in search results
+## Define a favicon to show in search results
 ***
 
 Favicon is a visual representation of your website's brand on browser tabs and in search results. 
@@ -165,80 +153,78 @@ Recommended favicon parameters:
 - **Format:** ico, bmp, png
 - **Size:** 32x32 px
 
-## Optimizing the text content of your pages
-***
-
-### Structure your pages with headings
+## Structure your pages with headings
 ***
 
 Search engines typically give headings a higher priority. Hence, use subheaders to break up sections: H2, H3 and so on till H6. So, you can use them to insert your primary keyword in H2 and others keywords in H3 and etc.
 
-{{< hint >}}
 [You can use Ptah Settings to set up fonts for headings and text.](/docs/fonts)
-{{< /hint >}}
 
 - **Use only one H1 tag per page**
 - **Use different text in each headings, without duplicates**
 - **Optimize your headings with keywords**
 
-### Make your content skimmable
+## Make your content skimmable
 ***
 
 {{< hint >}}
-You can use Ptah pre-designed sections and elements to organize for content:
+You can use Ptah pre-designed sections and elements to organize content:
 
 - Columns
 - Products
 - System requirements
 - Icon with text
+{{< /hint >}}
+
+TODO images of sections
 
 [Take a look at how to adjust the ready-to-use sections.](/docs/add-section)
 
-{{< /hint >}}
-
-## Connect to social media
+## Social media links
 ***
 
-Encourage people to share your content with their own social networks. It's important to have the optimized page's URL, title and description because their shown in a sharing message.
+Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because their shown in a sharing message.
 
 TODO image
+{{< figure class="center" src="/images/img7.png">}}
 
 {{< hint >}}
-To add social icons with links to any block hover over the block and click on the Add element icon at the top-left. Select the Social networks element and set up desired social icons and enter links.
+To add social icons to any block hover, over the block and click on the Add element icon at the top-left. Select the Social networks element and set up desired social icons and enter links.
+{{< /hint >}}
 
 TODO картинка
 {{< figure class="center" src="/images/img5.png">}}
+
+Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
+
+{{< hint >}}
+To set up Open Graph tags, click the Settings icon on the top menu. Choose the Open Graph tab to enter data and click Save:
+
+- **Title** - the title of your page.
+- **Description** - a brief description of the content. 
+- **Image** - the URL of an image for the social snippet.
+- **Video** - a video file for a social message (if any)
+- **Game URL** - the URL of the content.
+- **Locale** - defines the content language.
+- **Locale: Alternate** - defines the second content language.
 {{< /hint >}}
+
+TODO image
+{{< figure class="center" src="/images/img6.png">}}
 
 ## Optimize visual data
 ***
 
 - **Give your image and video resources readable file names and use keywords**
 - **File name should only contain letters, numbers and hyphens (instead of underscores)**
-- **Add alt attributes to every images and use keywords**
+- **[Keep optimised image size](/docs/background/#recommended-image-parameters)**
+- **[Keep optimised video size](/docs/background/#recommended-video-parameters)**
 
-## After you launched the landing page
+## Verify your site with Google Search Console
 ***
 
-### Verify your site with Google Search Console
-***
-
-
-
-### Index your site by Google
-***
-
-
-
-### Verify your site with Bing Webmaster Tools
-***
-
-
-
-### Follow Google Analytics
-***
-
-
+Google Search Console is a free service that helps you manage your site's presence in Google search results. 
+[Add and verify your site in Google Search Console.](https://search.google.com/search-console/welcome)
 
 ***
 
