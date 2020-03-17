@@ -16,7 +16,7 @@ TODO картинка
 {{< figure class="center" src="/images/img3.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
-We recommend to use Ptah Settings to adjust SEO parameters of your landing page.
+We recommend using Ptah Settings to adjust SEO parameters of your landing page.
 
 To achieve the goals of your landing page you can follow this checklist:
 
@@ -65,7 +65,7 @@ Your company name is WonderWorld, thus the domain for a game can be like wonderw
 
 Start using HTTPS because this protocol uses an SSL certificate to move data. It gives your users peace of mind when sharing potentially sensitive data on a website.
 
-Moreover, at the Chrome browser’s alerting system looks more reliable for user if the website uses HTTPS protocol:
+Moreover, at the Chrome browser’s alerting system looks more reliable for the user if the website uses HTTPS protocol:
 
 TODO image
 {{< figure class="center" src="/images/img4.png">}}
@@ -90,7 +90,7 @@ Search engines can decrypt from uppercase and lowercase letters in URLs, which c
 ***
 
 The title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
-Remember, title appears in search engines and the Web browser’s title bar.
+Remember, the title appears in search engines and the Web browser’s title bar.
 
 **For example:**
 TODO EXAMPLE CODE, TODO SERP IMAGE
@@ -108,7 +108,7 @@ Mobile endless runner – Wild Fastest Animals | WonderWorld
 
 - **Use only one Title Tag and one H1 Header on the web page**
 
-Include the page’s primary keyword in both tags. Each page title should be absolutely unique.
+Include the page’s primary keyword in both tags. Each page title should be unique.
 
 - **Keep your title under 60 characters**
 
@@ -135,13 +135,13 @@ It's not a character limit, but you can take into account, that the description 
 
 It's recommended to remove all non-alphanumeric characters from descriptions to prevent removing the description from search results.
 
-- **Each page descriptions should be absolutely unique**
+- **Each page descriptions should be unique**
 
 ## Define a favicon to show in search results
 ***
 
 Favicon is a visual representation of your website's brand on browser tabs and in search results. 
-That's why, the uploaded favicon leads to the brand recognition in search results.
+That's why the uploaded favicon leads to the brand recognition in search results.
 
 {{< hint >}}
 To upload a favicon, click the Settings icon on the top menu. Choose the SEO tab to upload a favicon and click Save.
@@ -156,7 +156,8 @@ Recommended favicon parameters:
 ## Structure your pages with headings
 ***
 
-Search engines typically give headings a higher priority. Hence, use subheaders to break up sections: H2, H3 and so on till H6. So, you can use them to insert your primary keyword in H2 and others keywords in H3 and etc.
+Search engines typically give headings a higher priority. 
+Hence, use subheaders to break up sections: H2, H3 and so on till H6. So, you can use them to insert your primary keyword in H2 and other keywords in H3, etc.
 
 [You can use Ptah Settings to set up fonts for headings and text.](/docs/fonts)
 
@@ -183,7 +184,7 @@ TODO images of sections
 ## Social media links
 ***
 
-Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because their shown in a sharing message.
+Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because they are displayed in a sharing message.
 
 TODO image
 {{< figure class="center" src="/images/img7.png">}}
