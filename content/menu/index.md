@@ -16,9 +16,9 @@ headless: true
   - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
   - [Search Engine Optimization]({{< relref "/docs/seo" >}})
-  - [Cookies]({{< relref "/" >}})
-  - [Javascipt and CSS]({{< relref "/" >}})
+  - [Cookies]({{< relref "/docs/cookies" >}})
+  - [Javascipt and CSS]({{< relref "/docs/customization.md" >}})
 - **INTEGRATIONS**
-  - [Google Tag]({{< relref "/" >}})
-  - [Google Analytics]({{< relref "/" >}})
-  - [Mailchimp]({{< relref "/" >}})
+  - [Google Tag]({{< relref "/docs/integrations-gt.md" >}})
+  - [Google Analytics]({{< relref "/docs/integrations-ga.md" >}})
+  - [Mailchimp]({{< relref "/docs/integrations-mailchimp.md" >}})

@@ -31,7 +31,7 @@ TODO image
 {{< /hint >}}
 
 - TODO Search Engine Optimization
-- TODO Google Analytics
+- TODO Integration Google Analytics
 
 ***
 

@@ -9,18 +9,18 @@ bookToc: true
 You can create extra space around elements to helps your users focus on the content, what may increases conversions.
 
 TODO картинка
-{{< figure class="center" src="/images/img1.png">}}
+{{< figure src="/images/img1.png">}}
 
 The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. 
 This is how one of Ptah sections with default spacing looks like: 
 
 TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
 
-{{< figure class="center" src="/images/img2.png">}}
+{{< figure src="/images/img2.png">}}
 
 Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).
 
-{{< figure class="center" src="/images/spacing.png">}}
+{{< figure src="/images/spacing.png">}}
 
 You can customise the padding and margin of any element. 
 

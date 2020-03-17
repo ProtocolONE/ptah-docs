@@ -20,14 +20,14 @@ To display elements of a block in one line click on the Row Direction icon.
 {{< /hint >}}
 
 TODO картинка
-{{< figure class="center" src="/images/tmp.png">}}
+{{< figure src="/images/tmp.png">}}
 
 {{< hint >}}
 To display each element of a block on a new line click on the Column Direction icon. 
 {{< /hint >}}
 
 TODO картинка
-{{< figure class="center" src="/images/tmp.png">}}
+{{< figure src="/images/tmp.png">}}
 
 ## Content direction
 ***

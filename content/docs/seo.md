@@ -13,7 +13,7 @@ First of all, you should always keep in touch that your website is designed for 
 **As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.**
 
 TODO картинка
-{{< figure class="center" src="/images/img3.png">}}
+{{< figure src="/images/img3.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
 We recommend using Ptah Settings to adjust SEO parameters of your landing page.
@@ -68,7 +68,7 @@ Start using HTTPS because this protocol uses an SSL certificate to move data. It
 Moreover, at the Chrome browser’s alerting system looks more reliable for the user if the website uses HTTPS protocol:
 
 TODO image
-{{< figure class="center" src="/images/img4.png">}}
+{{< figure src="/images/img4.png">}}
 
 ## Keep reader-friendly URLs
 ***
@@ -187,14 +187,14 @@ TODO images of sections
 Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because they are displayed in a sharing message.
 
 TODO image
-{{< figure class="center" src="/images/img7.png">}}
+{{< figure src="/images/img7.png">}}
 
 {{< hint >}}
 To add social icons to any block hover, over the block and click on the Add element icon at the top-left. Select the Social networks element and set up desired social icons and enter links.
 {{< /hint >}}
 
 TODO картинка
-{{< figure class="center" src="/images/img5.png">}}
+{{< figure src="/images/img5.png">}}
 
 Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
 
@@ -211,7 +211,7 @@ To set up Open Graph tags, click the Settings icon on the top menu. Choose the O
 {{< /hint >}}
 
 TODO image
-{{< figure class="center" src="/images/img6.png">}}
+{{< figure src="/images/img6.png">}}
 
 ## Optimize visual data
 ***
@@ -233,10 +233,9 @@ Google Search Console is a free service that helps you manage your site's presen
 **Next steps**
 {{< /hint >}}
 
-- TODO Mailchimp
-- TODO Google Analytics
+- TODO Integration Mailchimp
+- TODO Integration Google Analytics
 - TODO Accept payments
-- TODO Preview and publish
 
 ***
 
