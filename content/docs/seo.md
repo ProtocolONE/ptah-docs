@@ -12,7 +12,7 @@ First of all, you should always keep in touch that your website is designed for 
 
 **As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.**
 
-TODO картинка
+TODO image Иллюстрация заменить эту картинку на такую же, но в нашем стиле
 {{< figure src="/images/img3.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
@@ -67,7 +67,7 @@ Start using HTTPS because this protocol uses an SSL certificate to move data. It
 
 Moreover, at the Chrome browser’s alerting system looks more reliable for the user if the website uses HTTPS protocol:
 
-TODO image
+TODO image иллюстрация оповещений о протоколе https и http в строке бразера
 {{< figure src="/images/img4.png">}}
 
 ## Keep reader-friendly URLs
@@ -92,8 +92,7 @@ Search engines can decrypt from uppercase and lowercase letters in URLs, which c
 The title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
 Remember, the title appears in search engines and the Web browser’s title bar.
 
-**For example:**
-TODO EXAMPLE CODE, TODO SERP IMAGE
+TODO image иллюстрация отображения названия сайта во вкладке браузера и в поисковой выдаче Google
 
 {{< hint >}}
 To add a page title, click the Settings icon on the top menu. Choose the SEO tab to enter a title text and click Save.
@@ -119,8 +118,7 @@ It's not a character limit, but you can take into account, that the title length
 
 The page description provides a summary of a web page. Search engines such often display the page description in search results.
 
-**For example:**
-TODO EXAMPLE CODE, TODO SERP IMAGE
+TODO image иллюстрация отображения описания сайта в поисковой выдаче Google
 
 - **Use your keywords at the beginning at the description**
 
@@ -177,7 +175,7 @@ You can use Ptah pre-designed sections and elements to organize content:
 - Icon with text
 {{< /hint >}}
 
-TODO images of sections
+TODO images иллюстрации или интерфейс с примерами расположения текстовой информации на лэндинге, возможно как нужно делать и как не стоит делать
 
 [Take a look at how to adjust the ready-to-use sections.](/docs/add-section)
 
@@ -186,14 +184,14 @@ TODO images of sections
 
 Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because they are displayed in a sharing message.
 
-TODO image
+TODO image иллюстрация как выглядит пост и указатели на название, описание и картинку
 {{< figure src="/images/img7.png">}}
 
 {{< hint >}}
 To add social icons to any block hover, over the block and click on the Add element icon at the top-left. Select the Social networks element and set up desired social icons and enter links.
 {{< /hint >}}
 
-TODO картинка
+TODO images интерфейс настройки ссылок для кнопок социальных сетей
 {{< figure src="/images/img5.png">}}
 
 Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
@@ -210,7 +208,7 @@ To set up Open Graph tags, click the Settings icon on the top menu. Choose the O
 - **Locale: Alternate** - defines the second content language.
 {{< /hint >}}
 
-TODO image
+TODO image интерфейс настройки Open Graph для SEO
 {{< figure src="/images/img6.png">}}
 
 ## Optimize visual data
@@ -233,9 +231,9 @@ Google Search Console is a free service that helps you manage your site's presen
 **Next steps**
 {{< /hint >}}
 
-- TODO Integration Mailchimp
-- TODO Integration Google Analytics
-- TODO Accept payments
+- [Connect with Mailchimp](/docs/integrations-mailchimp/)
+- [Connect with Google Analytics](/docs/integrations-ga/)
+- [Setting up a payment system](/docs/payments/)
 
 ***
 

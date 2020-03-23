@@ -19,14 +19,14 @@ To set the alignment of a block's content open the block properties by hover ove
 To display elements of a block in one line click on the Row Direction icon.
 {{< /hint >}}
 
-TODO картинка
+TODO images интерфейс с настройками и в превью отображение элементов в строку
 {{< figure src="/images/tmp.png">}}
 
 {{< hint >}}
 To display each element of a block on a new line click on the Column Direction icon. 
 {{< /hint >}}
 
-TODO картинка
+TODO images интерфейс с настройками и в превью отображение тех же самых элементов в столбец
 {{< figure src="/images/tmp.png">}}
 
 ## Content direction
@@ -39,7 +39,7 @@ Inside of a block you can horizontally or vertically align elements to left, rig
 - **Horizontal alignment**
 {{< /hint >}}
 
-TODO анимация
+TODO animation
 {{< figure src="/images/add-section.gif">}}
 
 ## Sticky header
@@ -49,7 +49,8 @@ TODO анимация
 You can create a fixed (sticky) header on scroll by turning on this option for the Header Section on Settings Panel.
 {{< /hint >}}
 
-TODO анимация как сделать фиксированный хедер и скролл страницы
+TODO image интерфейс с насйтроками для фиксированного хедера
+TODO animation фиксированный хедер и скролл страницы
 
 ***
 
@@ -57,9 +58,9 @@ TODO анимация как сделать фиксированный хеде�
 **Next steps**
 {{< /hint >}}
 
-- TODO Background
-- TODO Accept payments
-- TODO Preview and publish
+- [Edit a background](/docs/background/)
+- [Setting up a payment system](/docs/payments/)
+- [Preview and publish](/docs/release/)
 
 ***
 

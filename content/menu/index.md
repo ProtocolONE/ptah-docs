@@ -17,8 +17,8 @@ headless: true
 - **SITE SETTINGS**
   - [Search Engine Optimization]({{< relref "/docs/seo" >}})
   - [Cookies]({{< relref "/docs/cookies" >}})
-  - [Javascipt and CSS]({{< relref "/docs/customization.md" >}})
+  - [Custom styles]({{< relref "/docs/customization.md" >}})
 - **INTEGRATIONS**
-  - [Google Tag]({{< relref "/docs/integrations-gt.md" >}})
-  - [Google Analytics]({{< relref "/docs/integrations-ga.md" >}})
   - [Mailchimp]({{< relref "/docs/integrations-mailchimp.md" >}})
+  - [Google Analytics]({{< relref "/docs/integrations-ga.md" >}})
+  - [Google Tag]({{< relref "/docs/integrations-gt.md" >}})

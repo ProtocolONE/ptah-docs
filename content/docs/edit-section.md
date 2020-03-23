@@ -10,7 +10,7 @@ The Ptah Builder makes editing pretty intuitive. You can change content and its 
 
 On hover over a Block or an Element, you can view an icon to set properties at the top-left corner.
 
-TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками
+TODO image интерфейс или иллюстрация с этими иконками для секции, блока и элемента
 {{< figure src="/images/tmp.png">}}
 
 ## Adjust block properties
@@ -51,7 +51,7 @@ Link styles:
 - **Underline Hover** - TODO
 - **Open new window** - TODO
 
-TODO image
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "ICON WITH TEXT" >}}
@@ -64,7 +64,8 @@ Text styles:
 Icon styles:
 - ****
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -75,12 +76,14 @@ TODO image
 {{< tabs "elements-buttons-icons" >}}
 {{< tab "BUTTON" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "SOCIAL NETWORKS" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -88,12 +91,18 @@ TODO image
 ### **Images and Videos**
 ***
 
+{{< hint >}}
+To upload or replace an image, drag and drop the image to the Image upload button or to the specific position on the page in Preview Area.
+{{< /hint >}}
+
+TODO анимация с drag-n-drop на кнопку загрузки картинки и на страницу
+
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
 - **Image URL** - TODO
 - **Stretch to fit** - TODO
 
-TODO image
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "VIDEO" >}}
@@ -103,7 +112,7 @@ TODO image
 - **Show/hide controls** - TODO
 - **Show/hide related videos** - TODO
 
-TODO image
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -114,12 +123,14 @@ TODO image
 {{< tabs "elements-game" >}}
 {{< tab "AVAILABLE PLATFORMS" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "AGE RESTRICTIONS" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -130,17 +141,20 @@ TODO image
 {{< tabs "elements-html" >}}
 {{< tab "SPACER" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "TIMER" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "IFRAME" >}}
 TODO свойства
-TODO image
+
+TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -151,9 +165,9 @@ TODO image
 **Next steps**
 {{< /hint >}}
 
-- TODO Indents and size
-- TODO Align content
-- TODO Background image and video
+- [Spacing on the page and adjust size](/docs/size/)
+- [Customise the alignment of elements](/docs/align/)
+- [Edit a background](/docs/background/) image and video
 
 ***
 

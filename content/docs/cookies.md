@@ -12,14 +12,14 @@ Your web page has to follow with GDPR and you can set up some options on Ptah Se
 The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.
 {{< /hint >}}
 
-TODO image как выглядит нотификация на сайте
+TODO image иллюстрация как выглядит нотификация на сайте
 
 {{< hint >}}
 To inform your visitor that you are using Cookies and receive their approval, click the Settings icon on the top menu and choose the Cookies tab. 
 Enable the Use Cookies and upload a Cookie Policy PDF file, then click Save.
 {{< /hint >}}
 
-TODO image настройки Cookie
+TODO image интерфейс настройки Cookie
 
 ***
 
@@ -27,8 +27,8 @@ TODO image настройки Cookie
 **Next steps**
 {{< /hint >}}
 
-- TODO Integration Mailchimp
-- TODO Integration Google Analytics
+- [Connect with Mailchimp](/docs/integrations-mailchimp/)
+- [Connect with Google Analytics](/docs/integrations-ga/)
 
 ***
 

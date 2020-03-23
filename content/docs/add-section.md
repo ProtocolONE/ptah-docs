@@ -45,13 +45,13 @@ To edit a section, you can hover over a section and click the Settings icon that
 {{< tab "HEADER" >}}
 - **Sticky position** - creates a fixed (sticky) header on scroll.
 
-TODO картинка с готовыми настройками
+TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "FORMS" >}}
 - **Form integrations** - TODO
 
-TODO картинка с готовыми настройками
+TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -69,7 +69,7 @@ TODO картинка с готовыми настройками
 - **Autoplay** - TODO
 - **Transition delay (ms)** - TODO
 
-TODO картинка с готовыми настройками
+TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "GALLERIES (Carousel)" >}}
@@ -81,7 +81,7 @@ TODO картинка с готовыми настройками
 - **Navigation color** - TODO
 - **Autoplay** - TODO
 
-TODO картинка с готовыми настройками
+TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
@@ -108,7 +108,7 @@ On hover over any object on the page, you can view a Deletion icon at the top-ri
 To remove a section, hover over and click on the Deletion icon on Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
 {{< /hint >}}
 
-TODO АНИМАЦИЯ
+TODO animation
 {{< figure src="/images/add-section.gif">}}
 
 ### Remove an element
@@ -118,7 +118,7 @@ TODO АНИМАЦИЯ
 To remove an element from a section, hover over and click on the Deletion icon on Preview Area.
 {{< /hint >}}
 
-TODO АНИМАЦИЯ
+TODO animation
 {{< figure src="/images/add-section.gif">}}
 
 ***
@@ -127,9 +127,9 @@ TODO АНИМАЦИЯ
 **Next steps**
 {{< /hint >}}
 
-- TODO Edit a section content and properties
-- TODO Accept payments
-- TODO Preview and publish
+- [Edit a section content and properties](/docs/edit-section/)
+- [Setting up a payment system](/docs/payments/)
+- [Preview and publish](/docs/release/)
 
 ***
 

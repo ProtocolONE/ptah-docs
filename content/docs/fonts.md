@@ -20,7 +20,7 @@ Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose
 To adjust a page fonts, click the Settings icon on the top menu. Choose the Fonts tab and set and save fonts from Google Fonts for headlines, text and buttons.
 {{< /hint >}}
 
-TODO image
+TODO image настройки размеров шрифтов
 
 [Learn more how to customise text properties.](/docs/edit-section/#adjust-element-properties)
 
@@ -30,8 +30,8 @@ TODO image
 **Next steps**
 {{< /hint >}}
 
-- TODO Search Engine Optimization
-- TODO Integration Google Analytics
+- [Search Engine Optimization](/docs/seo/)
+- [Connect with Google Analytics](/docs/integrations-ga/)
 
 ***
 

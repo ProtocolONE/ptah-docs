@@ -8,18 +8,19 @@ bookToc: true
 
 You can create extra space around elements to helps your users focus on the content, what may increases conversions.
 
-TODO картинка
+TODO image иллюстрация заменить картинку на такую же, но в нашем стиле
 {{< figure src="/images/img1.png">}}
 
 The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. 
 This is how one of Ptah sections with default spacing looks like: 
 
-TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
+TODO image иллюстрация заменить картинку на такую же, но в нашем стиле
 
 {{< figure src="/images/img2.png">}}
 
 Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).
 
+TODO image интерфейс слева значения для margin и padding, в превью указатели (как на картинках выше) на какие отступы влюяют значения
 {{< figure src="/images/spacing.png">}}
 
 You can customise the padding and margin of any element. 
@@ -40,7 +41,7 @@ The section's width is set to full screen automatically on every device.
 
 You can adjust the section height:
 
-TODO картинка настроек высоты в панели настроек
+TODO image иллюстрация настроек высоты в панели настроек и как это влияет на высоту секции
 
 - **Auto**
     
@@ -60,7 +61,7 @@ TODO картинка настроек высоты в панели настро
 
 You can use a powerful visual effect to make a full-screen version of the page: set the height of every section to fit the whole height of the browser window and replace scrolling with slider controls.
 
-TODO анимация слайдера
+TODO image интерфейс с хедером и главной секцией, чтобы были видны булеты слайдера справа
 
 {{< hint >}}
 To set up a full screen version, click the Settings icon on the top menu and turn on the Full page scroll option on the Visual tab.
@@ -73,20 +74,20 @@ To set up a full screen version, click the Settings icon on the top menu and tur
 
 To customise the text size, double-click on it and adjust the font size in pixels (px) in Settings Panel.
 
-TODO анимация с размером шрифта
+TODO image интерфейс слева настройки текста, в превью указатели на что повлияли настройки
 
 ### Others
 ***
 
 You can customize the size of elements in Settings Panel.
 
-TODO картинка с настройками размера в панели настроек
+TODO image интерфейс с настройками размера элемента и в превью указатели на что влияют выставленные параметры
 
 {{< hint >}}
 More than that, you can change the size in Preview Area by clicking on the element and stretching the Resizing tool rectangle.
 {{< /hint >}}
 
-TODO анимация изменения размера элемента кнопки или картинки
+TODO animation изменения размера элемента кнопки или картинки за счет инструмента the Resizing tool rectangle
 
 ***
 
@@ -94,9 +95,9 @@ TODO анимация изменения размера элемента кно�
 **Next steps**
 {{< /hint >}}
 
-- TODO Fonts
-- TODO Align content
-- TODO Background image and video
+- [Set up fonts](/docs/fonts/)
+- [Customise the alignment of elements](/docs/align/)
+- [Edit a background](/docs/background/) image and video
 
 ***
 

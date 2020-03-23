@@ -24,7 +24,7 @@ To edit a section background, you need to open Settings Panel to adjust Properti
 - or click the same icon on Settings Panel at the end of the section's title.
 {{< /hint >}}
 
-TODO image
+TODO image интерфейс с настройками фона секции
 
 ## Background of multiple sections
 ***
@@ -37,7 +37,7 @@ To make a group, select some sections while holding the key: **Command** for mac
 
 Now you can set a background of the group clicking on the Image icon at the end of the group's name. The group background replaces their child sections' backgrounds.
 
-TODO image
+TODO image интерфейс настройки фона для группы
 
 ## A page background settings
 ***
@@ -46,7 +46,7 @@ TODO image
 To adjust a page background, click the Settings icon on the top menu and choose the Visual tab.
 {{< /hint >}}
 
-TODO image
+TODO image интерфейс настройки фона всей страницы
 
 ## Color fill and opacity
 ***
@@ -60,7 +60,7 @@ Now you can pick the color in the Color Picker.
 - Checking the opacity in the Color Picker changes your background color from transparent to solid. To get a solid color, check the opacity at 100%.
 - To view the color background, examine that there is no image or video background and the overlay color set at 0%.
 {{< /hint >}}
-TODO image с полупрозрачностью и значениями настроек или анимация
+TODO image интерфейс значения настроек с полупрозрачностью и в превью видна полупрозрачность
 
 You can make the same steps to apply a color to the whole page on the Page Setting in the Visual tab.
 
@@ -73,7 +73,7 @@ Increase the visual appeal with the use of gradients.
 To add a color gradient, open the section (or block) properties on Settings Panel and press the Plus icon to add new color.
 {{< /hint >}}
 
-TODO анимация
+TODO animation
 
 {{< hint warning >}}
 - It's possible to add up to 4 colors to the linear gradient.
@@ -90,13 +90,19 @@ TODO анимация
 To insert a background image to the section (or block), click the Background icon on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the Upload Image button or enter the link to the image resource.
 {{< /hint >}}
 
-TODO анимация
+TODO animation
 
 {{< hint >}}
-Moreover you can use an image as a background for the whole page: click the Settings icon on the top menu and choose the Visual tab and upload the image using the Upload Image button or enter the link to the image resource.
+Moreover you can use an image as a background for the whole page: click the Settings icon on the top menu and choose the Visual tab.
+
+Now you can upload an image from your computer in three ways:
+
+- using the Upload Image button,
+- entering a link to the image resource file in the Image field,
+- drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
 {{< /hint >}}
 
-TODO картинка
+TODO image интерфейс с указателями как загружать картинку
 
 Set the position of the background image:
 
@@ -106,7 +112,7 @@ Set the position of the background image:
 {{< hint warning >}}
 To center an image, click on the round icon at the center of the preview image area in Settings Panel.
 {{< /hint >}}
-TODO анимация
+TODO animation
 
 Configure the display of the image:
 
@@ -123,7 +129,6 @@ Configure the display of the image:
 You can adjust visual parameters of the page background:
 
 - **Background fill** - the uploaded image duplicates for all sections on the page.
-    TODO картинка
 - **Fixed while scrolling** - on scroll the foreground content of the page moves but the background image has a fixed position.
 
 ### Recommended image parameters
@@ -145,16 +150,16 @@ Formatting your images:
 You can use a video background for a section or page instead of image.
 
 {{< hint >}}
-Open the section's background Properties to check **Use video as background** and upload a video file or enter the link to the file resource.
+Open the section's background Properties to check **Use video as background** and upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
-TODO image
+TODO image интерфейс настроки для секции с видео в качестве фона
 
 {{< hint >}}
-To add a video background to the page, open the Page Settings and upload a video file or enter the link to the file resource in the Visual tab.
+To add a video background to the page, open the Page Settings and upload a video file or enter the link to the resource file in the Visual tab.
 {{< /hint >}}
 
-TODO image
+TODO image интерфейс настроки для всей страницы с видео в качестве фона
 
 ### Recommended video parameters
 ***
@@ -174,7 +179,7 @@ Apply a color over an image or video to make a background more contrast for the 
 To add a color filter over the image or video for the section, you can adjust the Overlay Color in Settings Panel and increase or decrease its opacity level.
 {{< /hint >}}
 
-TODO анимация
+TODO animation
 
 ***
 
@@ -182,9 +187,9 @@ TODO анимация
 **Next steps**
 {{< /hint >}}
 
-- TODO Indents and size
-- TODO Align content
-- TODO Background image and video
+- [Spacing on the page and adjust size](/docs/size/)
+- [Customise the alignment of elements](/docs/align/)
+- [Edit a background](/docs/background/) image and video
 
 ***
 
