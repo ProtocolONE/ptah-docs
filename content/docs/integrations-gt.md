@@ -18,7 +18,9 @@ To start, you'll need a Google Analytics account.
 ***
 
 - Log into your Google Analytics account and go to [Google Tag Manager](https://tagmanager.google.com/).
-- Add a new account for your landing page and accept the Google Tag Manager Terms of Service Agreement. 
+- Add a new account for your landing page and accept the Google Tag Manager Terms of Service Agreement.
+
+TODO image эту картинку сделать в нашем стиле (доступ к аккаунту у меня есть, можно переделать эту картинку)
 {{< figure src="/images/img10.png">}}
 
 ## Connect your Google Tag account with Ptah

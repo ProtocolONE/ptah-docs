@@ -23,6 +23,7 @@ Click the Add section icon on Settings Panel and select a desired section from t
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
 
+TODO animation
 {{< figure src="/images/add-section.gif">}}
 
 ## Adjust section properties

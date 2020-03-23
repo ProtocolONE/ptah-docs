@@ -15,7 +15,6 @@ The best practice is spacing and sizing within ratios. Ptah pre-designed section
 This is how one of Ptah sections with default spacing looks like: 
 
 TODO image иллюстрация заменить картинку на такую же, но в нашем стиле
-
 {{< figure src="/images/img2.png">}}
 
 Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).
