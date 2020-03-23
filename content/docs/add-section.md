@@ -127,7 +127,7 @@ TODO animation
 **Next steps**
 {{< /hint >}}
 
-- [Edit a section content and properties](/docs/edit-section/)
+- [Edit section content and properties](/docs/edit-section/)
 - [Setting up a payment system](/docs/payments/)
 - [Preview and publish](/docs/release/)
 
