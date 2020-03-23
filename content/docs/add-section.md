@@ -34,9 +34,9 @@ Each section is designed to emphasize a different aspect of your video game.
 {{< hint >}}
 To edit a section, you can hover over a section and click the Settings icon that will be appeared to the upper right of the editable section.
 
-[Set up the size and spacing.](/docs/size)
+[Set up the size and spacing.](/docs/size/)
 
-[Learn about background properties.](TODO)
+[Learn about background properties.](/docs/background/)
 {{< /hint >}}
 
 **Main sections**

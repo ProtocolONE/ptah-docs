@@ -10,7 +10,7 @@ type: docs
 
 Ptah provides you with all the features you need to promote your game.
 
-TODO: КАРТИНКА СЕРВИСА или анимация как быстро делается лэндинг из готовых модулей
+TODO КАРТИНКА СЕРВИСА или анимация как быстро делается лэндинг из готовых модулей
 
 {{< button href="https://ptah.super.com/editor/demo" >}}Try now the demo editor{{< /button >}}
 
@@ -18,7 +18,7 @@ TODO: КАРТИНКА СЕРВИСА или анимация как быстр�
 
 Ptah naturally creates responsive web pages. It is super-easy to ensure your landing page looks and performs perfectly on any device, mobile or desktop. 
 
-TODO: АНИМАЦИЯ переключение между desktop, tablet, mobile views
+TODO картинка или анимация переключение между desktop, tablet, mobile views
 
 ## Build your desired page from a wide range of pre-designed blocks
 
