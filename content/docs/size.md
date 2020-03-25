@@ -66,6 +66,8 @@ TODO image интерфейс с хедером и главной секцией
 To set up a full screen version, click the Settings icon on the top menu and turn on the Full page scroll option on the Visual tab.
 {{< /hint >}}
 
+TODO image интерфейс с настройками параметров
+
 ### Text
 ***
 
@@ -96,7 +98,7 @@ TODO animation изменения размера элемента кнопки �
 
 - [Set up fonts](/docs/fonts/)
 - [Customise the alignment of elements](/docs/align/)
-- [Edit a background](/docs/background/) image and video
+- [Edit a background image and video](/docs/background/)
 
 ***
 

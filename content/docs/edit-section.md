@@ -8,15 +8,23 @@ bookToc: true
 
 The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 
+{{< hint >}}
 On hover over a Block or an Element, you can view an icon to set properties at the top-left corner.
+{{< /hint >}}
 
 TODO image интерфейс или иллюстрация с этими иконками для секции, блока и элемента
 {{< figure src="/images/tmp.png">}}
 
+{{< hint >}}
+All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.
+{{< /hint >}}
+
+TODO animation перетаскивание элемента в строке и в столбце
+
 ## Adjust block properties
 ***
 
-[Set up the size and spacing.](/docs/size)
+[Set up the size and indents.](/docs/size)
 
 ## Add an element to the section
 ***
@@ -29,7 +37,7 @@ To add an element to the section, hover over a block where you want to add a new
 ***
 
 {{< hint >}}
-To customise element properties, select the element by click and press the Edit icon on Preview Area.
+To view and customise an element properties, select the element by click and press the Edit icon on Preview Area or just double click on the element.
 {{< /hint >}}
 
 ### **Text**
@@ -37,56 +45,84 @@ To customise element properties, select the element by click and press the Edit 
 
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
-Text styles:
+- **Size** - the font size
+- **Line** - the line height (the vertical distance between lines of text)
+- **Color** - the text color
+- **Link Color** - the color of the link
+- **Link Hover Color** - the color of the link on hover
+- **Underline** - apply a word underline
+- **Underline Hover** - show a word underline on hover
+- **Open new window** - use a new browser tab to open a link on click
 
-- **Size** - TODO
-- **Line** - TODO
-- **Color** - TODO
-
-Link styles:
-
-- **Link Color** - TODO
-- **Link Hover Color** - TODO
-- **Underline** - TODO
-- **Underline Hover** - TODO
-- **Open new window** - TODO
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
+
 {{< tab "ICON WITH TEXT" >}}
-Text styles:
+- **Size** - the font size
+- **Line** - the line height (the vertical distance between lines of text)
+- **Color** - the text color
+- **Visible** - use icon image
+- **Icon** - the icons list
+- **Icons width** - the icon size
+- **Icons color** - the icon color
 
-- **Size** - TODO
-- **Line** - TODO
-- **Color** - TODO
-
-Icon styles:
-- ****
-TODO свойства
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
 
-### **Buttons and Icons**
+### **Buttons**
 ***
 
-{{< tabs "elements-buttons-icons" >}}
-{{< tab "BUTTON" >}}
-TODO свойства
+- **Placeholder text** - the placeholder text
+- **Size** - the text size
+- **Line** - the line height (the vertical distance between lines of text)
+- **Text** - the text color
+- **Hover** - the text color on hover
+- **Button color** - the button color
+- **Hover color** - the button color on hover
+- **Border radius** - the border radius
+- **Border style** - the border color and style: solid, dashed, dotted
+- **Border hover** - the border color and style on hover: solid, dashed, dotted
+- **Button image** - the button background image
+- **Hover image** - the button image on hover
+- **Stretch to fit** - display the image at the full height of the button
+- **Corner radius** - the button's corners radius
+- **Hover animation** - the animation on hover: none, tada, shake, bounce
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< tab "SOCIAL NETWORKS" >}}
-TODO свойства
+
+### **Social networks**
+***
+
+- **Icons width** - the social icon size
+- **Icons color** - the social icon color
+- **Background color** - the background color of the icons' element
+- **Open links in new window** - use a new browser tab to open a link on click
+
+The list of socials' names and links:
+
+- **Facebook**
+- **Instagram**
+- **Vk**
+- **Twitter**
+- **YouTube**
+- **Discord**
+- **Kickstarter**
+- **Wechat**
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< /tabs >}}
 
 ### **Images and Videos**
 ***
@@ -99,18 +135,22 @@ TODO анимация с drag-n-drop на кнопку загрузки карт
 
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
-- **Image URL** - TODO
-- **Stretch to fit** - TODO
+- **Image URL** - the image file or the link to the image resource
+- **Stretch to fit** - display the image at the full height of the element
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "VIDEO" >}}
-- **Video URL** - TODO
-- **Loop** - TODO
-- **Autoplay** - TODO
-- **Show/hide controls** - TODO
-- **Show/hide related videos** - TODO
+- **Video URL** - the video file or the link to the video resource
+- **Loop** - put a video on loop
+- **Autoplay** - play video on page load
+- **Show/hide controls** - display video controls
+- **Show/hide related videos** - display related videos at the end
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
@@ -122,13 +162,35 @@ TODO image интерфейс или иллюстрация с настройк�
 
 {{< tabs "elements-game" >}}
 {{< tab "AVAILABLE PLATFORMS" >}}
-TODO свойства
+
+- **Icons width** - the platform icon size
+- **Icons color** - the social icon color
+
+The list of platforms' names:
+
+- **Windows**
+- **Apple**
+- **Linux**
+- **Steam**
+- **GOG Galaxy**
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "AGE RESTRICTIONS" >}}
-TODO свойства
+
+- **Icons width** - the platform icon size
+
+The list of the age ratings:
+
+- **Age**
+- **PEGI** 
+- **USK**
+- **Steam**
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
@@ -140,19 +202,33 @@ TODO image интерфейс или иллюстрация с настройк�
 
 {{< tabs "elements-html" >}}
 {{< tab "SPACER" >}}
-TODO свойства
+You can edit the spacer size using the transformation tool.
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "TIMER" >}}
-TODO свойства
+- **Set timer** - select the ending date
+- **Time zone** - the UTC time zone
+- **Labels** - display the labels: Days, Hours, Minutes, Seconds
+- **Position** - the labels position
+- **Labels language** - the labels language
+- **Size** - the font size
+- **Line** - the line height (the vertical distance between lines of text)
+- **Color** - the text color
+- **Background Color** - the background color of the element
+- **Tile Color** - the background color of every parts
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "IFRAME" >}}
-TODO свойства
+
+- **URL** - the link to the external resource
+
+[Learn about spacing and how to edit indents for the element](/docs/size/)
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
@@ -167,7 +243,7 @@ TODO image интерфейс или иллюстрация с настройк�
 
 - [Spacing on the page and adjust size](/docs/size/)
 - [Customise the alignment of elements](/docs/align/)
-- [Edit a background](/docs/background/) image and video
+- [Edit a background image and video](/docs/background/)
 
 ***
 

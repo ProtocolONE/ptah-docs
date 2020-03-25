@@ -6,19 +6,24 @@ bookToc: true
 # Background properties
 ***
 
-There are several ways to fill a page or section background:
+There are several ways to fill a background:
 
 - [Color fill](#color-fill-and-opacity)
 - [Gradient](#gradient)
 - [Image background](#image-background)
 - [Fullscreen video background](#full-screen-video-background)
 - [Color overlay](#add-a-color-overlay-to-a-background)
+- [Fixed and parallax background image](#fixed-and-parallax-background-image)
 
-## A section background settings
+***
+
+You can apply custom settings for the background of a block, section or page.
+
+**How to edit a section background properties**
 ***
 
 {{< hint >}}
-To edit a section background, you need to open Settings Panel to adjust Properties:
+To edit a section background, open Settings Panel to adjust Properties in two ways:
 
 - click the Background icon on hover over the section in Preview Area.
 - or click the same icon on Settings Panel at the end of the section's title.
@@ -26,20 +31,20 @@ To edit a section background, you need to open Settings Panel to adjust Properti
 
 TODO image интерфейс с настройками фона секции
 
-## Background of multiple sections
+**How to edit a background of multiple sections**
 ***
 
 Grouping sections helps you to make the same background for all child sections.
 
 {{< hint >}}
 To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click on the Group selected button.
-{{< /hint >}}
 
 Now you can set a background of the group clicking on the Image icon at the end of the group's name. The group background replaces their child sections' backgrounds.
+{{< /hint >}}
 
 TODO image интерфейс настройки фона для группы
 
-## A page background settings
+**How to edit a page background**
 ***
 
 {{< hint >}}
@@ -52,7 +57,7 @@ TODO image интерфейс настройки фона всей страни�
 ***
 
 {{< hint >}}
-To add a solid color, open settings of the section (or block) and click on the Color in Settings Panel. 
+To add a solid color, open background settings of the section (or block) and click on the Color in Settings Panel. 
 Now you can pick the color in the Color Picker.
 {{< /hint >}}
 
@@ -62,7 +67,7 @@ Now you can pick the color in the Color Picker.
 {{< /hint >}}
 TODO image интерфейс значения настроек с полупрозрачностью и в превью видна полупрозрачность
 
-You can make the same steps to apply a color to the whole page on the Page Setting in the Visual tab.
+You can make the same steps to apply a color to the whole page on the Page Settings in the Visual tab.
 
 ## Gradient
 ***
@@ -93,9 +98,7 @@ To insert a background image to the section (or block), click the Background ico
 TODO animation
 
 {{< hint >}}
-Moreover you can use an image as a background for the whole page: click the Settings icon on the top menu and choose the Visual tab.
-
-Now you can upload an image from your computer in three ways:
+Now you can upload an image in three ways:
 
 - using the Upload Image button,
 - entering a link to the image resource file in the Image field,
@@ -126,10 +129,38 @@ Configure the display of the image:
 ### Add a background to the page
 ***
 
-You can adjust visual parameters of the page background:
+You can use an image as a background for the whole page. 
 
-- **Background fill** - the uploaded image duplicates for all sections on the page.
-- **Fixed while scrolling** - on scroll the foreground content of the page moves but the background image has a fixed position.
+{{< hint >}}
+Click the Settings icon on the top menu and choose the Visual tab.
+
+Now you can upload an image in three ways and click Save.
+
+- using the Upload Image button,
+- entering a link to the image resource file in the Image field,
+- drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
+
+TODO image интерфейс с указателями как загружать картинку
+{{< /hint >}}
+
+Set the position of the background image:
+
+- **X** - moves an image horizontally.
+- **Y** - moves an image vertically.
+
+### Duplicate image for all sections
+***
+
+You can upload a background image and duplicate it for all sections on the page.
+
+TODO image пример одинакового фона для всех секций
+
+{{< hint >}}
+- [Add a background to the page.](#add-a-background-to-the-page)
+- Enable the Background fill and click Save.
+{{< /hint >}}
+
+TODO image интерфейс картинка с настройками фона с параметром Background fill
 
 ### Recommended image parameters
 ***
@@ -147,7 +178,7 @@ Formatting your images:
 ## Full-screen video background
 ***
 
-You can use a video background for a section or page instead of image.
+You can use a video background instead of image to a section or page.
 
 {{< hint >}}
 Open the section's background Properties to check **Use video as background** and upload a video file or enter the link to the resource file.
@@ -170,7 +201,7 @@ TODO image интерфейс настроки для всей страницы 
 - **Frame rate:** around 25 frames per second (fps)
 - **Resolution :** 720p, which is 1280 x 720 pixels
 
-## Add a color overlay to a background
+## Add a color overlay to the background
 ***
 
 Apply a color over an image or video to make a background more contrast for the foreground elements. It helps to make a text more readable on the image or video.
@@ -181,6 +212,42 @@ To add a color filter over the image or video for the section, you can adjust th
 
 TODO animation
 
+## Fixed and parallax background image
+***
+
+Fixed and parallax effects are design techniques:
+
+- when using a fixed background image, the image will remain static, while the content will move over the image as your scroll down the page.
+- when using a parallax background image, both the image and the content will move as your scroll down the page, but at different speeds.
+
+{{< hint >}}
+To add a fixed background to the page:
+
+- [Add a background to the page.](#add-a-background-to-the-page)
+- Enable the Fixed while scrolling and click Save.
+{{< /hint >}}
+
+TODO анимация с фиксированным фоном на всей странице
+
+{{< hint >}}
+To add a fixed background to the page:
+
+- [Add a background to the section.](##add-a-background-to-the-section-or-block)
+- Enable the Parallax on background in Settings Panel.
+- Open your landing page in the Preview mode to see the parallax effect clicking the Preview icon at the top menu.
+{{< /hint >}}
+
+TODO интерфейс с настройкой Parallax on background
+
+## Remove a background image
+***
+
+{{< hint >}}
+To remove a background image from a section (or block) open Settings Panel for and click on the Remove icon.
+{{< /hint >}}
+
+TODO image интерфейс настройки с конкой удаления изображения
+
 ***
 
 {{< hint info >}}
@@ -189,7 +256,7 @@ TODO animation
 
 - [Spacing on the page and adjust size](/docs/size/)
 - [Customise the alignment of elements](/docs/align/)
-- [Edit a background](/docs/background/) image and video
+- [Edit a background image and video](/docs/background/)
 
 ***
 
