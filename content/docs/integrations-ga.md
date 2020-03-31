@@ -11,9 +11,9 @@ Through Ptah Integrations you can connect your site to Google Analytics to view 
 To start, you'll need a Google Analytics account.
 
 {{< hint >}}
-- Click the Settings icon on the top menu. Choose the Integrations tab and click the Google Analytics icon.
-- In the Google site tag field, enter your tracking ID for your landing page.
-- Click Apply.
+- Click the *Settings icon* on the top menu. Choose the *Integrations tab* and click the *Google Analytics icon*.
+- In the *Google site tag field*, enter your tracking ID for your landing page.
+- Click *Apply*.
 
 After Google Analytics connected, you should wait until the data will be fully processed. The sync may take up to 24 hours depending on your Google Analytics version.
 {{< /hint >}}

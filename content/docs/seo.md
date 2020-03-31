@@ -95,7 +95,7 @@ Remember, the title appears in search engines and the Web browser’s title bar.
 TODO image иллюстрация отображения названия сайта во вкладке браузера и в поисковой выдаче Google
 
 {{< hint >}}
-To add a page title, click the Settings icon on the top menu. Choose the SEO tab to enter a title text and click Save.
+To add a page title, click the *Settings icon* on the top menu. Choose the *SEO tab* to enter a title text and click *Save*.
 {{< /hint >}}
 
 - **The recommended format for the title is: Primary Keyword – Secondary Keyword | Brand**
@@ -142,7 +142,7 @@ Favicon is a visual representation of your website's brand on browser tabs and i
 That's why the uploaded favicon leads to the brand recognition in search results.
 
 {{< hint >}}
-To upload a favicon, click the Settings icon on the top menu. Choose the SEO tab to upload a favicon and click Save.
+To upload a favicon, click the *Settings icon* on the top menu. Choose the *SEO tab* to upload a favicon and click *Save*.
 {{< /hint >}}
 
 Recommended favicon parameters:
@@ -188,7 +188,7 @@ TODO image иллюстрация как выглядит пост и указа
 {{< figure src="/images/img7.png">}}
 
 {{< hint >}}
-To add social icons to any block hover, over the block and click on the Add element icon at the top-left. Select the Social networks element and set up desired social icons and enter links.
+To add social icons to any block hover, over the block and click on the *Add element icon* at the top-left. Select the *Social networks element* and set up desired social icons and enter links in Settings Panel.
 {{< /hint >}}
 
 TODO images интерфейс настройки ссылок для кнопок социальных сетей
@@ -197,7 +197,7 @@ TODO images интерфейс настройки ссылок для кнопо
 Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
 
 {{< hint >}}
-To set up Open Graph tags, click the Settings icon on the top menu. Choose the Open Graph tab to enter data and click Save:
+To set up Open Graph tags, click the *Settings icon* on the top menu. Choose the *Open Graph tab* to enter data and click *Save*:
 
 - **Title** - the title of your page.
 - **Description** - a brief description of the content. 

@@ -25,7 +25,7 @@ TODO image интерфейс слева значения для margin и paddi
 You can customise the padding and margin of any element. 
 
 {{< hint >}}
-To edit indents for a section or a block, hover over and click the Settings icon at the top-right.
+To edit indents for a section or a block, hover over and click the *Settings icon* at the top-right.
 
 You can update an element's indents right on Settings Panel after selecting the element.
 {{< /hint >}}
@@ -63,7 +63,7 @@ You can use a powerful visual effect to make a full-screen version of the page: 
 TODO image интерфейс с хедером и главной секцией, чтобы были видны булеты слайдера справа
 
 {{< hint >}}
-To set up a full screen version, click the Settings icon on the top menu and turn on the Full page scroll option on the Visual tab.
+To set up a full screen version, click the *Settings icon* on the top menu and turn on the *Full page scroll* option on the *Visual tab*.
 {{< /hint >}}
 
 TODO image интерфейс с настройками параметров

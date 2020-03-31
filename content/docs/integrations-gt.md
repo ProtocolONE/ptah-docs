@@ -26,9 +26,9 @@ TODO image эту картинку сделать в нашем стиле (до
 ## Connect your Google Tag account with Ptah
 ***
 
-- Click the Settings icon on the top menu. Choose the Integrations tab and click the Google Tag icon.
-- In the GTM container ID field, enter your GTM container ID from your Google Tag account.
-- Click Apply.
+- Click the Settings icon on the top menu. Choose the *Integrations tab* and click the *Google Tag icon*.
+- In the *GTM container ID field*, enter your GTM container ID from your Google Tag account.
+- Click *Apply*.
 
 TODO image интерфейс настройки GT с введенным container ID
 

@@ -11,7 +11,7 @@ Through Ptah Integrations you can collect email addresses and grow your subscrib
 To start, you need to allow Mailchimp service connect to your landing page in Ptah Builder.
 
 {{< hint >}}
-Click the Settings icon on the top menu. Choose the Integrations tab and click the Mailchimp icon.
+Click the Settings icon on the top menu. Choose the *Integrations tab* and click the *Mailchimp icon*.
  
 - Enter your Mailchimp login and password to log into Mailchimp.
 - Approve Mailchimp to connect your landing page.
@@ -25,7 +25,7 @@ TODO image интерфейс настройки с заполненной фо�
 Once you've synced to Mailchimp, you can select one of the audiences where to store emails entered to your landing page web forms.
 
 {{< hint >}}
-Open Settings > the Integrations tab > the Mailchimp icon. 
+Open *Settings* > the *Integrations tab* > the *Mailchimp icon*. 
 Select your Mailchimp audience for form submissions from the drop-down menu.
 {{< /hint >}}
 

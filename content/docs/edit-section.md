@@ -30,14 +30,14 @@ TODO animation перетаскивание элемента в строке и 
 ***
 
 {{< hint >}}
-To add an element to the section, hover over a block where you want to add a new element and click on the Add element icon in Preview Area.
+To add an element to the section, hover over a block where you want to add a new element and click on the *Add element icon* in Preview Area.
 {{< /hint >}}
 
 ## Adjust element properties
 ***
 
 {{< hint >}}
-To view and customise an element properties, select the element by click and press the Edit icon on Preview Area or just double click on the element.
+To view and customise an element properties, select the element by click and press the *Edit icon* on Preview Area or just double click on the element.
 {{< /hint >}}
 
 ### **Text**
@@ -45,6 +45,11 @@ To view and customise an element properties, select the element by click and pre
 
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
+
+[To adjust a page fonts, use the page settings.](/docs/fonts)
+
+**Text properties:**
+
 - **Size** - the font size
 - **Line** - the line height (the vertical distance between lines of text)
 - **Color** - the text color
@@ -52,7 +57,7 @@ To view and customise an element properties, select the element by click and pre
 - **Link Hover Color** - the color of the link on hover
 - **Underline** - apply a word underline
 - **Underline Hover** - show a word underline on hover
-- **Open new window** - use a new browser tab to open a link on click
+- **Open new window** - use a new browser tab to open a link
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
@@ -61,6 +66,11 @@ TODO image интерфейс или иллюстрация с настройк�
 {{< /tab >}}
 
 {{< tab "ICON WITH TEXT" >}}
+
+[To adjust a page fonts, use the page settings.](/docs/fonts)
+
+**Text and icon properties:**
+
 - **Size** - the font size
 - **Line** - the line height (the vertical distance between lines of text)
 - **Color** - the text color
@@ -78,6 +88,33 @@ TODO image интерфейс или иллюстрация с настройк�
 
 ### **Buttons**
 ***
+
+Call-to-action buttons are some of the most significant elements on your landing page. 
+
+A call-to-action button is a piece of text or an image, that tells your audience what you want them to do next. 
+For instance, after clicking on the call-to-action button it scroll down to the sign up form section.
+
+{{< hint >}}
+To add an action to the button, first of all, select the button in Preview Area and click on the *Link icon* at the top-left corner.
+
+In the opened tooltip select one of the actions:
+
+- **Open URL** - while clicking on the button, user is redirected to the specified web page.
+    - Enter the link in the *URL field*.
+    - Enable the *Open in new window*, to use a new browser tab to open a link.
+    - Click *Done*.
+- **Open video popup** - while clicking on the button, the video popup is displayed.
+    - Enter the link to the YouTube video resource in the *Video field*.
+    - Click *Done*.
+- **Scroll into section** - while clicking on the button, the landing page is scrolled to the particular section.
+    - Choose which section to scroll to.
+    - Select a scroll behaviour: Auto, Instant, Smooth.
+    - Click *Done*.
+{{< /hint >}}
+
+TODO image интерфейс попап с настройками события для кнопки с выбранными значениями: Action - Scroll into section, Scroll to - FromCenterFantasy, Scroll behavior - Smooth
+
+**Button properties:**
 
 - **Placeholder text** - the placeholder text
 - **Size** - the text size
@@ -103,12 +140,16 @@ TODO image интерфейс или иллюстрация с настройк�
 ### **Social networks**
 ***
 
-- **Icons width** - the social icon size
-- **Icons color** - the social icon color
-- **Background color** - the background color of the icons' element
-- **Open links in new window** - use a new browser tab to open a link on click
+Social icons are links to your social accounts. Use the [Ptah integration with Open Graph](/docs/seo/#social-media-links) to set up displaying in social posts.
 
-The list of socials' names and links:
+**Social networks properties:**
+
+- **Icons width** - the social network icon size
+- **Icons color** - the social network icon color
+- **Background color** - the background color of the icons' element
+- **Open links in new window** - use a new browser tab to open a link
+
+The list of social networks' names and links:
 
 - **Facebook**
 - **Instagram**
@@ -118,6 +159,12 @@ The list of socials' names and links:
 - **Discord**
 - **Kickstarter**
 - **Wechat**
+
+{{< hint >}}
+To add a social link, click on the Link icon to the right of the network name. In the opened tooltip enter the network link and click *Close*.
+{{< /hint >}}
+
+TODO image интерфейс с попапом с введенной ссылкой на соцсеть
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
@@ -136,6 +183,12 @@ TODO анимация с drag-n-drop на кнопку загрузки карт
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
 - **Image URL** - the image file or the link to the image resource
+
+    **To upload an image from your computer:** drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
+    
+    **To use an external link to the image:** enter the link to the image file
+    TODO animation перетаскивание картинки
+
 - **Stretch to fit** - display the image at the full height of the element
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
@@ -202,13 +255,13 @@ TODO image интерфейс или иллюстрация с настройк�
 
 {{< tabs "elements-html" >}}
 {{< tab "SPACER" >}}
-You can edit the spacer size using the transformation tool.
+You can edit a spacer size using the transformation tool.
 
 TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 {{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "TIMER" >}}
-- **Set timer** - select the ending date
+- **Set timer** - the ending date
 - **Time zone** - the UTC time zone
 - **Labels** - display the labels: Days, Hours, Minutes, Seconds
 - **Position** - the labels position

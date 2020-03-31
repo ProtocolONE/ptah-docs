@@ -13,6 +13,8 @@ headless: true
   - [Size and spacing]({{< relref "/docs/size" >}})
   - [Content alignment]({{< relref "/docs/align" >}})
   - [Background]({{< relref "/docs/background" >}})
+  - [Images]({{< relref "/docs/images" >}})
+  - [Videos]({{< relref "/docs/videos" >}})
   - [Fonts]({{< relref "/docs/fonts" >}})
 - **SITE SETTINGS**
   - [Search Engine Optimization]({{< relref "/docs/seo" >}})

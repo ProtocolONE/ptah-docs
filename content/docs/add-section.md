@@ -18,7 +18,7 @@ After you make a change on Settings Panel the content on the right on Preview Ar
 ***
 
 {{< hint >}}
-Click the Add section icon on Settings Panel and select a desired section from the preview thumbs list.
+Click the *Add section icon* on Settings Panel and select a desired section from the preview thumbs list.
 
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
@@ -33,34 +33,41 @@ You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
 
 {{< hint >}}
-To edit a section, you can hover over a section and click the Settings icon that will be appeared to the upper right of the editable section.
+To edit a section, you can hover over a section and click the *Settings icon* that will be appeared to the upper right of the editable section.
 
 [Set up the size and spacing.](/docs/size/)
 
 [Learn about background properties.](/docs/background/)
 {{< /hint >}}
 
-**Main sections**
+Apply some custom properties to sections:
 
-{{< tabs "sections-main" >}}
-{{< tab "HEADER" >}}
+### HEADER
+
 - **Sticky position** - creates a fixed (sticky) header on scroll.
 
 TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< tab "FORMS" >}}
-- **Form integrations** - TODO
+
+### FORMS
+
+- **Form integrations** - 
 
 TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< /tabs >}}
 
-**Sections for graphics**
+### PRODUCTS
 
-{{< tabs "sections-images-video" >}}
-{{< tab "SLIDER" >}}
+- **Standart** - TODO
+- **Full** - TODO
+- **Deluxe** - TODO
+- **Ultimate** - TODO
+
+TODO image интерфейс с готовыми настройками
+{{< figure src="/images/tmp.png">}}
+
+### SLIDER
+
 - **Number of slides in the banner** - from 2 to 6 slides available.
 - **Show/hide pagination** - TODO
 - **Pagination color** - TODO
@@ -72,8 +79,9 @@ TODO image интерфейс с готовыми настройками
 
 TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< tab "GALLERIES (Carousel)" >}}
+
+### GALLERIES (Carousel)
+
 - **Image** - TODO
 - **Show/hide pagination** - TODO
 - **Pagination color** - TODO
@@ -84,14 +92,12 @@ TODO image интерфейс с готовыми настройками
 
 TODO image интерфейс с готовыми настройками
 {{< figure src="/images/tmp.png">}}
-{{< /tab >}}
-{{< /tabs >}}
 
 ## Change sections order
 ***
 
 {{< hint >}}
-To change the sections order, drag and drop a section on Settings Panel.
+To change the sections order, drag and drop a section on Settings Panel up or down and view the result in Preview Area.
 {{< /hint >}}
 
 TODO animation
@@ -100,13 +106,13 @@ TODO animation
 ## Remove content from the page
 ***
 
-On hover over any object on the page, you can view a Deletion icon at the top-right object's corner.
+On hover over any object on the page, you can view a *Deletion icon* at the top-right object's corner.
 
 ### Remove a section
 ***
 
 {{< hint >}}
-To remove a section, hover over and click on the Deletion icon on Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
+To remove a section, hover over and click on the *Deletion icon* on Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
 {{< /hint >}}
 
 TODO animation
@@ -116,7 +122,7 @@ TODO animation
 ***
 
 {{< hint >}}
-To remove an element from a section, hover over and click on the Deletion icon on Preview Area.
+To remove an element from a section, hover over and click on the *Deletion icon* on Preview Area.
 {{< /hint >}}
 
 TODO animation
