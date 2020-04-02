@@ -24,7 +24,7 @@ TODO animation перетаскивание элемента в строке и 
 ## Adjust block properties
 ***
 
-[Set up the size and indents.](/docs/size)
+[Set up the size and indents.](/docs/size/)
 
 ## Add an element to the section
 ***
