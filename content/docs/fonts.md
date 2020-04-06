@@ -6,10 +6,8 @@ bookToc: true
 # Typography
 ***
 
-The landing page design must be on-brand. It's recommended to use from 1 to 3 typefaces. 
-If you have more than 3 typefaces it can make your page chaotic. 
-
-Once you have chosen the right typeface, typography makes your landing page appealing and readable.
+The landing page design must be on-brand. 
+Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
 
 ## Set up fonts
 ***
@@ -22,7 +20,30 @@ To adjust a page fonts, click the *Settings icon* on the top menu. Choose the *F
 
 TODO image настройки размеров шрифтов
 
+{{< hint warning >}}
+It's recommended to use from 1 to 3 typefaces. 
+If you have more than 3 typefaces it can make your page chaotic and slow down page load.
+{{< /hint >}}
+
 [Learn more how to customise text properties.](/docs/edit-section/#adjust-element-properties)
+
+## Set up a color palette
+***
+
+Colors perception in branding is one of an important aspects because color influence the psychology behind decision-making, thus the landing page conversion rate.
+
+You can take advantage of Ptah Style to generate a color palette from a game screenshot, background image and others. 
+Ptah color palette generator will create color combinations for texts and buttons.
+
+{{< hint >}}
+To adjust colors, click on the *Page Style* icon in Navigation Panel. Choose the *Colors tab* and upload an image.
+{{< /hint >}}
+
+TODO image интерфейс настроек палитры
+
+{{< hint warning >}}
+It's recommended to stick from 3 to 5 colors for a landing page.
+{{< /hint >}}
 
 ***
 

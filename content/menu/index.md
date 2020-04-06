@@ -8,7 +8,7 @@ headless: true
   - [Add a section]({{< relref "/docs/add-section" >}})
   - [Setting up a payment system]({{< relref "/docs/payments" >}})
   - [Preview and publish]({{< relref "/" >}})
-  - [Marketing]({{< relref "/docs/optimization" >}})
+  - [Marketing]({{< relref "/docs/marketing" >}})
 - **PAGE EDITING**
   - [Edit a section content]({{< relref "/docs/edit-section" >}})
   - [Size and spacing]({{< relref "/docs/size" >}})
