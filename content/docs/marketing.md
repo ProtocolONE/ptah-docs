@@ -233,7 +233,7 @@ TODO image заменить иллюстрацию
 {{< figure src="https://blog.enjin.io/content/images/2019/08/3.png">}}
 
 {{< hint >}}
-To add the footer sections to the page, add Ptah sections **Footer**, **Forms** and additional custom web elements. [Learn how to use the Ptah elements library.](/docs/edit-section/)
+To add the footer sections to the page, add Ptah sections **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией

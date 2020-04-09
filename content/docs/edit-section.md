@@ -288,6 +288,32 @@ TODO image интерфейс или иллюстрация с настройк�
 {{< /tab >}}
 {{< /tabs >}}
 
+## Duplicate an element
+***
+
+You can easily duplicate any element on your page and drag it to a desired position.
+
+{{< hint >}}
+To clone an element, click on the element. At the top-left corner of the element's selection click on the *Clone icon*.
+{{< /hint >}}
+
+TODO иллюстрация с иконками
+{{< figure src="/images/img13.png">}}
+
+## Copy element styles
+***
+
+If you've perfectly styled some element you can copy its properties to another element with the same type.
+
+{{< hint >}}
+To copy element's styles, click on the element. At the top-left corner of the element's selection click on the *Copy icon*.
+
+To paste just copied styles, click on the specific element. At the top-left corner of the element's selection click on the *Paste icon*.
+{{< /hint >}}
+
+TODO иллюстрация с иконками
+{{< figure src="/images/img14.png">}}
+
 ***
 
 {{< hint info >}}
