@@ -236,7 +236,7 @@ TODO image интерфейс или иллюстрация с настройк�
 
 - **Icons width** - the platform icon size
 
-The list of the age ratings:
+The list of content age ratings:
 
 - **Age**
 - **PEGI** 
