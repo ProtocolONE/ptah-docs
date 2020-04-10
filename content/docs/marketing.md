@@ -50,9 +50,7 @@ You can implement any creative ideas from scratch using a blank page.
 
 There are **3 must-have landing page elements** to build your brand.
 
-> TODO image, на которой изображен главный экран с логотипом и рядом схема: логотип, шрифты, цвета. Пример:
-
-{{< figure src="/images/img12.png">}}
+{{< figure src="/images/3-must-have-landing-elements.png">}}
 
 {{< columns >}}
 ✨ **Logo**
@@ -74,11 +72,7 @@ You can take advantage of Ptah Style [to generate a color palette for texts and 
 
 Detailed instructions on how to create great content for each section:
 
-TODO картинка со всеми разделами и подписать все элементы как тут https://blog.enjin.io/content/images/2019/07/indie-game-webiste-call-to-action-1.png
-
-И еще пример с подсказками к картинке https://www.indiegamegirl.com/wp-content/uploads/2014/04/perfect-landing-page-design.jpg
-
-{{< figure src="https://blog.enjin.io/content/images/2019/10/_indie-game-website-landing-page-template-structure--1-.png">}}
+{{< figure src="/images/structure.png">}}
 
 ### Header
 
@@ -94,8 +88,7 @@ Tips for this section:
 - The CTA button should be designed in a contrasting color
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/07/indie-game-webiste-call-to-action-1.png">}}
+{{< figure src="/images/HEADER.png">}}
 
 {{< hint >}}
 To add a header to the page, choose from one of the Ptah **Header** sections.
@@ -119,8 +112,7 @@ Tips for this section:
 - Image or video next to the headline or as a background (optionally)
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/07/indie-game-webiste-call-to-action-1.png">}}
+{{< figure src="/images/CALL-TO-ACTION.png">}}
 
 {{< hint >}}
 To add the call-to-action section to the page, choose from one of the Ptah **FirstScreen** sections.
@@ -141,8 +133,7 @@ Tips for this section:
 - The limit for a video file is 50 MB. [Recommended video parameters.](/docs/videos/#recommended-video-parameters)
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/08/2.png">}}
+{{< figure src="/images/VIDEO.png">}}
 
 {{< hint >}}
 To add the video section to the page, choose from one of the Ptah **FirstScreen** sections with video.
@@ -161,8 +152,7 @@ Tips for this section:
 - Make a short paragraphs or sentences
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/08/3.png">}}
+{{< figure src="/images/FEATURES.png">}}
 
 {{< hint >}}
 To add the features section to the page, choose from one of the Ptah **Columns** sections.
@@ -183,8 +173,7 @@ Tips for this section:
 - [Reduce an image size to speed up the page load time](https://tinypng.com/)
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/08/4-5.png">}}
+{{< figure src="/images/SLIDER.png">}}
 
 {{< hint >}}
 To add the slider section to the page, choose from one of the Ptah **Slider** sections.
@@ -208,8 +197,7 @@ Tips for this section:
 - Statistical evidence
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/08/3.png">}}
+{{< figure src="/images/AWARDS.png">}}
 
 {{< hint >}}
 To add the reviews and awards section to the page, choose from one of the Ptah **Columns** sections.
@@ -229,8 +217,7 @@ Tips for this section:
 - The privacy policy and terms of service documentation
 {{< /hint >}}
 
-TODO image заменить иллюстрацию
-{{< figure src="https://blog.enjin.io/content/images/2019/08/3.png">}}
+{{< figure src="/images/FOOTER.png">}}
 
 {{< hint >}}
 To add the footer sections to the page, add Ptah sections **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)

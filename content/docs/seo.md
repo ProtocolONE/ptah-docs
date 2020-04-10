@@ -12,8 +12,7 @@ First of all, you should always keep in touch that your website is designed for 
 
 **As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.**
 
-TODO image Иллюстрация заменить эту картинку на такую же, но в нашем стиле
-{{< figure src="/images/img3.png">}}
+{{< figure src="/images/seo.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
 We recommend using Ptah Settings to adjust SEO parameters of your landing page.
@@ -67,8 +66,7 @@ Start using HTTPS because this protocol uses an SSL certificate to move data. It
 
 Moreover, at the Chrome browser’s alerting system looks more reliable for the user if the website uses HTTPS protocol:
 
-TODO image иллюстрация оповещений о протоколе https и http в строке бразера
-{{< figure src="/images/img4.png">}}
+{{< figure src="/images/alerts.png">}}
 
 ## Keep reader-friendly URLs
 ***
@@ -175,7 +173,7 @@ You can use Ptah pre-designed sections and elements to organize content:
 - Icon with text
 {{< /hint >}}
 
-TODO images иллюстрации или интерфейс с примерами расположения текстовой информации на лэндинге, возможно как нужно делать и как не стоит делать
+TODO интерфейс с примерами расположения текстовой информации на лэндинге, возможно как нужно делать и как не стоит делать
 
 [Take a look at how to adjust the ready-to-use sections.](/docs/add-section)
 
@@ -184,8 +182,7 @@ TODO images иллюстрации или интерфейс с примерам
 
 Encourage people to share your content using your social media links. It's important to have the optimized page's URL, title and description because they are displayed in a sharing message.
 
-TODO image иллюстрация как выглядит пост и указатели на название, описание и картинку
-{{< figure src="/images/img7.png">}}
+{{< figure src="/images/post.png">}}
 
 {{< hint >}}
 To add social icons to any block hover, over the block and click on the *Add element icon* at the top-left. Select the *Social networks element* and set up desired social icons and enter links in Settings Panel.
