@@ -6,9 +6,9 @@ bookToc: true
 # How to use Mailchimp on your landing page
 ***
 
-Through Ptah Integrations you can collect email addresses and grow your subscriber list using integration with Mailchimp as an email marketing service. 
+Ptah offers a seamless integration to Mailchimp for you to easily create an email subscription form on your landing page. 
 
-To start, you need to allow Mailchimp service connect to your landing page in Ptah Builder.
+To start, you need to authorize Mailchimp to connect to your landing page in Ptah Builder.
 
 {{< hint >}}
 Click the Settings icon on the top menu. Choose the *Integrations tab* and click the *Mailchimp icon*.
@@ -22,20 +22,20 @@ TODO image интерфейс настройки с заполненной фо�
 ## Select a Mailchimp audience
 ***
 
-Once you've synced to Mailchimp, you can select one of the audiences where to store emails entered to your landing page web forms.
+Once you've synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.
 
 {{< hint >}}
-Open *Settings* > the *Integrations tab* > the *Mailchimp icon*. 
-Select your Mailchimp audience for form submissions from the drop-down menu.
+Open *Settings* > *Integrations tab* > *Mailchimp icon*. 
+Select your Mailchimp audience from the drop-down menu.
 {{< /hint >}}
 
 TODO image интерфейс настроек Mailchimp с выборанным значением для списка
 {{< figure src="/images/img9.png">}}
 
-## Add a form to collect users emails
+## Add an email subscription form
 ***
 
-Now you can add a section with a form in your landing page and start collecting users emails. 
+Now you can add a section with an email subscription form to your landing page. 
 
 TODO image интерфейс с формой ввода email в превью и слева настройки про интеграцию с Mailchimp
 {{< figure src="/images/img8.png">}}
