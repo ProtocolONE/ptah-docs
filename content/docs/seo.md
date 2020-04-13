@@ -90,7 +90,7 @@ Search engines can decrypt from uppercase and lowercase letters in URLs, which c
 The title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
 Remember, the title appears in search engines and the Web browser’s title bar.
 
-TODO image иллюстрация отображения названия сайта во вкладке браузера и в поисковой выдаче Google
+{{< figure src="/images/seo1.png">}}
 
 {{< hint >}}
 To add a page title, click the *Settings icon* on the top menu. Choose the *SEO tab* to enter a title text and click *Save*.
@@ -116,7 +116,7 @@ It's not a character limit, but you can take into account, that the title length
 
 The page description provides a summary of a web page. Search engines such often display the page description in search results.
 
-TODO image иллюстрация отображения описания сайта в поисковой выдаче Google
+{{< figure src="/images/seo2.png">}}
 
 - **Use your keywords at the beginning at the description**
 
@@ -173,7 +173,7 @@ You can use Ptah pre-designed sections and elements to organize content:
 - Icon with text
 {{< /hint >}}
 
-TODO интерфейс с примерами расположения текстовой информации на лэндинге, возможно как нужно делать и как не стоит делать
+{{< figure src="/images/skimmable.png">}}
 
 [Take a look at how to adjust the ready-to-use sections.](/docs/add-section)
 
@@ -205,8 +205,7 @@ To set up Open Graph tags, click the *Settings icon* on the top menu. Choose the
 - **Locale: Alternate** - defines the second content language.
 {{< /hint >}}
 
-TODO image интерфейс настройки Open Graph для SEO
-{{< figure src="/images/img6.png">}}
+{{< figure src="/images/open-graph-tags.png">}}
 
 ## Optimize visual data
 ***
