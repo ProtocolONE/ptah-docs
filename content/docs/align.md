@@ -16,14 +16,14 @@ To set the alignment of a block's content open the block properties by hover ove
 ***
 
 {{< hint >}}
-To display elements of a block in one line click on the *Row Direction icon*.
+To display elements of a block in one line click the *Row Direction icon*.
 {{< /hint >}}
 
 TODO images интерфейс с настройками и в превью отображение элементов в строку
 {{< figure src="/images/tmp.png">}}
 
 {{< hint >}}
-To display each element of a block on a new line click on the *Column Direction icon*.
+To display each element of a block on a new line click the *Column Direction icon*.
 {{< /hint >}}
 
 TODO images интерфейс с настройками и в превью отображение тех же самых элементов в столбец

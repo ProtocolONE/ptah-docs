@@ -6,16 +6,16 @@ bookToc: true
 # How to use Google Analytics on your landing page
 ***
 
-Through Ptah Integrations you can connect your site to Google Analytics to view the landing page report, to track your landing page conversion and other useful reports.
+Ptah has a Google Analytics integration for your landing pages.
 
-To start, you'll need a Google Analytics account.
+To start, you need a Google Analytics account and your tracking ID.
 
 {{< hint >}}
 - Click the *Settings icon* on the top menu. Choose the *Integrations tab* and click the *Google Analytics icon*.
-- In the *Google site tag field*, enter your tracking ID for your landing page.
+- In the *Google site tag field*, enter your Google Analytics tracking ID.
 - Click *Apply*.
 
-After Google Analytics connected, you should wait until the data will be fully processed. The sync may take up to 24 hours depending on your Google Analytics version.
+You may start getting data in your Google Analytics account in up to 24 hours.
 {{< /hint >}}
 
 TODO image интерфейс настройки GA с введенным tracking ID

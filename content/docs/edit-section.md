@@ -30,14 +30,14 @@ TODO animation перетаскивание элемента в строке и 
 ***
 
 {{< hint >}}
-To add an element to the section, hover over a block where you want to add a new element and click on the *Add element icon* in Preview Area.
+To add an element to the section, hover over a block where you want to add a new element and click the *Add element icon* in Preview Area.
 {{< /hint >}}
 
 ## Adjust element properties
 ***
 
 {{< hint >}}
-To view and customise an element properties, select the element by click and press the *Edit icon* on Preview Area or just double click on the element.
+To view and customise an element properties, select the element by click and press the *Edit icon* on Preview Area or just double click the element.
 {{< /hint >}}
 
 ### **Text**
@@ -95,7 +95,7 @@ A call-to-action button is a piece of text or an image, that tells your audience
 For instance, after clicking on the call-to-action button it scroll down to the sign up form section.
 
 {{< hint >}}
-To add an action to the button, first of all, select the button in Preview Area and click on the *Link icon* at the top-left corner.
+To add an action to the button, first of all, select the button in Preview Area and click the *Link icon* at the top-left corner.
 
 In the opened tooltip select one of the actions:
 
@@ -161,7 +161,7 @@ The list of social networks' names and links:
 - **Wechat**
 
 {{< hint >}}
-To add a social link, click on the Link icon to the right of the network name. In the opened tooltip enter the network link and click *Close*.
+To add a social link, click the Link icon to the right of the network name. In the opened tooltip enter the network link and click *Close*.
 {{< /hint >}}
 
 TODO image интерфейс с попапом с введенной ссылкой на соцсеть
@@ -294,7 +294,7 @@ TODO image интерфейс или иллюстрация с настройк�
 You can easily duplicate any element on your page and drag it to a desired position.
 
 {{< hint >}}
-To clone an element, click on the element. At the top-left corner of the element's selection click on the *Clone icon*.
+To clone an element, click the element. At the top-left corner of the element's selection click on the *Clone icon*.
 {{< /hint >}}
 
 TODO иллюстрация с иконками
@@ -306,9 +306,9 @@ TODO иллюстрация с иконками
 If you've perfectly styled some element you can copy its properties to another element with the same type.
 
 {{< hint >}}
-To copy element's styles, click on the element. At the top-left corner of the element's selection click on the *Copy icon*.
+To copy element's styles, click the element. At the top-left corner of the element's selection click on the *Copy icon*.
 
-To paste just copied styles, click on the specific element. At the top-left corner of the element's selection click on the *Paste icon*.
+To paste just copied styles, click the specific element. At the top-left corner of the element's selection click on the *Paste icon*.
 {{< /hint >}}
 
 TODO иллюстрация с иконками

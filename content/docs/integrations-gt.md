@@ -6,24 +6,27 @@ bookToc: true
 # How to set up Google Tag Manager on your landing page
 ***
 
-The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page.
-Thus you can update the contents from the Tag Manager user interface.
+The Google Tag Manager container snippet (a tag) is a small piece code loads with your landing page. 
+It works together with Google Analytics and allows you to collect data and event on your landing page such as:
 
-When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data: 
-monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events.
+* monitor form submissions
+* track how people arrive at your site
+* monitor link clicks
+* track the scrolling
+* and other events
 
 To start, you'll need a Google Analytics account.
 
-## Create a Google Tag account for you landing page
+## Create a Google Tag account for your landing page
 ***
 
 - Log into your Google Analytics account and go to [Google Tag Manager](https://tagmanager.google.com/).
-- Add a new account for your landing page and accept the Google Tag Manager Terms of Service Agreement.
+- Add a new Google Tag Manager account for your landing page.
 
 TODO image эту картинку сделать в нашем стиле (доступ к аккаунту у меня есть, можно переделать эту картинку)
 {{< figure src="/images/img10.png">}}
 
-## Connect your Google Tag account with Ptah
+## Connect your Google Tag account to Ptah
 ***
 
 - Click the Settings icon on the top menu. Choose the *Integrations tab* and click the *Google Tag icon*.
@@ -35,10 +38,10 @@ TODO image интерфейс настройки GT с введенным contai
 ## Create a tag with Google Analytics
 ***
 
-You can configure a lot of tags depending on the events and triggers. 
-Anytime [an event](https://support.google.com/tagmanager/answer/6106716) is registered by Google Tag Manager, [event triggers](https://support.google.com/tagmanager/topic/7679108) are evaluated and tags are fired accordingly. 
+You can configure a lot of tags that depend on events and triggers on your own. 
+Anytime [an event](https://support.google.com/tagmanager/answer/6106716) is registered with Google Tag Manager, [event triggers](https://support.google.com/tagmanager/topic/7679108) are evaluated and tags are fired accordingly. 
 
-For example, this video shows how to notify Google Analytics anytime someone views your landing page:
+For example, this video by Google shows how to notify Google Analytics anytime someone views your landing page:
 
 <iframe width="400" height="230" src="https://www.youtube.com/embed/MmhDzlkillU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

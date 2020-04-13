@@ -33,7 +33,7 @@ You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
 
 {{< hint >}}
-To edit a section, you can hover over a section and click the *Settings icon* that will be appeared to the upper right of the editable section.
+To edit a section, you can hover over a section and click the *Settings icon* that will appear on the upper right of the editable section.
 
 [Set up the size and spacing.](/docs/size/)
 
@@ -106,13 +106,13 @@ TODO animation
 ## Remove content from the page
 ***
 
-On hover over any object on the page, you can view a *Deletion icon* at the top-right object's corner.
+On hover over any object on the page, you can view the *Delete icon* on the top-right object's corner.
 
 ### Remove a section
 ***
 
 {{< hint >}}
-To remove a section, hover over and click on the *Deletion icon* on Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
+To remove a section, hover over and click the *Delete icon* in Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
 {{< /hint >}}
 
 TODO animation
@@ -122,7 +122,7 @@ TODO animation
 ***
 
 {{< hint >}}
-To remove an element from a section, hover over and click on the *Deletion icon* on Preview Area.
+To remove an element from a section, hover over and click the *Delete icon* in Preview Area.
 {{< /hint >}}
 
 TODO animation

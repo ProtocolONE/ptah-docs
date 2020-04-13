@@ -36,7 +36,7 @@ TODO image интерфейс с настройками фона секции
 Grouping sections helps you to make the same background for all child sections.
 
 {{< hint >}}
-To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click on the *Group selected button*.
+To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click  the *Group selected button*.
 
 Now you can set a background of the group clicking on the *Image icon* at the end of the group's name. The group background replaces their child sections' backgrounds.
 {{< /hint >}}
@@ -56,7 +56,7 @@ TODO image интерфейс настройки фона всей страни�
 ***
 
 {{< hint >}}
-To add a solid color, open background settings of the section (or block) and click on the *Color* in Settings Panel. 
+To add a solid color, open background settings of the section (or block) and click the *Color* in Settings Panel. 
 Now you can pick the color in the Color Picker.
 {{< /hint >}}
 
@@ -111,7 +111,7 @@ Set the position of the background image:
 - **Top** - moves an image vertically.
 
 {{< hint warning >}}
-To center an image, click on the round icon at the center of the preview image area in Settings Panel.
+To center an image, click the round icon at the center of the preview image area in Settings Panel.
 {{< /hint >}}
 TODO animation
 
@@ -219,7 +219,7 @@ TODO image интерфейс картинка с настройками фон�
 ***
 
 {{< hint >}}
-To remove a background image from a section (or block) open Settings Panel for and click on the *Remove icon*.
+To remove a background image from a section (or block) open Settings Panel for and click the *Remove icon*.
 {{< /hint >}}
 
 TODO image интерфейс настройки с конкой удаления изображения
