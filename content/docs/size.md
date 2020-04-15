@@ -30,8 +30,7 @@ The spacing settings allows you to set the top, bottom, left and right margin an
 To make all margin or padding values equal, click the Chain icon and set just one of the value and the others will get the same value automatically.
 {{< /hint >}}
 
-TODO image
-{{< figure src="/images/spacing5.png">}}
+{{< figure src="/images/margin.png">}}
 
 ## Size settings and units
 ***
