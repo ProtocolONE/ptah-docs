@@ -27,7 +27,7 @@ To edit indents for a section or a block, hover over and click the *Settings ico
 You can update an element's indents right on Settings Panel after selecting the element.
 
 The spacing settings allows you to set the top, bottom, left and right margin and padding of an element. 
-To make all margin or padding values equal, click the Chain icon and set just one of the value and the others will get the same value automatically.
+To make all margin or padding values equal, click the *Chain icon* and set just one of the value and the others will get the same value automatically.
 {{< /hint >}}
 
 {{< figure src="/images/margin.png">}}
