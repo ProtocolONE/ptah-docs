@@ -135,7 +135,7 @@ TODO animation
 {{< /hint >}}
 
 - [Edit section content and properties](/docs/edit-section/)
-- [Setting up a payment system](/docs/payments/)
+- [Set up a payment system](/docs/payments/)
 - [Preview and publish](/docs/release/)
 
 ***

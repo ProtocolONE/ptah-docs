@@ -230,7 +230,7 @@ TODO image интерфейс настройки с конкой удалени�
 **Next steps**
 {{< /hint >}}
 
-- [Spacing on the page and adjust size](/docs/size/)
+- [Adjust size and spacing on the page](/docs/size/)
 - [Customise the alignment of elements](/docs/align/)
 - [Edit a background image and video](/docs/background/)
 

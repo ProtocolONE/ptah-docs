@@ -3,42 +3,42 @@ title: Marketing
 bookToc: true
 ---
 
-# How to create especially effective page?
+# How to create a good landing page for your game?
 ***
 
-## **Define a goal of your landing page**
+## **Define the goal for your landing page**
 
-Ptah will enable you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
+Ptah allows you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
 
-Ptah Builder offers **5 common purposes** to have a game landing page using groups of ready-to-use templates:
+Ptah Builder offers **5 common goals** for your landing pages built-in as ready-to-use templates:
 
 {{< columns >}}
-🎮 **Game selling**
+🎮 **Sell your game**
 
-Design templates contain required sections for in-game keys, a link to the game publishing platforms like Steam or GOG to purchase a game.
-
-<--->
-📧 **Game subscription**
-
-Design templates to offer customers a game subscription.
+The templates contain required sections to sell game keys, a link to game publishing platforms like Steam or GOG.
 
 <--->
-🚀 **Pre-order**
+📧 **Sell a game subscription**
 
-Useful templates to create a landing page if you haven't launched your game yet. It includes a timer section and a form for the pre-order.
+The design is optimised to sell game subscriptions.
+
+<--->
+🚀 **Sell pre-orders**
+
+The templates features a timer and a form for the pre-order.
 {{< /columns >}}
 ***
 {{< columns >}}
-💎 **Multiple edition**
+💎 **Sell multiple editions of your game**
 
-Design templates contain required sections to promote a game with multiple editions or keys.
+Design templates contain required sections to sell a game with multiple editions or key types.
 
 <--->
-🎯 **Leads collection**
+🎯 **Collect leads**
 
-The best templates to capture newsletter subscribers.
+The templates focused on capturing newsletter subscribers.
 <--->
-⭐ **Blank page**
+⭐ **A blank page**
 
 What is more?
 
@@ -55,7 +55,7 @@ There are **3 must-have landing page elements** to build your brand.
 {{< columns >}}
 ✨ **Logo**
 
-The game logo is essential in branding. Your logo can be either the text-only version, the symbol, or text and symbol combined.
+The game logo is essential in branding. Your logo can be a text-only version, a symbol, or a text and a symbol combined.
 
 <--->
 🔠 **Fonts**
@@ -76,22 +76,22 @@ Detailed instructions on how to create great content for each section:
 
 ### Header
 
-A header is the top section of the web page, thus it's the first thing visitors will see. 
-The [fixed (sticky) header](/docs/add-section/#header) will constantly display important information on all sections.
+A header is the top section of the web page, thus it's the first thing visitors see. 
+The [fixed (sticky) header](/docs/add-section/#header) persists on all sections.
 
 {{< hint info >}}
 Tips for this section:
 
-- Focus your customers on one page avoid navigation (menu) and outgoing links
-- The one-liner with your logo and the CTA button
-- A CTA button should have a clear, concise, and obvious offer (*Buy Now on Steam, View on GOG, Get started, Join to Download* and others).
-- The CTA button should be designed in a contrasting color
+- Focus your customers on a single page, avoid navigation, menus and outgoing links
+- A one-liner with your logo and a CTA (Call to Action) button
+- The CTA button should have a clear, concise, and obvious offer (*Buy Now on Steam, View on GOG, Get started, Join to Download* and others).
+- The CTA button should be designed in a contrasting color, easy to notice
 {{< /hint >}}
 
 {{< figure src="/images/HEADER.png">}}
 
 {{< hint >}}
-To add a header to the page, choose from one of the Ptah **Header** sections.
+To add a header to the page, choose from one of Ptah **Header** sections.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -100,22 +100,22 @@ TODO image интерфейс с выбранной секцией
 
 ### Call-to-Action
 
-The main purpose of this section is to make your customers to do an action that depends on your goal, for instance, buy a game, subscribe and others. 
-A headline in this section should accurately describe your game to encourage customers to purchase or other action depending on your goal.
+The main purpose of this section is to inspire your customers perform an action accordingly to your goal: buy a game, subscribe, etc. 
+A headline in this section should describe your game to attract customer interest.
 
 {{< hint info >}}
 Tips for this section:
 
-- Add a headline 6–12 words long and a detailed body text followed below (optionally)
+- Add a 6–12 words long headline and (optionally) a detailed body text below
 - [Use the H1 tag for your headline](/docs/seo/#structure-your-pages-with-headings)
-- Action buttons with a obvious offer (*Buy on Steam, Subscribe Now* and others)
-- Image or video next to the headline or as a background (optionally)
+- Action buttons should have a clear CTA (*Buy on Steam, Subscribe Now*, etc)
+- Consider adding a nice image or a video next to the headline or as a background
 {{< /hint >}}
 
 {{< figure src="/images/CALL-TO-ACTION.png">}}
 
 {{< hint >}}
-To add the call-to-action section to the page, choose from one of the Ptah **FirstScreen** sections.
+Choose the call-to-action section from Ptah **FirstScreen** sections.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -136,7 +136,7 @@ Tips for this section:
 {{< figure src="/images/VIDEO.png">}}
 
 {{< hint >}}
-To add the video section to the page, choose from one of the Ptah **FirstScreen** sections with video.
+Choose a video section from Ptah **FirstScreen** sections with video.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -149,13 +149,13 @@ TODO image интерфейс с выбранной секцией
 Tips for this section:
 
 - Describe 3-6 the most fascinating features
-- Make a short paragraphs or sentences
+- Write a short, easy to read copy
 {{< /hint >}}
 
 {{< figure src="/images/FEATURES.png">}}
 
 {{< hint >}}
-To add the features section to the page, choose from one of the Ptah **Columns** sections.
+Choose the features section from Ptah **Columns** sections.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -164,19 +164,19 @@ TODO image интерфейс с выбранной секцией
 
 ### Slider (Carousel)
 
-Scrolling screenshots is a great way to display a lot of imagery without occupying too much page real estate.
+A scrollable carousel with screenshots is a great way to display a lot of imagery without occupying too much real estate.
 
 {{< hint info >}}
 Tips for this section:
 
-- You should make sure your image more closely matches the dimensions you'll see on screen so you don't need to resize in HTML. [Recommended image parameters.](/docs/images/#recommended-image-parameters)
-- [Reduce an image size to speed up the page load time](https://tinypng.com/)
+- Make sure your images are not larger than they have to be, so your landing page loads even faster. Check out what are the [recommended image parameters.](/docs/images/#recommended-image-parameters) for Ptah.
+- [Tinypng](https://tinypng.com/) is an easy to use service to resize images.
 {{< /hint >}}
 
 {{< figure src="/images/SLIDER.png">}}
 
 {{< hint >}}
-To add the slider section to the page, choose from one of the Ptah **Slider** sections.
+Choose a slider section from one of the Ptah **Slider** sections.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -185,22 +185,22 @@ TODO image интерфейс с выбранной секцией
 
 ### Social proof
 
-This section content helps to build trust and makes it more likely that visitors will convert on your offer.
+This section content helps to build trust and inspires your landing page visitors convert to your players.
 
 {{< hint info >}}
 Tips for this section:
 
 - Ratings and reviews
 - Awards and recognition
-- Customer counters
-- Customer testimonials with avatars
-- Statistical evidence
+- Players number counter
+- Player testimonials with avatars
+- Statistics, numbers and graphs
 {{< /hint >}}
 
 {{< figure src="/images/AWARDS.png">}}
 
 {{< hint >}}
-To add the reviews and awards section to the page, choose from one of the Ptah **Columns** sections.
+Choose the reviews and awards section from Ptah **Columns** sections.
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -214,13 +214,13 @@ Tips for this section:
 
 - Duplicate your CTA button at the bottom
 - Newsletter form (optionally)
-- The privacy policy and terms of service documentation
+- Privacy policy and terms of service
 {{< /hint >}}
 
 {{< figure src="/images/FOOTER.png">}}
 
 {{< hint >}}
-To add the footer sections to the page, add Ptah sections **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)
+Choose footer sections from Ptah **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)
 {{< /hint >}}
 
 TODO image интерфейс с выбранной секцией
@@ -231,10 +231,10 @@ TODO image интерфейс с выбранной секцией
 **Next steps**
 {{< /hint >}}
 
-- [Setting up a payment system](/docs/payments/)
-- [Connect with Google Analytics](/docs/integrations-ga/)
-- [Integrating Google Tag Manager with Google Analytics](/docs/integrations-gt/)
-- [Connect with Mailchimp](/docs/integrations-mailchimp/)
+- [Set up a payment system](/docs/payments/)
+- [Connect to Google Analytics](/docs/integrations-ga/)
+- [Integrate Google Tag Manager and Google Analytics](/docs/integrations-gt/)
+- [Connect to Mailchimp](/docs/integrations-mailchimp/)
 
 ***
 

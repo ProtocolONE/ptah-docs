@@ -46,9 +46,9 @@ TODO image интерфейс с формой ввода email в превью �
 **Next steps**
 {{< /hint >}}
 
-- [Connect with Google Analytics](/docs/integrations-ga/)
-- [Integrating Google Tag Manager with Google Analytics](/docs/integrations-gt/)
-- [Setting up a payment system](/docs/payments/)
+- [Connect to Google Analytics](/docs/integrations-ga/)
+- [Integrate Google Tag Manager and Google Analytics](/docs/integrations-gt/)
+- [Set up a payment system](/docs/payments/)
 
 ***
 

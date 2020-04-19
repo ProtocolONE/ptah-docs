@@ -26,9 +26,9 @@ TODO image интерфейс настройки GA с введенным tracki
 **Next steps**
 {{< /hint >}}
 
-- [Setting up a payment system](/docs/payments/)
-- [Connect with Mailchimp](/docs/integrations-mailchimp/)
-- [Integrating Google Tag Manager with Google Analytics](/docs/integrations-gt/)
+- [Set up a payment system](/docs/payments/)
+- [Connect to Mailchimp](/docs/integrations-mailchimp/)
+- [Integrate Google Tag Manager and Google Analytics](/docs/integrations-gt/)
 
 ***
 

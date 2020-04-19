@@ -16,25 +16,25 @@ bookToc: true
 
 Images are crucial to your landing page design.
 
-To upload an image from your computer or to link to an external resource of the image [follow this instruction](/docs/edit-section/#images-and-videos).
+[Follow this instruction](/docs/edit-section/#images-and-videos) to upload an image from your computer or to link to an external resource.
 
 TODO интерфейс с примером картинки, например продукты
 
 ## Styling a button with images
 ***
 
-Style your buttons with a background image and an image on hover. 
+Style your buttons with a background or a hover image.
 
-[To edit the appearance of buttons, upload images in Settings Panel.](/docs/edit-section/#buttons)
+[Upload images in Settings Panel to style the buttons.](/docs/edit-section/#buttons)
 
 TODO интерфейс с примером кнопки с картинкой
 
 ## Background image
 ***
 
-- [**Cover image**](/docs/background/#add-a-background-to-a-section-or-block) - a background image for the first section of your landing page.
-- [**Placing a background for a section or block**](/docs/background/#add-a-background-to-a-section-or-block) - it emphasizes your products descriptions, forms and other elements.
-- [**Adding a background for the whole page**](/docs/background/#add-a-background-to-a-section-or-block)
+- [**Cover image**](/docs/background/#add-a-background-to-a-section-or-block) - a background image for the cover section of your landing page.
+- [**Add a background to a section or a block**](/docs/background/#add-a-background-to-a-section-or-block) - it emphasizes your products descriptions, forms and other elements.
+- [**Adding a background to the whole page**](/docs/background/#add-a-background-to-a-section-or-block)
 - [**Parallax styling with images**](/docs/background/#fixed-and-parallax-background-image)
 
 ## Recommended image parameters
@@ -54,7 +54,7 @@ TODO интерфейс с примером кнопки с картинкой
 **Next steps**
 {{< /hint >}}
 
-- [Spacing on the page and adjust size](/docs/size/)
+- [Adjust size and spacing on the page](/docs/size/)
 - [Customise the alignment of elements](/docs/align/)
 - [Edit a background](/docs/background/)
 

@@ -22,8 +22,8 @@ TODO интерфейс с примером видео с YouTube в перво�
 ## Fullscreen video background
 ***
 
-To add a dynamic visual effect to your landing page, [place a background video of your game](/docs/background/#full-screen-video-background). 
-Background video plays on loop without sound.
+To add dynamic effects to your landing page, [have a video of your game as a website background](/docs/background/#full-screen-video-background). 
+Background video plays in a loop without sound.
 
 TODO анимация интерфейс с примером фоновым видео в первой секции после хедера
 
@@ -31,7 +31,7 @@ TODO анимация интерфейс с примером фоновым ви
 ***
 
 - **Name:** only use letters, numbers, underscores, and hyphens
-- **Format:** mp4
+- **Format:** mp4 container, encoded with H.264
 - **Size:** the limit for a video is 50 MB
 - **Video length:** under 40 seconds
 - **Frame rate:** around 25 frames per second (fps)
@@ -43,7 +43,7 @@ TODO анимация интерфейс с примером фоновым ви
 **Next steps**
 {{< /hint >}}
 
-- [Spacing on the page and adjust size](/docs/size/)
+- [Adjust size and spacing on the page](/docs/size/)
 - [Customise the alignment of elements](/docs/align/)
 - [Edit a background](/docs/background/)
 
