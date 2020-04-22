@@ -37,7 +37,7 @@ To add an element to the section, hover over a block where you want to add a new
 ***
 
 {{< hint >}}
-To view and customise an element properties, select the element by click and press the *Edit icon* on Preview Area or just double click the element.
+To view and customise element properties, select the element and press the *Edit icon* on Preview Area or just double click the element.
 {{< /hint >}}
 
 ### **Text**
