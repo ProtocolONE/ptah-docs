@@ -6,7 +6,7 @@ bookToc: true
 # Spacing on the page
 ***
 
-You can create extra space around elements to helps your users focus on the content, what may increases conversions.
+You can create extra space around elements to help your users focus on the content, what may increases conversions.
 
 {{< figure src="/images/spacing1.png">}}
 
@@ -73,7 +73,7 @@ TODO image интерфейс с настройками параметров
 ### Text
 ***
 
-[Set up the default text settings in Fonts Settings](TODO).
+[Set up default text settings in Fonts Settings](TODO).
 
 To customise the text size, double-click on it and adjust the font size in pixels (px) in Settings Panel.
 
