@@ -155,7 +155,7 @@ Recommended favicon parameters:
 Search engines typically give headings a higher priority. 
 Hence, use subheaders to break up sections: H2, H3 and so on till H6. So, you can use them to insert your primary keyword in H2 and other keywords in H3, etc.
 
-[You can use Ptah Settings to set up fonts for headings and text.](/docs/fonts)
+[You can use Ptah Settings to set up fonts for headings and text.](/docs/fonts-and-colors)
 
 - **Use only one H1 tag per page**
 - **Use different text in each headings, without duplicates**

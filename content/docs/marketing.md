@@ -60,11 +60,11 @@ The game logo is essential in branding. Your logo can be a text-only version, a 
 <--->
 🔠 **Fonts**
 
-Head over Ptah Fonts and [pick a decent combination of Google Fonts](/docs/fonts/) that reflects the style and tone of your game.
+Head over Ptah Fonts and [pick a decent combination of Google Fonts](/docs/fonts-and-colors/) that reflects the style and tone of your game.
 <--->
 🎨 **Color palette**
 
-You can take advantage of Ptah Style [to generate a color palette for texts and buttons.](/docs/fonts/)
+You can take advantage of Ptah Style [to generate a color palette for texts and buttons.](/docs/fonts-and-colors/)
 {{< /columns >}}
 ***
 

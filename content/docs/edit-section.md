@@ -46,7 +46,7 @@ To view and customise an element properties, select the element by click and pre
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
 
-[To adjust a page fonts, use the page settings.](/docs/fonts)
+[To adjust a page fonts, use the page settings.](/docs/fonts-and-colors)
 
 **Text properties:**
 
@@ -67,7 +67,7 @@ TODO image интерфейс или иллюстрация с настройк�
 
 {{< tab "ICON WITH TEXT" >}}
 
-[To adjust a page fonts, use the page settings.](/docs/fonts)
+[To adjust a page fonts, use the page settings.](/docs/fonts-and-colors)
 
 **Text and icon properties:**
 

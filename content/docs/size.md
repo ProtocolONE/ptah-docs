@@ -98,7 +98,7 @@ TODO animation изменения размера элемента кнопки �
 **Next steps**
 {{< /hint >}}
 
-- [Set up fonts](/docs/fonts/)
+- [Set up fonts and colors](/docs/fonts-and-colors/)
 - [Customise the alignment of elements](/docs/align/)
 - [Edit a background image and video](/docs/background/)
 

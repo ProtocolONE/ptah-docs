@@ -16,7 +16,7 @@ headless: true
   - [Background]({{< relref "/docs/background" >}})
   - [Images]({{< relref "/docs/images" >}})
   - [Videos]({{< relref "/docs/videos" >}})
-  - [Fonts]({{< relref "/docs/fonts" >}})
+  - [Fonts and Colors]({{< relref "/docs/fonts-and-colors" >}})
 - **SITE SETTINGS**
   - [Search Engine Optimization]({{< relref "/docs/seo" >}})
   - [Cookies]({{< relref "/docs/cookies" >}})

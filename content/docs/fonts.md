@@ -36,7 +36,8 @@ You can take advantage of Ptah Style to generate a color palette from a game scr
 Ptah color palette generator provides a color combination for texts and buttons.
 
 {{< hint >}}
-To adjust colors, click the *Page Style* icon in Navigation Panel then select the *Colors tab* and upload an image.
+- To adjust colors, click the *Style* icon in Navigation Panel then select the *Colors tab*.
+- Upload an image to the *Color Palette Generator section*. You can apply the created palette clicking the *Apply palette button* or upload another image to remake it.
 {{< /hint >}}
 
 TODO image интерфейс настроек палитры
