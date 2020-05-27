@@ -9,17 +9,16 @@ bookToc: true
 The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 
 {{< hint >}}
-On hover over a Block or an Element, you can view an icon to set properties at the top-left corner.
+Clicking a Block or an Element in Preview Area, you can view an icon to set properties at the top-left corner.
 {{< /hint >}}
 
-TODO image интерфейс или иллюстрация с этими иконками для секции, блока и элемента
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/ptah-editor-remove-element.png">}}
 
 {{< hint >}}
 All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.
 {{< /hint >}}
 
-TODO animation перетаскивание элемента в строке и в столбце
+{{< figure src="/images/move-elements.gif">}}
 
 ## Adjust block properties
 ***
@@ -33,12 +32,16 @@ TODO animation перетаскивание элемента в строке и 
 To add an element to the section, hover over a block where you want to add a new element and click the *Add element icon* in Preview Area.
 {{< /hint >}}
 
+{{< figure src="/images/add-elements.gif">}}
+
 ## Adjust element properties
 ***
 
 {{< hint >}}
-To view and customise an element properties, select the element by click and press the *Edit icon* on Preview Area or just double click the element.
+To view and customise an element properties, select the element by click and press the *Edit icon* or just double click the element in Preview Area.
 {{< /hint >}}
+
+{{< figure src="/images/edit-element.gif">}}
 
 ### **Text**
 ***
@@ -46,7 +49,7 @@ To view and customise an element properties, select the element by click and pre
 {{< tabs "elements-base" >}}
 {{< tab "TEXT" >}}
 
-[To adjust a page fonts, use the page settings.](/docs/fonts-and-colors)
+[To adjust a page fonts, use Page Style.](/docs/fonts-and-colors)
 
 **Text properties:**
 
@@ -61,13 +64,11 @@ To view and customise an element properties, select the element by click and pre
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 
 {{< tab "ICON WITH TEXT" >}}
 
-[To adjust a page fonts, use the page settings.](/docs/fonts-and-colors)
+[To adjust a page fonts, use Page Style.](/docs/fonts-and-colors)
 
 **Text and icon properties:**
 
@@ -81,8 +82,6 @@ TODO image интерфейс или иллюстрация с настройк�
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -112,8 +111,6 @@ In the opened tooltip select one of the actions:
     - Click *Done*.
 {{< /hint >}}
 
-TODO image интерфейс попап с настройками события для кнопки с выбранными значениями: Action - Scroll into section, Scroll to - FromCenterFantasy, Scroll behavior - Smooth
-
 **Button properties:**
 
 - **Placeholder text** - the placeholder text
@@ -133,9 +130,6 @@ TODO image интерфейс попап с настройками событи�
 - **Hover animation** - the animation on hover: none, tada, shake, bounce
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
-
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 
 ### **Social networks**
 ***
@@ -164,12 +158,7 @@ The list of social networks' names and links:
 To add a social link, click the Link icon to the right of the network name. In the opened tooltip enter the network link and click *Close*.
 {{< /hint >}}
 
-TODO image интерфейс с попапом с введенной ссылкой на соцсеть
-
 [Learn about spacing and how to edit indents for the element](/docs/size/)
-
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 
 ### **Images and Videos**
 ***
@@ -178,7 +167,7 @@ TODO image интерфейс или иллюстрация с настройк�
 To upload or replace an image, drag and drop the image to the Image upload button or to the specific position on the page in Preview Area.
 {{< /hint >}}
 
-TODO анимация с drag-n-drop на кнопку загрузки картинки и на страницу
+{{< figure src="/images/upload-image.gif">}}
 
 {{< tabs "elements-images-videos" >}}
 {{< tab "IMAGE" >}}
@@ -187,14 +176,11 @@ TODO анимация с drag-n-drop на кнопку загрузки карт
     **To upload an image from your computer:** drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
     
     **To use an external link to the image:** enter the link to the image file
-    TODO animation перетаскивание картинки
 
 - **Stretch to fit** - display the image at the full height of the element
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "VIDEO" >}}
 - **Video URL** - the video file or the link to the video resource
@@ -205,8 +191,6 @@ TODO image интерфейс или иллюстрация с настройк�
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -229,8 +213,6 @@ The list of platforms' names:
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "AGE RESTRICTIONS" >}}
 
@@ -245,8 +227,6 @@ The list of content age ratings:
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -257,8 +237,6 @@ TODO image интерфейс или иллюстрация с настройк�
 {{< tab "SPACER" >}}
 You can edit a spacer size using the transformation tool.
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "TIMER" >}}
 - **Set timer** - the ending date
@@ -274,8 +252,6 @@ TODO image интерфейс или иллюстрация с настройк�
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< tab "IFRAME" >}}
 
@@ -283,8 +259,6 @@ TODO image интерфейс или иллюстрация с настройк�
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
 
-TODO image интерфейс или иллюстрация с настройками какие за что отвечают
-{{< figure src="/images/tmp.png">}}
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -297,8 +271,7 @@ You can easily duplicate any element on your page and drag it to a desired posit
 To clone an element, click the element. At the top-left corner of the element's selection click on the *Clone icon*.
 {{< /hint >}}
 
-TODO иллюстрация с иконками
-{{< figure src="/images/img13.png">}}
+{{< figure src="/images/clone-element.gif">}}
 
 ## Copy element styles
 ***
@@ -311,8 +284,7 @@ To copy element's styles, click the element. At the top-left corner of the eleme
 To paste just copied styles, click the specific element. At the top-left corner of the element's selection click on the *Paste icon*.
 {{< /hint >}}
 
-TODO иллюстрация с иконками
-{{< figure src="/images/img14.png">}}
+{{< figure src="/images/copy-style-element.gif">}}
 
 ***
 
