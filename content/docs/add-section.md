@@ -23,7 +23,6 @@ Click the *Add section icon* on Settings Panel and select a desired section from
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
 
-TODO animation
 {{< figure src="/images/add-section.gif">}}
 
 ## Adjust section properties
@@ -44,54 +43,56 @@ Apply some custom properties to sections:
 
 ### HEADER
 
-- **Sticky position** - creates a fixed (sticky) header on scroll.
+- **Sticky position** - creates a fixed (sticky) header on scroll
 
-TODO image интерфейс с готовыми настройками
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/sticky-header.gif">}}
 
 ### FORMS
 
-- **Form integrations** - 
+- **Form integrations** - settings for the [integration to Mailchimp](/docs/integrations-mailchimp/).
 
-TODO image интерфейс с готовыми настройками
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/ptah-editor-integration-mailchimp.png">}}
 
 ### PRODUCTS
 
-- **Standart** - TODO
-- **Full** - TODO
-- **Deluxe** - TODO
-- **Ultimate** - TODO
+Types of the game products:
 
-TODO image интерфейс с готовыми настройками
-{{< figure src="/images/tmp.png">}}
+- **Standart**
+- **Full**
+- **Deluxe**
+- **Ultimate**
+
+{{< figure src="/images/ptah-editor-products.png">}}
 
 ### SLIDER
 
-- **Number of slides in the banner** - from 2 to 6 slides available.
-- **Show/hide pagination** - TODO
-- **Pagination color** - TODO
-- **Nav bullets size** - TODO
-- **Show/hide navigation arrows** - TODO
-- **Navigation color** - TODO
-- **Autoplay** - TODO
-- **Transition delay (ms)** - TODO
+- **Number of slides in the banner** - from 2 to 6 slides available
+- **Show/hide pagination** - shows the pagination bullets (if enabled)
+- **Pagination color** - the pagination bullets color (if pagination enabled)
+- **Nav bullets size** - the pagination bullets size (if pagination enabled)
+- **Show/hide navigation arrows** - shows the navigation arrows (if enabled)
+- **Navigation color** - the navigation arrows color (if navigation enabled)
+- **Autoplay** - makes a slideshow
+- **Transition delay** - if Autoplay is enabled, it's a slides' delay
 
-TODO image интерфейс с готовыми настройками
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/ptah-editor-slider.png">}}
 
 ### GALLERIES (Carousel)
 
-- **Image** - TODO
-- **Show/hide pagination** - TODO
-- **Pagination color** - TODO
-- **Nav bullets size** - TODO
-- **Show/hide navigation arrows** - TODO
-- **Navigation color** - TODO
-- **Autoplay** - TODO
+**Settings**
+- **Show/hide pagination** - shows the pagination bullets (if enabled)
+- **Pagination color** - the pagination bullets color (if pagination enabled)
+- **Nav bullets size** - the pagination bullets size (if pagination enabled)
+- **Show/hide navigation arrows** - shows the navigation arrows (if enabled)
+- **Navigation color** - the navigation arrows color (if navigation enabled)
+- **Autoplay** - makes a slideshow
+- **Transition delay** - if Autoplay is enabled, it's a slides' delay
 
-TODO image интерфейс с готовыми настройками
-{{< figure src="/images/tmp.png">}}
+**Images**
+
+You can upload up to 12 images to the gallery.
+
+{{< figure src="/images/ptah-editor-carousel.png">}}
 
 ## Change sections order
 ***
@@ -103,30 +104,24 @@ To change the sections order, drag and drop a section on Settings Panel up or do
 TODO animation
 {{< figure src="/images/add-section.gif">}}
 
-## Remove content from the page
-***
-
-On hover over any object on the page, you can view the *Delete icon* on the top-right object's corner.
-
-### Remove a section
+## Remove a section
 ***
 
 {{< hint >}}
-To remove a section, hover over and click the *Delete icon* in Preview Area or click the Bucket icon at the end of the section title on Settings Panel.
+To remove a section, click the *Bucket icon* at the end of the section title on Settings Panel.
 {{< /hint >}}
 
-TODO animation
-{{< figure src="/images/add-section.gif">}}
+{{< figure src="/images/ptah-editor-remove-section.png">}}
 
-### Remove an element
+## Remove an element
 ***
 
 {{< hint >}}
-To remove an element from a section, hover over and click the *Delete icon* in Preview Area.
+To remove an element from a section, click to select the element in Preview Area and click the *Delete icon* .
 {{< /hint >}}
 
 TODO animation
-{{< figure src="/images/add-section.gif">}}
+{{< figure src="/images/ptah-editor-remove-element.png">}}
 
 ***
 

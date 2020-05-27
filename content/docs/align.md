@@ -39,8 +39,7 @@ You can horizontally or vertically align elements to left, right, center within 
 - **Horizontal alignment**
 {{< /hint >}}
 
-TODO animation
-{{< figure src="/images/add-section.gif">}}
+{{< figure src="/images/tmp.png">}}
 
 ## Sticky header
 ***
@@ -49,8 +48,7 @@ TODO animation
 You can have the header stay fixed on scroll. To make a header fixed at the top of the page, open the Header Section properties and enable the *Sticky position option* in Settings Panel.
 {{< /hint >}}
 
-TODO image интерфейс с настройками для фиксированного хедера
-TODO animation фиксированный хедер и скролл страницы
+{{< figure src="/images/sticky-header.gif">}}
 
 ***
 
