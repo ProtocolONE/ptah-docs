@@ -74,6 +74,12 @@ Detailed instructions on how to create great content for each section:
 
 {{< figure src="/images/structure.png">}}
 
+Build your desired page from a wide range of Ptah pre-designed blocks
+
+{{< figure src="/images/ptah-editor-section-library.png">}}
+
+{{< figure src="/images/ptah-editor-element-library.png">}}
+
 ### Header
 
 A header is the top section of the web page, thus it's the first thing visitors see. 
@@ -93,8 +99,6 @@ Tips for this section:
 {{< hint >}}
 To add a header to the page, choose from one of Ptah **Header** sections.
 {{< /hint >}}
-
-TODO image интерфейс с выбранной секцией
 
 ***
 
@@ -118,8 +122,6 @@ Tips for this section:
 Choose the call-to-action section from Ptah **FirstScreen** sections.
 {{< /hint >}}
 
-TODO image интерфейс с выбранной секцией
-
 ***
 
 ### Video
@@ -139,8 +141,6 @@ Tips for this section:
 Choose a video section from Ptah **FirstScreen** sections with video.
 {{< /hint >}}
 
-TODO image интерфейс с выбранной секцией
-
 ***
 
 ### Features
@@ -157,8 +157,6 @@ Tips for this section:
 {{< hint >}}
 Choose the features section from Ptah **Columns** sections.
 {{< /hint >}}
-
-TODO image интерфейс с выбранной секцией
 
 ***
 
@@ -178,8 +176,6 @@ Tips for this section:
 {{< hint >}}
 Choose a slider section from one of the Ptah **Slider** sections.
 {{< /hint >}}
-
-TODO image интерфейс с выбранной секцией
 
 ***
 
@@ -203,8 +199,6 @@ Tips for this section:
 Choose the reviews and awards section from Ptah **Columns** sections.
 {{< /hint >}}
 
-TODO image интерфейс с выбранной секцией
-
 ***
 
 ### Footer
@@ -222,8 +216,6 @@ Tips for this section:
 {{< hint >}}
 Choose footer sections from Ptah **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)
 {{< /hint >}}
-
-TODO image интерфейс с выбранной секцией
 
 ***
 
