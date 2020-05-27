@@ -65,10 +65,10 @@ You can use a powerful visual effect to make a full-screen version of the page: 
 {{< figure src="/images/slides.png">}}
 
 {{< hint >}}
-To set up a full screen version, click the *Settings icon* on the top menu and turn on the *Full page scroll* option on the *Visual tab*.
+To set up a full screen version, go *Page Style* > *Background* and turn on the *Full page scroll* option.
 {{< /hint >}}
 
-TODO image интерфейс с настройками параметров
+{{< figure src="/images/full-page-scroll.gif">}}
 
 ### Text
 ***
@@ -90,7 +90,7 @@ You can customize the size of elements in Settings Panel.
 More than that, you can change the size in Preview Area by clicking on the element and stretching the Resizing tool rectangle.
 {{< /hint >}}
 
-TODO animation изменения размера элемента кнопки или картинки за счет инструмента the Resizing tool rectangle
+{{< figure src="/images/resize-tool.gif">}}
 
 ***
 
