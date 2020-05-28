@@ -18,16 +18,12 @@ Images are crucial to your landing page design.
 
 [Follow this instruction](/docs/edit-section/#images-and-videos) to upload an image from your computer or to link to an external resource.
 
-TODO интерфейс с примером картинки, например продукты
-
 ## Styling a button with images
 ***
 
 Style your buttons with a background or a hover image.
 
 [Upload images in Settings Panel to style the buttons.](/docs/edit-section/#buttons)
-
-TODO интерфейс с примером кнопки с картинкой
 
 ## Background image
 ***

@@ -17,15 +17,11 @@ bookToc: true
 
 [Learn how to embed a YouTube video or any MP4 file.](/docs/edit-section/#images-and-videos)
 
-TODO интерфейс с примером видео с YouTube в первой секции после хедера
-
 ## Fullscreen video background
 ***
 
 To add dynamic effects to your landing page, [have a video of your game as a website background](/docs/background/#full-screen-video-background). 
 Background video plays in a loop without sound.
-
-TODO анимация интерфейс с примером фоновым видео в первой секции после хедера
 
 ## Recommended video parameters
 ***

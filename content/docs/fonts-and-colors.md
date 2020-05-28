@@ -15,10 +15,10 @@ Once you have chosen the right typeface and colors, typography makes your landin
 Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
 
 {{< hint >}}
-To adjust page fonts, click the *Settings icon* on the top menu. Select the *Fonts tab* then choose the desired fonts for headlines, text and buttons from the Google Fonts library.
+To adjust page fonts, open *Fonts* on the Settings Panel. Choose the desired fonts for headlines, text and buttons from the Google Fonts library.
 {{< /hint >}}
 
-TODO image настройки размеров шрифтов
+{{< figure src="/images/fonts.png">}}
 
 {{< hint warning >}}
 It's recommended to use from 1 to 3 typefaces. 
@@ -36,11 +36,11 @@ You can take advantage of Ptah Style to generate a color palette from a game scr
 Ptah color palette generator provides a color combination for texts and buttons.
 
 {{< hint >}}
-- To adjust colors, click the *Style* icon in Navigation Panel then select the *Colors tab*.
+- To adjust colors, click the *Page Style* icon in Settings Panel then select the *Colors tab*.
 - Upload an image to the *Color Palette Generator section*. You can apply the created palette clicking the *Apply palette button* or upload another image to remake it.
 {{< /hint >}}
 
-TODO image интерфейс настроек палитры
+{{< figure src="/images/palette.png">}}
 
 {{< hint warning >}}
 It's recommended to limit your color palette from 3 to 5 colors.
