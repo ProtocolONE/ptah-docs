@@ -73,7 +73,7 @@ To set up a full screen version, go *Page Style* > *Background* and turn on the 
 ### Text
 ***
 
-[Set up the default text settings in Fonts Settings](TODO).
+[Set up the default text settings in Fonts](/docs/fonts-and-colors/).
 
 To customise the text size, double-click on it and adjust the font size in pixels (px) in Settings Panel.
 

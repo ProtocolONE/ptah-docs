@@ -188,8 +188,7 @@ Encourage people to share your content using your social media links. It's impor
 To add social icons to any block hover, over the block and click the *Add element icon* at the top-left. Select the *Social networks element* and set up desired social icons and enter links in Settings Panel.
 {{< /hint >}}
 
-TODO images интерфейс настройки ссылок для кнопок социальных сетей
-{{< figure src="/images/img5.png">}}
+{{< figure src="/images/social-icons.png">}}
 
 Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
 

@@ -18,7 +18,7 @@ To start, you need a Google Analytics account and your tracking ID.
 You may start getting data in your Google Analytics account in up to 24 hours.
 {{< /hint >}}
 
-TODO image интерфейс настройки GA с введенным tracking ID
+{{< figure src="/images/integrations-ga.png">}}
 
 ***
 

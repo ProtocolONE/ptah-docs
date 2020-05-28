@@ -18,7 +18,7 @@ Moreover, you can add custom styles using the CSS editor and embed custom script
 - Click *Save* and view the result in Preview Area.
 {{< /hint >}}
 
-TODO image интерфейс примеры кода CSS и JS
+{{< figure src="/images/custom-css-js.png">}}
 
 ***
 

@@ -23,7 +23,6 @@ To start, you'll need a Google Analytics account.
 - Log into your Google Analytics account and go to [Google Tag Manager](https://tagmanager.google.com/).
 - Add a new Google Tag Manager account for your landing page.
 
-TODO image эту картинку сделать в нашем стиле (доступ к аккаунту у меня есть, можно переделать эту картинку)
 {{< figure src="/images/img10.png">}}
 
 ## Connect your Google Tag account to Ptah
@@ -33,7 +32,7 @@ TODO image эту картинку сделать в нашем стиле (до
 - In the *GTM container ID field*, enter your GTM container ID from your Google Tag account.
 - Click *Apply*.
 
-TODO image интерфейс настройки GT с введенным container ID
+{{< figure src="/images/integrations-gt.png">}}
 
 ## Create a tag with Google Analytics
 ***
