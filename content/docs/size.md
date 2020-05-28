@@ -19,10 +19,10 @@ Any element on your page can have spacing that immediately surrounds the element
 
 {{< figure src="/images/spacing3.png">}}
 
-You can customise the padding and margin of any element. 
+You can customise the padding and margin of any element.
 
 {{< hint >}}
-To edit indents for a section or a block, hover over and click the *Settings icon* at the top-right.
+To edit indents for a section, block or element, open its properties.
 
 You can update an element's indents right on Settings Panel after selecting the element.
 

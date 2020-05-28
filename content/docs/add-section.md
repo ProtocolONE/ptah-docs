@@ -18,7 +18,7 @@ After you make a change on Settings Panel the content on the right on Preview Ar
 ***
 
 {{< hint >}}
-Click the *Add section icon* on Settings Panel and select a desired section from the preview thumbs list.
+Click the *Add section icon* in Settings Panel and select a desired section from the preview thumbs list.
 
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
@@ -32,7 +32,7 @@ You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
 
 {{< hint >}}
-To edit a section, you can hover over a section and click the *Settings icon* that will appear on the upper right of the editable section.
+To edit a section, click the *Settings icon* at the end of the section's name in *Section Menu*.
 
 [Set up the size and spacing.](/docs/size/)
 

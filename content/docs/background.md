@@ -25,10 +25,10 @@ You can apply custom settings for the background of a block, section or page.
 ***
 
 {{< hint >}}
-To edit a section background, you can click the *Background icon* on hover over the section in Preview Area or click the same icon on Settings Panel at the end of the section's title.
+To edit a section background, you can click the *Background icon* in Settings Panel at the end of the section's title.
 {{< /hint >}}
 
-TODO image интерфейс с настройками фона секции
+{{< figure src="/images/background-section.gif">}}
 
 **How to edit a background of multiple sections**
 ***
@@ -41,16 +41,16 @@ To make a group, select some sections while holding the key: **Command** for mac
 Now you can set a background of the group clicking on the *Image icon* at the end of the group's name. The group background replaces their child sections' backgrounds.
 {{< /hint >}}
 
-TODO image интерфейс настройки фона для группы
+{{< figure src="/images/background-group-sections.gif">}}
 
 **How to edit a page background**
 ***
 
 {{< hint >}}
-To adjust a page background, click the *Settings icon* on the top menu and choose the *Visual tab*.
+To adjust a page background, open the settings panel *Page Style* and upload an image.
 {{< /hint >}}
 
-TODO image интерфейс настройки фона всей страницы
+{{< figure src="/images/background-page.gif">}}
 
 ## Color fill and opacity
 ***
@@ -64,9 +64,8 @@ Now you can pick the color in the Color Picker.
 - Checking the opacity in the Color Picker changes your background color from transparent to solid. To get a solid color, check the opacity at 100%.
 - To view the color background, examine that there is no image or video background and the overlay color set at 0%.
 {{< /hint >}}
-TODO image интерфейс значения настроек с полупрозрачностью и в превью видна полупрозрачность
 
-You can make the same steps to apply a color to the whole page on the Page Settings in the *Visual tab*.
+{{< figure src="/images/background-color-opacity.gif">}}
 
 ## Gradient
 ***
@@ -74,10 +73,10 @@ You can make the same steps to apply a color to the whole page on the Page Setti
 Increase the visual appeal with the use of gradients.
 
 {{< hint >}}
-To add a color gradient, open the section (or block) properties on Settings Panel and press the *Plus icon* to add new color.
+To add a color gradient, open the section (or block) properties in Settings Panel and press the *Plus icon* to add new color.
 {{< /hint >}}
 
-TODO animation
+{{< figure src="/images/background-gradient.png">}}
 
 {{< hint warning >}}
 - It's possible to add up to 4 colors to the linear gradient.
@@ -91,10 +90,12 @@ TODO animation
 ***
 
 {{< hint >}}
-To insert a background image to the section (or block), click the *Background icon* on hover the section in Preview Area (or use the same icon on Settings Panel at the end of the section's title) and upload the image using the *Upload Image button* or enter the link to the image resource.
+To insert a background image to the section, click the *Background icon* in Settings Panel at the end of the section title.
+
+To upload an image to the block's background, hover over the block in *Preview Area* and click the *Background icon*.
 {{< /hint >}}
 
-TODO animation
+{{< figure src="/images/background-section-block.gif">}}
 
 {{< hint >}}
 Now you can upload an image in two ways:
@@ -103,7 +104,7 @@ Now you can upload an image in two ways:
 - entering a link to the image resource file in the Image field.
 {{< /hint >}}
 
-TODO image интерфейс с указателями как загружать картинку
+{{< figure src="/images/upload-image.png">}}
 
 Set the position of the background image:
 
@@ -113,7 +114,6 @@ Set the position of the background image:
 {{< hint warning >}}
 To center an image, click the round icon at the center of the preview image area in Settings Panel.
 {{< /hint >}}
-TODO animation
 
 Configure the display of the image:
 
@@ -130,15 +130,13 @@ Configure the display of the image:
 You can use an image as a background for the whole page. 
 
 {{< hint >}}
-Click the *Settings icon* on the top menu and choose the *Visual tab*.
+Open the settings panel *Page Style*.
 
-Now you can upload an image in three ways and click *Save*.
+Now you can upload an image in three ways:
 
 - using the Upload Image button,
 - entering a link to the image resource file in the Image field,
 - drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
-
-TODO image интерфейс с указателями как загружать картинку
 {{< /hint >}}
 
 Set the position of the background image:
@@ -152,16 +150,16 @@ Set the position of the background image:
 You can use a video background instead of image to a section or page.
 
 {{< hint >}}
-Open the section's background Properties to check **Use video as background** and upload a video file or enter the link to the resource file.
+Open the section's background Properties, choose *Video tab* and upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
-TODO image интерфейс настроки для секции с видео в качестве фона
+{{< figure src="/images/upload-section-video.png">}}
 
 {{< hint >}}
-To add a video background to the page, open the Page Settings and upload a video file or enter the link to the resource file in the *Visual tab*.
+To add a video background to the page, open the *Page Style* and upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
-TODO image интерфейс настроки для всей страницы с видео в качестве фона
+{{< figure src="/images/upload-page-video.png">}}
 
 ## Add a color overlay to the background
 ***
@@ -172,7 +170,7 @@ Apply a color over an image or video to make a background more contrast for fore
 To add a color filter over the image or video for the section, you can adjust the Overlay Color in Settings Panel and increase or decrease its opacity level.
 {{< /hint >}}
 
-TODO animation
+{{< figure src="/images/color-overlay.png">}}
 
 ## Fixed and parallax background image
 ***
@@ -180,49 +178,39 @@ TODO animation
 Fixed and parallax effects are design techniques:
 
 - when using a fixed background image, the image will remain static, while the content will move over the image as your scroll down the page.
-- when using a parallax background image, both the image and the content will move as your scroll down the page, but at different speeds.
-
 {{< hint >}}
 To add a fixed background to the page:
 
 - [Add a background to the page.](#add-a-background-to-the-page)
-- Enable the *Fixed while scrolling* and click *Save*.
+- Enable the *Fixed while scrolling* in *Page Style* > *Background*.
 {{< /hint >}}
-
-TODO анимация с фиксированным фоном на всей странице
-
+- when using a parallax background image, both the image and the content will move as your scroll down the page, but at different speeds.
 {{< hint >}}
-To add a fixed background to the page:
+To add a parallax to the section background:
 
 - [Add a background to the section.](#add-a-background-to-a-section-or-block)
-- Enable the Parallax on background in Settings Panel.
+- Enable the *Parallax on background* in Settings Panel for this section.
 - Open your landing page in the Preview mode to see the parallax effect clicking the *Preview icon* at the top menu.
 {{< /hint >}}
-
-TODO интерфейс с настройкой Parallax on background
 
 ## Repeat an image for all sections
 ***
 
 You can upload a background image and repeat it for all sections on the page.
 
-TODO image пример одинакового фона для всех секций
-
 {{< hint >}}
 - [Add a background to the page.](#add-a-background-to-the-page)
-- Enable the *Background fill* and click *Save*.
+- Enable the *Background fill* in *Page Style* > *Background*.
 {{< /hint >}}
-
-TODO image интерфейс картинка с настройками фона с параметром Background fill
 
 ## Remove a background image
 ***
 
 {{< hint >}}
-To remove a background image from a section (or block) open Settings Panel for and click the *Remove icon*.
+To remove a background image from a section, block or page open Settings Panel and click the *Delete button*.
 {{< /hint >}}
 
-TODO image интерфейс настройки с конкой удаления изображения
+{{< figure src="/images/delete-image.png">}}
 
 ***
 
