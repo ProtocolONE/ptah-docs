@@ -38,7 +38,7 @@ Grouping sections helps you to make the same background for all child sections.
 {{< hint >}}
 To make a group, select some sections while holding the key: **Command** for macOS or **Control** for Windows, and click  the *Group selected button*.
 
-Now you can set a background of the group clicking on the *Image icon* at the end of the group's name. The group background replaces their child sections' backgrounds.
+Now you can set a background of the group clicking the *Image icon* at the end of the group's name. The group background replaces their child sections' backgrounds.
 {{< /hint >}}
 
 {{< figure src="/images/background-group-sections.gif">}}
@@ -47,7 +47,7 @@ Now you can set a background of the group clicking on the *Image icon* at the en
 ***
 
 {{< hint >}}
-To adjust a page background, open the settings panel *Page Style* and upload an image.
+To adjust a page background, open the panel *Page Style* and upload an image.
 {{< /hint >}}
 
 {{< figure src="/images/background-page.gif">}}
@@ -90,8 +90,10 @@ To add a color gradient, open the section (or block) properties in Settings Pane
 ***
 
 {{< hint >}}
-To insert a background image to the section, click the *Background icon* in Settings Panel at the end of the section title.
+To insert a background image to the section, click the *Background icon* in Settings Panel at the end of the section's title.
+{{< /hint >}}
 
+{{< hint >}}
 To upload an image to the block's background, hover over the block in *Preview Area* and click the *Background icon*.
 {{< /hint >}}
 
@@ -130,7 +132,7 @@ Configure the display of the image:
 You can use an image as a background for the whole page. 
 
 {{< hint >}}
-Open the settings panel *Page Style*.
+Open the panel *Page Style*.
 
 Now you can upload an image in three ways:
 
@@ -150,13 +152,15 @@ Set the position of the background image:
 You can use a video background instead of image to a section or page.
 
 {{< hint >}}
-Open the section's background Properties, choose *Video tab* and upload a video file or enter the link to the resource file.
+- Open the section's background properties clicking the *Background icon* at the end of the section's title.
+- Choose *Video tab* and upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
 {{< figure src="/images/upload-section-video.png">}}
 
 {{< hint >}}
-To add a video background to the page, open the *Page Style* and upload a video file or enter the link to the resource file.
+- To add a video background to the page, open the panel *Page Style*.
+- Upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
 {{< figure src="/images/upload-page-video.png">}}
@@ -182,7 +186,8 @@ Fixed and parallax effects are design techniques:
 To add a fixed background to the page:
 
 - [Add a background to the page.](#add-a-background-to-the-page)
-- Enable the *Fixed while scrolling* in *Page Style* > *Background*.
+- Open *Page Style* > *Background*.
+- Enable the *Fixed while scrolling* option.
 {{< /hint >}}
 - when using a parallax background image, both the image and the content will move as your scroll down the page, but at different speeds.
 {{< hint >}}
@@ -200,7 +205,8 @@ You can upload a background image and repeat it for all sections on the page.
 
 {{< hint >}}
 - [Add a background to the page.](#add-a-background-to-the-page)
-- Enable the *Background fill* in *Page Style* > *Background*.
+- Open *Page Style* > *Background*.
+- Enable the *Background fill* option.
 {{< /hint >}}
 
 ## Remove a background image

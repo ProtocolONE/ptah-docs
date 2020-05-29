@@ -32,7 +32,7 @@ You can build your page from a wide range of pre-designed sections.
 Each section is designed to emphasize a different aspect of your video game.
 
 {{< hint >}}
-To edit a section, click the *Settings icon* at the end of the section's name in *Section Menu*.
+To edit a section, click the *Settings icon* at the end of the section's title in *Section Menu*.
 
 [Set up the size and spacing.](/docs/size/)
 

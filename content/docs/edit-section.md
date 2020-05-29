@@ -92,21 +92,23 @@ To add an element to the section, hover over a block in Preview Area where you w
 Call-to-action buttons are some of the most significant elements on your landing page. 
 
 A call-to-action button is a piece of text or an image, that tells your audience what you want them to do next. 
-For instance, after clicking on the call-to-action button it scroll down to the sign up form section.
+For instance, after clicking the call-to-action button it scroll down to the sign up form section.
 
 {{< hint >}}
-To add an action to the button, first of all, select the button in Preview Area and click the *Link icon* at the element's menu.
+- To add an action to the button, first of all.
+- Select the button in Preview Area.
+- Click the *Link icon* at the element's menu.
 
 In the opened tooltip select one of the actions:
 
-- **Open URL** - while clicking on the button, user is redirected to the specified web page.
+- **Open URL** - while clicking the button, user is redirected to the specified web page.
     - Enter the link in the *URL field*.
     - Enable the *Open in new window*, to use a new browser tab to open a link.
     - Click *Done*.
-- **Open video popup** - while clicking on the button, the video popup is displayed.
+- **Open video popup** - while clicking the button, the video popup is displayed.
     - Enter the link to the YouTube video resource in the *Video field*.
     - Click *Done*.
-- **Scroll into section** - while clicking on the button, the landing page is scrolled to the particular section.
+- **Scroll into section** - while clicking the button, the landing page is scrolled to the particular section.
     - Choose which section to scroll to.
     - Select a scroll behaviour: Auto, Instant, Smooth.
     - Click *Done*.
@@ -156,7 +158,8 @@ The list of social networks' names and links:
 - **Wechat**
 
 {{< hint >}}
-To add a social link, click the *Link icon* to the right of the network name. In the displayed field enter the network link.
+- To add a social link, click the *Link icon* to the right of the network name. 
+- Enter the network link in the displayed field.
 {{< /hint >}}
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)

@@ -11,7 +11,7 @@ Ptah offers a seamless integration to Mailchimp for you to easily create an emai
 To start, you need to authorize Mailchimp to connect to your landing page in Ptah Builder.
 
 {{< hint >}}
-Open *Integrations* > *Mailchimp icon*.
+Open *Integrations* > *Mailchimp*.
 
 - Enter your Mailchimp login and password to log into Mailchimp.
 - Approve Mailchimp to connect your landing page.
@@ -25,7 +25,7 @@ Open *Integrations* > *Mailchimp icon*.
 Once you've synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.
 
 {{< hint >}}
-Open *Integrations* > *Mailchimp icon*. 
+Open *Integrations* > *Mailchimp*. 
 Select your Mailchimp audience from the drop-down menu.
 {{< /hint >}}
 

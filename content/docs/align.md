@@ -9,21 +9,25 @@ bookToc: true
 Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section's blocks.
 
 {{< hint >}}
-To set the alignment of the block's content open the block properties by hovering over it in the Preview Area and click the *Settings icon* at the top-left.
+- To set the alignment of the block's content, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- Click the *Settings icon* at the block's menu.
+- Adjust indents in Settings Panel.
 {{< /hint >}}
 
 ## Flow elements into a row or column
 ***
 
 {{< hint >}}
-To display elements of a block in a line click the *Row Direction icon*.
+- To display elements of a block in a line, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- Click the *Row Direction icon*.
 {{< /hint >}}
 
 TODO images интерфейс с настройками и в превью отображение элементов в строку
 {{< figure src="/images/tmp.png">}}
 
 {{< hint >}}
-To display each element of a block in a new line click the *Column Direction icon*.
+- To display each element of a block in a new line, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- Click the *Column Direction icon*.
 {{< /hint >}}
 
 TODO images интерфейс с настройками и в превью отображение тех же самых элементов в столбец
@@ -34,6 +38,8 @@ TODO images интерфейс с настройками и в превью от
 
 {{< hint >}}
 You can horizontally or vertically align elements to left, right, center within the block.
+
+Hover over the block in the Preview Area and click the *Settings icon* at the block's menu and select the alignment:
 
 - **Vertical alignment**
 - **Horizontal alignment**

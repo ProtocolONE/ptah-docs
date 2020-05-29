@@ -6,7 +6,7 @@ bookToc: true
 # Spacing on the page
 ***
 
-You can create extra space around elements to helps your users focus on the content, what may increases conversions.
+You can create extra space around elements to help your users focus on the content, what may increases conversions.
 
 {{< figure src="/images/spacing1.png">}}
 
@@ -22,19 +22,20 @@ Any element on your page can have spacing that immediately surrounds the element
 You can customise the padding and margin of any element.
 
 {{< hint >}}
-To edit indents for any section, block or element.
-
 You can update indents for an element right on Settings Panel after selecting the element on Preview Area.
 
 To update the block indents, hover over the block and click the *Settings icon* at the top-left corner.
 
-To open the sections Indents Setting, click the *Spacing icon*.
-
-The spacing settings allows you to set the top, bottom, left and right margin and padding of an element. 
-To make all margin or padding values equal, click the *Chain icon* and set just one of the value and the others will get the same value automatically.
+To open the sections Indents Setting, click the *Spacing icon* at the end of the section's title in Sections Menu.
 {{< /hint >}}
 
 {{< figure src="/images/margin.png">}}
+
+{{< hint >}}
+The spacing settings allows you to set the top, bottom, left and right margin and padding of an element. 
+
+To make all margin or padding values equal, click the *Chain icon* and set just one of the value and the others will get the same value automatically.
+{{< /hint >}}
 
 ## Size settings and units
 ***
@@ -91,7 +92,7 @@ You can customize the size of elements in Settings Panel.
 {{< figure src="/images/size2.png">}}
 
 {{< hint >}}
-More than that, you can change the size in Preview Area by clicking on the element and stretching the Resizing tool rectangle.
+More than that, you can change the size in Preview Area by clicking the element and stretching the Resizing tool rectangle.
 {{< /hint >}}
 
 {{< figure src="/images/resize-tool.gif">}}

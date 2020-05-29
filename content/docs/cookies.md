@@ -13,8 +13,10 @@ The General Data Protection Regulation (GDPR) is the European privacy law that r
 {{< /hint >}}
 
 {{< hint >}}
-To inform your visitor that you are using Cookies and receive their approval, click the *Settings icon* on the top menu and choose the *Cookies tab*. 
-Enable the *Use Cookies* and upload a Cookie Policy PDF file, then click *Save*.
+- To inform your visitor that you are using Cookies and receive their approval, open the panel SEO.
+- Enable the *Use Cookies*.
+- Upload a Cookie Policy PDF file
+- Click the *Save button* and view the result in Preview Mode.
 {{< /hint >}}
 
 {{< figure src="/images/cookie-policy.png">}}

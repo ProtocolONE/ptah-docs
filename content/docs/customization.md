@@ -13,9 +13,9 @@ In Ptah Builder you can customise any web element of your landing page.
 Moreover, you can add custom styles using the CSS editor and embed custom scripts using the JavaScript editor in Ptah Settings:
 
 {{< hint >}}
-- To add custom JS or CSS code, click the *Settings icon* on the top menu and choose the *Add custom CSS tab* (or *Add JS Scripts tab*).
+- To add custom JS or CSS code, open the panel Code Injection.
 - In the editor, enter your code (CSS or JavaScript).
-- Click *Save* and view the result in Preview Area.
+- Click the *Save button* and view the result in Preview Area.
 {{< /hint >}}
 
 {{< figure src="/images/custom-css-js.png">}}
