@@ -46,7 +46,6 @@ Now you can add a section with an email subscription form to your landing page.
 
 - [Connect to Google Analytics](/docs/integrations-ga/)
 - [Integrate Google Tag Manager and Google Analytics](/docs/integrations-gt/)
-- [Set up a payment system](/docs/payments/)
 
 ***
 

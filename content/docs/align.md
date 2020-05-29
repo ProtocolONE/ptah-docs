@@ -57,7 +57,6 @@ You can have the header stay fixed on scroll. To make a header fixed at the top 
 {{< /hint >}}
 
 - [Edit a background](/docs/background/)
-- [Set up a payment system](/docs/payments/)
 - [Preview and publish](/docs/release/)
 
 ***

@@ -228,7 +228,6 @@ Google Search Console is a free service that helps you manage your site's presen
 
 - [Connect to Mailchimp](/docs/integrations-mailchimp/)
 - [Connect to Google Analytics](/docs/integrations-ga/)
-- [Set up a payment system](/docs/payments/)
 
 ***
 

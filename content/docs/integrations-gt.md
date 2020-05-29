@@ -52,7 +52,6 @@ For example, this video by Google shows how to notify Google Analytics anytime s
 
 - [Connect to Mailchimp](/docs/integrations-mailchimp/)
 - [Connect to Google Analytics](/docs/integrations-ga/)
-- [Set up a payment system](/docs/payments/)
 
 ***
 

@@ -22,9 +22,13 @@ Any element on your page can have spacing that immediately surrounds the element
 You can customise the padding and margin of any element.
 
 {{< hint >}}
-To edit indents for a section, block or element, open its properties.
+To edit indents for any section, block or element.
 
-You can update an element's indents right on Settings Panel after selecting the element.
+You can update indents for an element right on Settings Panel after selecting the element on Preview Area.
+
+To update the block indents, hover over the block and click the *Settings icon* at the top-left corner.
+
+To open the sections Indents Setting, click the *Spacing icon*.
 
 The spacing settings allows you to set the top, bottom, left and right margin and padding of an element. 
 To make all margin or padding values equal, click the *Chain icon* and set just one of the value and the others will get the same value automatically.

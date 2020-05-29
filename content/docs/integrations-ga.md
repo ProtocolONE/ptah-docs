@@ -26,7 +26,6 @@ You may start getting data in your Google Analytics account in up to 24 hours.
 **Next steps**
 {{< /hint >}}
 
-- [Set up a payment system](/docs/payments/)
 - [Connect to Mailchimp](/docs/integrations-mailchimp/)
 - [Integrate Google Tag Manager and Google Analytics](/docs/integrations-gt/)
 

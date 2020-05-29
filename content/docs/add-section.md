@@ -128,7 +128,6 @@ To remove an element from a section, click to select the element in Preview Area
 {{< /hint >}}
 
 - [Edit section content and properties](/docs/edit-section/)
-- [Set up a payment system](/docs/payments/)
 - [Preview and publish](/docs/release/)
 
 ***
