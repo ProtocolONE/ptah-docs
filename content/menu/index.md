@@ -4,10 +4,7 @@ headless: true
 
 - **GETTING STARTED**
   - [Overview]({{< relref "/" >}})
-  - [Quick start]({{< relref "/docs/quick-start" >}})
   - [Add a section]({{< relref "/docs/add-section" >}})
-  - [Setting up a payment system]({{< relref "/docs/payments" >}})
-  - [Preview and publish]({{< relref "/" >}})
   - [Marketing]({{< relref "/docs/marketing" >}})
 - **PAGE EDITING**
   - [Edit a section content]({{< relref "/docs/edit-section" >}})
