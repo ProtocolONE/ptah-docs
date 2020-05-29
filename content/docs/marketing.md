@@ -97,7 +97,7 @@ Tips for this section:
 {{< figure src="/images/HEADER.png">}}
 
 {{< hint >}}
-To add a header to the page, choose from one of Ptah **Header** sections.
+To add a header to the page, choose one of **Header** sections from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -119,7 +119,7 @@ Tips for this section:
 {{< figure src="/images/CALL-TO-ACTION.png">}}
 
 {{< hint >}}
-Choose the call-to-action section from Ptah **FirstScreen** sections.
+To add a call-to-action section, choose one of the **FirstScreen** sections from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -138,7 +138,7 @@ Tips for this section:
 {{< figure src="/images/VIDEO.png">}}
 
 {{< hint >}}
-Choose a video section from Ptah **FirstScreen** sections with video.
+To add a section with video, choose one of the **FirstScreen** sections with video from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -155,7 +155,7 @@ Tips for this section:
 {{< figure src="/images/FEATURES.png">}}
 
 {{< hint >}}
-Choose the features section from Ptah **Columns** sections.
+To add a features section, choose one of the **Columns** sections with features from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -174,7 +174,7 @@ Tips for this section:
 {{< figure src="/images/SLIDER.png">}}
 
 {{< hint >}}
-Choose a slider section from one of the Ptah **Slider** sections.
+To add a slider section, choose one of the **Slider** sections from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -196,7 +196,7 @@ Tips for this section:
 {{< figure src="/images/AWARDS.png">}}
 
 {{< hint >}}
-Choose the reviews and awards section from Ptah **Columns** sections.
+To add a reviews and awards section, choose one of the **Columns** sections from Ptah Section Library.
 {{< /hint >}}
 
 ***
@@ -214,7 +214,7 @@ Tips for this section:
 {{< figure src="/images/FOOTER.png">}}
 
 {{< hint >}}
-Choose footer sections from Ptah **Footer**, **Forms** and additional custom web elements. [Learn how to use Ptah Elements Library.](/docs/edit-section/)
+To add the footer sections, choose one of the **Footer**, **Forms** sections from Ptah Section Library or additional custom web elements from [Ptah Element Library](/docs/edit-section/).
 {{< /hint >}}
 
 ***

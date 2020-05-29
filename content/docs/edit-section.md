@@ -9,7 +9,7 @@ bookToc: true
 The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 
 {{< hint >}}
-Clicking a Block or an Element in Preview Area, you can view an icon to set properties at the top-left corner.
+Clicking a block or an element in Preview Area, you can view icons to adjust properties and other functionality.
 {{< /hint >}}
 
 {{< figure src="/images/ptah-editor-remove-element.png">}}
@@ -23,13 +23,13 @@ All of the elements in Preview Area are draggable. If you need to rearrange elem
 ## Adjust block properties
 ***
 
-[Set up the size and indents.](/docs/size/)
+Learn more about how to [set up the size and indents](/docs/size/).
 
 ## Add an element to the section
 ***
 
 {{< hint >}}
-To add an element to the section, hover over a block where you want to add a new element and click the *Add element icon* in Preview Area.
+To add an element to the section, hover over a block in Preview Area where you want to add the new element and click the *Add element icon*.
 {{< /hint >}}
 
 {{< figure src="/images/add-elements.gif">}}
@@ -38,7 +38,8 @@ To add an element to the section, hover over a block where you want to add a new
 ***
 
 {{< hint >}}
-To view and customise an element properties, select the element by click and press the *Edit icon* or just double click the element in Preview Area.
+- To view and customise an element properties, click to select the element in Preview Area.
+- Click the *Edit icon* at the element's menu or just double click the element.
 {{< /hint >}}
 
 {{< figure src="/images/edit-element.gif">}}
@@ -94,7 +95,7 @@ A call-to-action button is a piece of text or an image, that tells your audience
 For instance, after clicking on the call-to-action button it scroll down to the sign up form section.
 
 {{< hint >}}
-To add an action to the button, first of all, select the button in Preview Area and click the *Link icon* at the top-left corner.
+To add an action to the button, first of all, select the button in Preview Area and click the *Link icon* at the element's menu.
 
 In the opened tooltip select one of the actions:
 
@@ -155,7 +156,7 @@ The list of social networks' names and links:
 - **Wechat**
 
 {{< hint >}}
-To add a social link, click the Link icon to the right of the network name. In the opened tooltip enter the network link and click *Close*.
+To add a social link, click the *Link icon* to the right of the network name. In the displayed field enter the network link.
 {{< /hint >}}
 
 [Learn about spacing and how to edit indents for the element](/docs/size/)
@@ -173,7 +174,7 @@ To upload or replace an image, drag and drop the image to the Image upload butto
 {{< tab "IMAGE" >}}
 - **Image URL** - the image file or the link to the image resource
 
-    **To upload an image from your computer:** drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.
+    **To upload an image from your computer:** drag and drop an image to the *Image upload area* in Setting Panel or to the specific position on the page in Preview Area.
     
     **To use an external link to the image:** enter the link to the image file
 
@@ -268,7 +269,8 @@ You can edit a spacer size using the transformation tool.
 You can easily duplicate any element on your page and drag it to a desired position.
 
 {{< hint >}}
-To clone an element, click the element. At the top-left corner of the element's selection click on the *Clone icon*.
+- To clone an element, click to select the element in Preview Area.
+- Click the *Clone icon* at the element's menu to duplicate it.
 {{< /hint >}}
 
 {{< figure src="/images/clone-element.gif">}}
@@ -279,9 +281,10 @@ To clone an element, click the element. At the top-left corner of the element's 
 If you've perfectly styled some element you can copy its properties to another element with the same type.
 
 {{< hint >}}
-To copy element's styles, click the element. At the top-left corner of the element's selection click on the *Copy icon*.
-
-To paste just copied styles, click the specific element. At the top-left corner of the element's selection click on the *Paste icon*.
+- To copy element's styles, click to select the element in Preview Area.
+- Click on the *Copy icon* at the element's menu.
+- To paste just copied styles, click to select the specific element in Preview Area.
+- Click on the *Paste icon* at the element's menu.
 {{< /hint >}}
 
 {{< figure src="/images/copy-style-element.gif">}}

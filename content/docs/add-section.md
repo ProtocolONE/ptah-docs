@@ -8,17 +8,17 @@ bookToc: true
 
 Ptah Builder allows you to create and adjust the content of your web-page and automatically saves all changes.
 
-The sidebar on the left gives you access to all web-elements of your landing page. We call this the Settings Panel.
+The sidebar on the left gives you access to all web-elements of your landing page. We call this the **Settings Panel**.
 The Settings Panel allows you to view and adjust Properties of any object you have already added.
 You can learn more about [objects properties](/docs/edit-section).
 
-After you make a change on Settings Panel the content on the right on Preview Area will be updated. 
+After you make a change on Settings Panel the content on the right on **Preview Area** will be updated. 
 
 ## Add a new section
 ***
 
 {{< hint >}}
-Click the *Add section icon* in Settings Panel and select a desired section from the preview thumbs list.
+Click the *Add section button* in Settings Panel and select a desired section from the preview thumbs list.
 
 Now you can [change the entire content](/docs/edit-section) of the selected section in Preview Area.
 {{< /hint >}}
@@ -98,7 +98,7 @@ You can upload up to 12 images to the gallery.
 ***
 
 {{< hint >}}
-To change the sections order, drag and drop a section on Settings Panel up or down and view the result in Preview Area.
+To change the sections order, drag and drop a section in Section Menu up or down and view the moving result in Preview Area.
 {{< /hint >}}
 
 {{< figure src="/images/ptah-editor-remove-section.png">}}
@@ -107,7 +107,8 @@ To change the sections order, drag and drop a section on Settings Panel up or do
 ***
 
 {{< hint >}}
-To remove a section, click the *Bucket icon* at the end of the section title on Settings Panel.
+- To remove a section, click to select the section.
+- Click the *Delete section button* at the end of the sections list.
 {{< /hint >}}
 
 {{< figure src="/images/ptah-editor-remove-section.png">}}
@@ -116,7 +117,8 @@ To remove a section, click the *Bucket icon* at the end of the section title on 
 ***
 
 {{< hint >}}
-To remove an element from a section, click to select the element in Preview Area and click the *Delete icon* .
+- To remove an element from a section, click to select the element in Preview Area.
+- Click the *Delete icon* at the element's menu.
 {{< /hint >}}
 
 {{< figure src="/images/ptah-editor-remove-element.png">}}
