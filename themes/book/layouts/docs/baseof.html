@@ -9,6 +9,7 @@
 </head>
 
 <body>
+
   <input type="checkbox" class="hidden" id="menu-control" />
   <main class="flex container">
 
@@ -28,25 +29,12 @@
 
   {{ partial "docs/inject/body" . }}
 
-  <script>
-    function buyItems() {
-      const paySuper = new PaySuper({
-        project: '5dcd11bc218dc30001d7098f',
-        products: ['5dcdb73d218dc30001d73c25', '5dcdb841218dc30001d73c26'],
-        type: 'product'
-      });
+  {{ partial "docs/inject/load-photoswipe" . }}
 
-      paySuper.renderModal();
-    }
-  </script>
-
-  <!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
-  {{ if ($.Scratch.Get "photoswipeloaded") }}
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="/js/load-photoswipe.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-  {{ end }}
 </body>
 
 </html>
