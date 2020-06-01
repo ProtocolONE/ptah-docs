@@ -6,6 +6,8 @@ type: docs
 # Promote your game using Ptah
 ***
 
+{{< load-photoswipe >}}
+
 [Ptah Builder](https://ptah.super.com) is an easy-to-use open-source tool to build landing pages for video games without any coding.
 
 Ptah provides you with all the features you need to promote your game.
@@ -37,7 +39,7 @@ Grow your business based on the helpful data gained from Ptah Builder integratio
 **Next steps**
 {{< /hint >}}
 
-### [**Continue with the Quick Start guide**](/docs/quick-start)
+### [**Continue with the Add Section**](/docs/add-section/)
 
 ***
 
