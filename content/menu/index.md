@@ -1,0 +1,24 @@
+---
+headless: true
+---
+
+- **GETTING STARTED**
+  - [Overview]({{< relref "/" >}})
+  - [Add a section]({{< relref "/docs/add-section" >}})
+  - [Marketing]({{< relref "/docs/marketing" >}})
+- **PAGE EDITING**
+  - [Edit a section content]({{< relref "/docs/edit-section" >}})
+  - [Size and spacing]({{< relref "/docs/size" >}})
+  - [Content alignment]({{< relref "/docs/align" >}})
+  - [Background]({{< relref "/docs/background" >}})
+  - [Images]({{< relref "/docs/images" >}})
+  - [Videos]({{< relref "/docs/videos" >}})
+  - [Fonts and Colors]({{< relref "/docs/fonts-and-colors" >}})
+- **SITE SETTINGS**
+  - [Search Engine Optimization]({{< relref "/docs/seo" >}})
+  - [Cookies]({{< relref "/docs/cookies" >}})
+  - [Custom styles]({{< relref "/docs/customization.md" >}})
+- **INTEGRATIONS**
+  - [Mailchimp]({{< relref "/docs/integrations-mailchimp.md" >}})
+  - [Google Analytics]({{< relref "/docs/integrations-ga.md" >}})
+  - [Google Tag]({{< relref "/docs/integrations-gt.md" >}})
