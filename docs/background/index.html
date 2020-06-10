@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="og:title" content="Background Properties" />
+<meta property="og:description" content="Background properties There are several ways to fill a background:
+ Color fill Gradient Background image Fullscreen video background Color overlay Fixed and parallax background image Repeat an image for all sections Remove a background image  You can apply custom settings for the background of a block, section or page.
+How to edit a section background properties
+To edit a section background, you can click the Background icon in Settings Panel at the end of the section&rsquo;s title." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://docs.ptah.super.com/docs/background/" />
+
+<meta property="og:image" content="https://docs.ptah.super.com/dark-form.png" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://docs.ptah.super.com/dark-form.png"/>
+
+<meta name="twitter:title" content="Background Properties"/>
+<meta name="twitter:description" content="Background properties There are several ways to fill a background:
+ Color fill Gradient Background image Fullscreen video background Color overlay Fixed and parallax background image Repeat an image for all sections Remove a background image  You can apply custom settings for the background of a block, section or page.
+How to edit a section background properties
+To edit a section background, you can click the Background icon in Settings Panel at the end of the section&rsquo;s title."/>
+<title>Background Properties | Ptah Documentation</title>
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/book.min.9155fcd8c8057ee8800797645f5f38276a28943bbccbe27ce118eb1740fe70c9.css" integrity="sha256-kVX82MgFfuiAB5dkX184J2oolDu8y&#43;J84RjrF0D&#43;cMk=">
+
+
+<script defer src="/search.min.e48fa949d3ac3e89d3d6bb35855f3b75618cec84ee9424947e1ee4a5a1e42d95.js" integrity="sha256-5I&#43;pSdOsPonT1rs1hV87dWGM7ITulCSUfh7kpaHkLZU="></script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-142750977-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+  <script src="https://cdn.pay.super.com/paysdk/latest/paysuper.js"></script>
+  <script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+</head>
+
+<body>
+
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="https://docs.ptah.super.com"><span>Ptah Documentation</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" placeholder="Search" id="book-search-input" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    <ul>
+<li><strong>GETTING STARTED</strong>
+
+<ul>
+<li><a href="/">Overview</a></li>
+<li><a href="/docs/add-section/">Add a section</a></li>
+<li><a href="/docs/marketing/">Marketing</a></li>
+</ul></li>
+<li><strong>PAGE EDITING</strong>
+
+<ul>
+<li><a href="/docs/edit-section/">Edit a section content</a></li>
+<li><a href="/docs/size/">Size and spacing</a></li>
+<li><a href="/docs/align/">Content alignment</a></li>
+<li><a href="/docs/background/"class=active>Background</a></li>
+<li><a href="/docs/images/">Images</a></li>
+<li><a href="/docs/videos/">Videos</a></li>
+<li><a href="/docs/fonts-and-colors/">Fonts and Colors</a></li>
+</ul></li>
+<li><strong>SITE SETTINGS</strong>
+
+<ul>
+<li><a href="/docs/seo/">Search Engine Optimization</a></li>
+<li><a href="/docs/cookies/">Cookies</a></li>
+<li><a href="/docs/customization/">Custom styles</a></li>
+</ul></li>
+<li><strong>INTEGRATIONS</strong>
+
+<ul>
+<li><a href="/docs/integrations-mailchimp/">Mailchimp</a></li>
+<li><a href="/docs/integrations-ga/">Google Analytics</a></li>
+<li><a href="/docs/integrations-gt/">Google Tag</a></li>
+</ul></li>
+</ul>
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" alt="Menu" />
+  </label>
+  <strong>Background Properties</strong>
+</header>
+
+      
+<article class="markdown">
+
+<h1 id="background-properties">Background properties</h1>
+
+<hr />
+
+<p>There are several ways to fill a background:</p>
+
+<ul>
+<li><a href="#color-fill-and-opacity">Color fill</a></li>
+<li><a href="#gradient">Gradient</a></li>
+<li><a href="#background-image">Background image</a></li>
+<li><a href="#full-screen-video-background">Fullscreen video background</a></li>
+<li><a href="#add-a-color-overlay-to-the-background">Color overlay</a></li>
+<li><a href="#fixed-and-parallax-background-image">Fixed and parallax background image</a></li>
+<li><a href="#repeat-an-image-for-all-sections">Repeat an image for all sections</a></li>
+<li><a href="#remove-a-background-image">Remove a background image</a></li>
+</ul>
+
+<hr />
+
+<p>You can apply custom settings for the background of a block, section or page.</p>
+
+<p><strong>How to edit a section background properties</strong></p>
+
+<hr />
+
+<blockquote class="book-hint ">
+  To edit a section background, you can click the <em>Background icon</em> in Settings Panel at the end of the section&rsquo;s title.
+</blockquote>
+
+
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-section.gif" />
+    </div>
+    <a href="/images/background-section.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<p><strong>How to edit a background of multiple sections</strong></p>
+
+<hr />
+
+<p>Grouping sections helps you to make the same background for all child sections.</p>
+
+<blockquote class="book-hint ">
+  <p>To make a group, select some sections while holding the key: <strong>Command</strong> for macOS or <strong>Control</strong> for Windows, and click  the <em>Group selected button</em>.</p>
+
+<p>Now you can set a background of the group clicking the <em>Image icon</em> at the end of the group&rsquo;s name. The group background replaces their child sections&rsquo; backgrounds.</p>
+
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-group-sections.gif" />
+    </div>
+    <a href="/images/background-group-sections.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<p><strong>How to edit a page background</strong></p>
+
+<hr />
+
+<blockquote class="book-hint ">
+  To adjust a page background, open the panel <em>Page Style</em> and upload an image.
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-page.gif" />
+    </div>
+    <a href="/images/background-page.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<h2 id="color-fill-and-opacity">Color fill and opacity</h2>
+
+<hr />
+
+<blockquote class="book-hint ">
+  To add a solid color, open background settings of the section (or block) and click the <em>Color</em> in Settings Panel.
+Now you can pick the color in the Color Picker.
+</blockquote>
+
+
+<blockquote class="book-hint warning">
+  <ul>
+<li>Checking the opacity in the Color Picker changes your background color from transparent to solid. To get a solid color, check the opacity at 100%.</li>
+<li>To view the color background, examine that there is no image or video background and the overlay color set at 0%.</li>
+</ul>
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-color-opacity.gif" />
+    </div>
+    <a href="/images/background-color-opacity.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<h2 id="gradient">Gradient</h2>
+
+<hr />
+
+<p>Increase the visual appeal with the use of gradients.</p>
+
+<blockquote class="book-hint ">
+  To add a color gradient, open the section (or block) properties in Settings Panel and press the <em>Plus icon</em> to add new color.
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-gradient.png" />
+    </div>
+    <a href="/images/background-gradient.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<blockquote class="book-hint warning">
+  <ul>
+<li>It&rsquo;s possible to add up to 4 colors to the linear gradient.</li>
+<li>Adjust the colors opacity to make a solid or transparent gradient background.</li>
+</ul>
+</blockquote>
+
+
+<h2 id="background-image">Background image</h2>
+
+<hr />
+
+<h3 id="add-a-background-to-a-section-or-block">Add a background to a section or block</h3>
+
+<hr />
+
+<blockquote class="book-hint ">
+  To insert a background image to the section, click the <em>Background icon</em> in Settings Panel at the end of the section&rsquo;s title.
+</blockquote>
+
+
+<blockquote class="book-hint ">
+  To upload an image to the block&rsquo;s background, hover over the block in <em>Preview Area</em> and click the <em>Background icon</em>.
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/background-section-block.gif" />
+    </div>
+    <a href="/images/background-section-block.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<blockquote class="book-hint ">
+  Now you can upload an image in two ways:</p>
+
+<ul>
+<li>using the Upload Image button,</li>
+<li>entering a link to the image resource file in the Image field.</li>
+</ul>
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/upload-image.png" />
+    </div>
+    <a href="/images/upload-image.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<p>Set the position of the background image:</p>
+
+<ul>
+<li><strong>Left</strong> - moves an image horizontally.</li>
+<li><strong>Top</strong> - moves an image vertically.</li>
+</ul>
+
+<blockquote class="book-hint warning">
+  To center an image, click the round icon at the center of the preview image area in Settings Panel.
+</blockquote>
+
+
+<p>Configure the display of the image:</p>
+
+<ul>
+<li><strong>Normal</strong> - displays the original image.</li>
+<li><strong>Tile vertically</strong> - uses an image and repeat it vertically.</li>
+<li><strong>Tile horizontally</strong> - uses an image and repeat it horizontally.</li>
+<li><strong>Tile both</strong> - uses an image and repeats it multiple times both vertically and horizontally.</li>
+<li><strong>Cover</strong> - displays the image at the full width of the section. This mode increases or decrease the width of the picture to fit the width of the browser window. To set the image vertical position, adjust the Top parameter value.</li>
+<li><strong>Stretch</strong> - displays the image at the full height of the section. This mode may affect image quality because this mode increases or decrease the height of the picture to fit the height of the section. To set the image horizontal position, adjust the Left parameter value.</li>
+</ul>
+
+<h3 id="add-a-background-to-the-page">Add a background to the page</h3>
+
+<hr />
+
+<p>You can use an image as a background for the whole page.</p>
+
+<blockquote class="book-hint ">
+  <p>Open the panel <em>Page Style</em>.</p>
+
+<p>Now you can upload an image in three ways:</p>
+
+<ul>
+<li>using the Upload Image button,</li>
+<li>entering a link to the image resource file in the Image field,</li>
+<li>drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.</li>
+</ul>
+
+</blockquote>
+
+
+<p>Set the position of the background image:</p>
+
+<ul>
+<li><strong>X</strong> - moves an image horizontally.</li>
+<li><strong>Y</strong> - moves an image vertically.</li>
+</ul>
+
+<h2 id="full-screen-video-background">Full-screen video background</h2>
+
+<hr />
+
+<p>You can use a video background instead of image to a section or page.</p>
+
+<blockquote class="book-hint ">
+  <ul>
+<li>Open the section&rsquo;s background properties clicking the <em>Background icon</em> at the end of the section&rsquo;s title.</li>
+<li>Choose <em>Video tab</em> and upload a video file or enter the link to the resource file.</li>
+</ul>
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/upload-section-video.png" />
+    </div>
+    <a href="/images/upload-section-video.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<blockquote class="book-hint ">
+  <ul>
+<li>To add a video background to the page, open the panel <em>Page Style</em>.</li>
+<li>Upload a video file or enter the link to the resource file.</li>
+</ul>
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/upload-page-video.png" />
+    </div>
+    <a href="/images/upload-page-video.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<h2 id="add-a-color-overlay-to-the-background">Add a color overlay to the background</h2>
+
+<hr />
+
+<p>Apply a color over an image or video to make a background more contrast for foreground elements. It also helps to make a text more readable on the image or video.</p>
+
+<blockquote class="book-hint ">
+  To add a color filter over the image or video for the section, you can adjust the Overlay Color in Settings Panel and increase or decrease its opacity level.
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/color-overlay.png" />
+    </div>
+    <a href="/images/color-overlay.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<h2 id="fixed-and-parallax-background-image">Fixed and parallax background image</h2>
+
+<hr />
+
+<p>Fixed and parallax effects are design techniques:</p>
+
+<ul>
+<li>when using a fixed background image, the image will remain static, while the content will move over the image as your scroll down the page.
+<blockquote class="book-hint ">
+  To add a fixed background to the page:</p>
+
+<ul>
+<li><a href="#add-a-background-to-the-page">Add a background to the page.</a></li>
+<li>Open <em>Page Style</em> &gt; <em>Background</em>.</li>
+<li>Enable the <em>Fixed while scrolling</em> option.</li>
+</ul>
+</blockquote>
+</li>
+<li>when using a parallax background image, both the image and the content will move as your scroll down the page, but at different speeds.
+<blockquote class="book-hint ">
+  To add a parallax to the section background:</p>
+
+<ul>
+<li><a href="#add-a-background-to-a-section-or-block">Add a background to the section.</a></li>
+<li>Enable the <em>Parallax on background</em> in Settings Panel for this section.</li>
+<li>Open your landing page in the Preview mode to see the parallax effect clicking the <em>Preview icon</em> at the top menu.</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+
+<h2 id="repeat-an-image-for-all-sections">Repeat an image for all sections</h2>
+
+<hr />
+
+<p>You can upload a background image and repeat it for all sections on the page.</p>
+
+<blockquote class="book-hint ">
+  <ul>
+<li><a href="#add-a-background-to-the-page">Add a background to the page.</a></li>
+<li>Open <em>Page Style</em> &gt; <em>Background</em>.</li>
+<li>Enable the <em>Background fill</em> option.</li>
+</ul>
+</blockquote>
+
+
+<h2 id="remove-a-background-image">Remove a background image</h2>
+
+<hr />
+
+<blockquote class="book-hint ">
+  To remove a background image from a section, block or page open Settings Panel and click the <em>Delete button</em>.
+</blockquote>
+
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/images/delete-image.png" />
+    </div>
+    <a href="/images/delete-image.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+<hr />
+
+<blockquote class="book-hint info">
+  <strong>Next steps</strong>
+</blockquote>
+
+
+<ul>
+<li><a href="/docs/size/">Adjust size and spacing on the page</a></li>
+<li><a href="/docs/align/">Customise the alignment of elements</a></li>
+<li><a href="/docs/background/">Edit a background image and video</a></li>
+</ul>
+
+<hr />
+
+<h2 id="questions">Questions?</h2>
+
+<div class="book-columns flex flex-wrap">
+
+<div class="flex-even markdown-inner">
+    <h4 id="sales-todo"><a href="TODO">Sales</a></h4>
+
+<p>Our salespeople are pleasant and friendly. Leave your contact details, and we&rsquo;ll be back to you in no time.
+</div>
+
+<div class="flex-even markdown-inner">
+    <h4 id="support-https-github-com-protocolone-ptah-editor-issues"><a href="https://github.com/ProtocolONE/ptah-editor/issues">Support</a></h4>
+
+<p>We are always happy to help with a code, improve a guide or consider a feature.
+</div>
+
+<div class="flex-even markdown-inner">
+    <h4 id="github-https-github-com-protocolone-ptah-editor"><a href="https://github.com/ProtocolONE/ptah-editor">GitHub</a></h4>
+
+<p>Ptah is the easy-to-use open-source landing page builder for video games. It&rsquo;s a free tool for building video game landing page templates without any coding.
+</div>
+
+</div>
+</article>
+
+      
+
+      
+    </div>
+
+    
+  
+
+  <aside class="book-toc level-true fixed">
+    <nav id="TableOfContents">
+<ul>
+<li><a href="#background-properties">Background properties</a>
+<ul>
+<li><a href="#color-fill-and-opacity">Color fill and opacity</a></li>
+<li><a href="#gradient">Gradient</a></li>
+<li><a href="#background-image">Background image</a>
+<ul>
+<li><a href="#add-a-background-to-a-section-or-block">Add a background to a section or block</a></li>
+<li><a href="#add-a-background-to-the-page">Add a background to the page</a></li>
+</ul></li>
+<li><a href="#full-screen-video-background">Full-screen video background</a></li>
+<li><a href="#add-a-color-overlay-to-the-background">Add a color overlay to the background</a></li>
+<li><a href="#fixed-and-parallax-background-image">Fixed and parallax background image</a></li>
+<li><a href="#repeat-an-image-for-all-sections">Repeat an image for all sections</a></li>
+<li><a href="#remove-a-background-image">Remove a background image</a></li>
+</ul></li>
+</ul>
+</nav>
+  </aside>
+
+
+  </main>
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script src="/js/load-photoswipe.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+</body>
+
+</html>

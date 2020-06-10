@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ptah Landing Page Builder Documentation on Ptah Documentation</title>
+    <link>https://docs.ptah.super.com/</link>
+    <description>Recent content in Ptah Landing Page Builder Documentation on Ptah Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://docs.ptah.super.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://docs.ptah.super.com/docs/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/glossary/</guid>
+      <description> Terms:  Ptah Landing Page Builder = Ptah Builder = Ptah - the open-source landing page builder for video games Sections Library Elements Library  Ptah Editor:  Navigation Panel - a sidebar on the left with the settings menu Settings Panel - a sidebar on the left with the Sections list and the elements properties Preview Area - a preview area for content the Resizing tool rectangle the Settings icon  Ptah Dashboard:  the landing pages list the Create new landing button  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.ptah.super.com/docs/preview-and-publish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/preview-and-publish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.ptah.super.com/docs/release/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add a section</title>
+      <link>https://docs.ptah.super.com/docs/add-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/add-section/</guid>
+      <description>Create a page using ready-made sections Ptah Builder allows you to create and adjust the content of your web-page and automatically saves all changes.
+The sidebar on the left gives you access to all web-elements of your landing page. We call this the Settings Panel. The Settings Panel allows you to view and adjust Properties of any object you have already added. You can learn more about objects properties.</description>
+    </item>
+    
+    <item>
+      <title>Background Properties</title>
+      <link>https://docs.ptah.super.com/docs/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/background/</guid>
+      <description>Background properties There are several ways to fill a background:
+ Color fill Gradient Background image Fullscreen video background Color overlay Fixed and parallax background image Repeat an image for all sections Remove a background image  You can apply custom settings for the background of a block, section or page.
+How to edit a section background properties
+To edit a section background, you can click the Background icon in Settings Panel at the end of the section&amp;rsquo;s title.</description>
+    </item>
+    
+    <item>
+      <title>Connect with Google Analytics</title>
+      <link>https://docs.ptah.super.com/docs/integrations-ga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/integrations-ga/</guid>
+      <description>How to use Google Analytics on your landing page Ptah has a Google Analytics integration for your landing pages.
+To start, you need a Google Analytics account and your tracking ID.
+ Click the Settings icon on the top menu. Choose the Integrations tab and click the Google Analytics icon. In the Google site tag field, enter your Google Analytics tracking ID. Click Apply.  You may start getting data in your Google Analytics account in up to 24 hours.</description>
+    </item>
+    
+    <item>
+      <title>Connect with Mailchimp</title>
+      <link>https://docs.ptah.super.com/docs/integrations-mailchimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/integrations-mailchimp/</guid>
+      <description>How to use Mailchimp on your landing page Ptah offers a seamless integration to Mailchimp for you to easily create an email subscription form on your landing page.
+To start, you need to authorize Mailchimp to connect to your landing page in Ptah Builder.
+Open Integrations &amp;gt; Mailchimp.
+ Enter your Mailchimp login and password to log into Mailchimp. Approve Mailchimp to connect your landing page.       Select a Mailchimp audience Once you&amp;rsquo;ve synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.</description>
+    </item>
+    
+    <item>
+      <title>Content alignment</title>
+      <link>https://docs.ptah.super.com/docs/align/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/align/</guid>
+      <description>Content alignment Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section&amp;rsquo;s blocks.
+ To set the alignment of the block&amp;rsquo;s content, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu. Click the Settings icon at the block&amp;rsquo;s menu. Adjust indents in Settings Panel.   Flow elements into a row or column  To display elements of a block in a line, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu.</description>
+    </item>
+    
+    <item>
+      <title>Cookies Settings</title>
+      <link>https://docs.ptah.super.com/docs/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/cookies/</guid>
+      <description>Cookies Your web page has to follow the GDPR and you can set up some options in Ptah Settings.
+The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.   To inform your visitor that you are using Cookies and receive their approval, open the panel SEO. Enable the Use Cookies. Upload a Cookie Policy PDF file Click the Save button and view the result in Preview Mode.</description>
+    </item>
+    
+    <item>
+      <title>Customise CSS and JavaScript</title>
+      <link>https://docs.ptah.super.com/docs/customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/customization/</guid>
+      <description>Customise the look and feel of your landing page In Ptah Builder you can customise any web element of your landing page.
+Ptah makes it easy to edit page content without coding
+Moreover, you can add custom styles using the CSS editor and embed custom scripts using the JavaScript editor in Ptah Settings:
+ To add custom JS or CSS code, open the panel Code Injection. In the editor, enter your code (CSS or JavaScript).</description>
+    </item>
+    
+    <item>
+      <title>Edit section content</title>
+      <link>https://docs.ptah.super.com/docs/edit-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/edit-section/</guid>
+      <description>On-page editing The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
+Clicking a block or an element in Preview Area, you can view icons to adjust properties and other functionality.      All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.</description>
+    </item>
+    
+    <item>
+      <title>How to set up Google Tag Manager</title>
+      <link>https://docs.ptah.super.com/docs/integrations-gt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/integrations-gt/</guid>
+      <description>How to set up Google Tag Manager on your landing page The Google Tag Manager container snippet (a tag) is a small piece code loads with your landing page. It works together with Google Analytics and allows you to collect data and event on your landing page such as:
+ monitor form submissions track how people arrive at your site monitor link clicks track the scrolling and other events  To start, you&amp;rsquo;ll need a Google Analytics account.</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://docs.ptah.super.com/docs/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/images/</guid>
+      <description>Images  Placing an image to a section Styling a button with images Background image Recommended image parameters  Placing an image to a section Images are crucial to your landing page design.
+Follow this instruction to upload an image from your computer or to link to an external resource.
+Styling a button with images Style your buttons with a background or a hover image.
+Upload images in Settings Panel to style the buttons.</description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://docs.ptah.super.com/docs/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/marketing/</guid>
+      <description>How to create a good landing page for your game? Define the goal for your landing page Ptah allows you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
+Ptah Builder offers 5 common goals for your landing pages built-in as ready-to-use templates:
+🎮 Sell your game
+The templates contain required sections to sell game keys, a link to game publishing platforms like Steam or GOG.</description>
+    </item>
+    
+    <item>
+      <title>Payments</title>
+      <link>https://docs.ptah.super.com/docs/payments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/payments/</guid>
+      <description> PaySuper Payment Form PaySuper Checkout creates a secure PaySuper-hosted form that lets you collect payments with just a few lines of code. The Checkout Form loads near instantly and is designed to boost your paying conversion rate.
+Try now See how the Checkout Form looks and feels BUTTON Test Payment  User flow https://docs.pay.super.com/docs/payments/quick-start/  After the payment Receipts Payouts  Payment Token Payment Links Game key </description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://docs.ptah.super.com/docs/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/quick-start/</guid>
+      <description>Quick Start 1. Регистрация 2. Создаем новый landing page на дашборде. From your dashboard, you can access, create, and manage your projects.
+Start from scratch or from one of our 100+ templates
+Ptah lets you start your design from a completely blank canvas, so there’s no limit to your creativity. That way, you can design a truly custom website—instead of relying on a template built by someone who doesn’t know you or your company.</description>
+    </item>
+    
+    <item>
+      <title>Search engine optimization</title>
+      <link>https://docs.ptah.super.com/docs/seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/seo/</guid>
+      <description>SEO checklist for your gaming landing page The best SEO strategies help you to increase organic traffic and rankings in search engines.
+First of all, you should always keep in touch that your website is designed for humans who use search engines.
+As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.
+    Ptah helps you to optimize landing page perfectly.</description>
+    </item>
+    
+    <item>
+      <title>Size and spacing</title>
+      <link>https://docs.ptah.super.com/docs/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/size/</guid>
+      <description>Spacing on the page You can create extra space around elements to help your users focus on the content, what may increases conversions.
+    The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
+    Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://docs.ptah.super.com/docs/fonts-and-colors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/fonts-and-colors/</guid>
+      <description>Typography The landing page design must be on-brand. Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
+Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
+ To adjust page fonts, open Fonts on Settings Panel. Choose the desired fonts for headline, text and button from the Google Fonts library.</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://docs.ptah.super.com/docs/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.ptah.super.com/docs/videos/</guid>
+      <description>Videos  Embed a video to a section Fullscreen video background Recommended video parameters  Embed a video to a section Learn how to embed a YouTube video or any MP4 file.
+Fullscreen video background To add dynamic effects to your landing page, have a video of your game as a website background. Background video plays in a loop without sound.
+Recommended video parameters  Name: only use letters, numbers, underscores, and hyphens Format: mp4 container, encoded with H.</description>
+    </item>
+    
+  </channel>
+</rss>
