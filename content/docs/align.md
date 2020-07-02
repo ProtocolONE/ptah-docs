@@ -22,30 +22,29 @@ Ptah Sections are designed for responsive landing pages. You can customise the a
 - Click the *Row Direction icon*.
 {{< /hint >}}
 
-TODO images интерфейс с настройками и в превью отображение элементов в строку
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/alignment1.png">}}
 
 {{< hint >}}
 - To display each element of a block in a new line, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
 - Click the *Column Direction icon*.
 {{< /hint >}}
 
-TODO images интерфейс с настройками и в превью отображение тех же самых элементов в столбец
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/alignment1.png">}}
 
 ## Content direction
 ***
 
 {{< hint >}}
-You can horizontally or vertically align elements to left, right, center within the block.
-
-Hover over the block in the Preview Area and click the *Settings icon* at the block's menu and select the alignment:
-
-- **Vertical alignment**
-- **Horizontal alignment**
+You can horizontally align elements to left, right, center within the block.
 {{< /hint >}}
 
-{{< figure src="/images/tmp.png">}}
+{{< figure src="/images/alignment2.png">}}
+
+{{< hint >}}
+You can vertically align elements to top, center, bottom within the block.
+{{< /hint >}}
+
+{{< figure src="/images/alignment3.png">}}
 
 ## Sticky header
 ***
