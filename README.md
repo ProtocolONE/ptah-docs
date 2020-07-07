@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[Documentation site](https://docs.ptah.super.com/) for Ptah, Vue.js-based open-source game-focused landing page builder framework.
+[Documentation site](https://docs.ptah.pro) for Ptah, Vue.js-based open-source game-focused landing page builder framework.
 
 ## Getting started
 
