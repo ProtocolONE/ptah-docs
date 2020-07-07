@@ -8,7 +8,7 @@
 
 Ptah provides you with all the features you need to promote your game.
 
-[Try now the demo editor.](https://ptah.super.com/editor/demo)
+[Sign up and try now the editor.](https://ptah.pro/signup)
 
 ## Building
 

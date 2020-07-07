@@ -10,7 +10,7 @@ type: docs
 
 Ptah provides you with all the features you need to promote your game.
 
-{{< button href="https://ptah.super.com/editor/demo" >}}Try now the demo editor{{< /button >}}
+{{< button href="https://ptah.pro/signup" >}}Sign up and try now the editor{{< /button >}}
 
 {{< figure src="/images/ptah-editor-overview.png">}}
 
