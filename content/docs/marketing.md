@@ -76,9 +76,9 @@ Detailed instructions on how to create great content for each section:
 
 Build your desired page from a wide range of Ptah pre-designed blocks
 
-{{< figure src="/images/ptah-editor-section-library.png">}}
+{{< figure src="/images/section-library.png">}}
 
-{{< figure src="/images/ptah-editor-element-library.png">}}
+{{< figure src="/images/element-library.png">}}
 
 ### Header
 

@@ -101,7 +101,7 @@ You can upload up to 12 images to the gallery.
 To change the sections order, drag and drop a section in Section Menu up or down and view the moving result in Preview Area.
 {{< /hint >}}
 
-{{< figure src="/images/ptah-editor-remove-section.png">}}
+{{< figure src="/images/order-sections.gif">}}
 
 ## Remove a section
 ***
@@ -111,7 +111,7 @@ To change the sections order, drag and drop a section in Section Menu up or down
 - Click the *Delete section button* at the end of the sections list.
 {{< /hint >}}
 
-{{< figure src="/images/ptah-editor-remove-section.png">}}
+{{< figure src="/images/remove-section.gif">}}
 
 ## Remove an element
 ***
@@ -121,7 +121,7 @@ To change the sections order, drag and drop a section in Section Menu up or down
 - Click the *Delete icon* at the element's menu.
 {{< /hint >}}
 
-{{< figure src="/images/ptah-editor-remove-element.png">}}
+{{< figure src="/images/remove-element.gif">}}
 
 ***
 

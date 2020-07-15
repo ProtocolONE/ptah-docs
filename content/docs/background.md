@@ -156,7 +156,7 @@ You can use a video background instead of image to a section or page.
 - Choose *Video tab* and upload a video file or enter the link to the resource file.
 {{< /hint >}}
 
-{{< figure src="/images/upload-section-video.png">}}
+{{< figure src="/images/upload-section-video.gif">}}
 
 {{< hint >}}
 - To add a video background to the page, open the panel *Page Style*.

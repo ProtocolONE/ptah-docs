@@ -9,7 +9,7 @@ bookToc: true
 The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 
 {{< hint >}}
-Clicking a block or an element in Preview Area, you can view icons to adjust properties and other functionality.
+Clicking a block or element in Preview Area, you can view icons to adjust properties and other functionality.
 {{< /hint >}}
 
 {{< figure src="/images/ptah-editor-remove-element.png">}}
