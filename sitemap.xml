@@ -3,94 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/glossary/</loc>
+    <loc>https://docs.ptah.pro/docs/glossary/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/preview-and-publish/</loc>
+    <loc>https://docs.ptah.pro/docs/preview-and-publish/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/release/</loc>
+    <loc>https://docs.ptah.pro/docs/release/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/add-section/</loc>
+    <loc>https://docs.ptah.pro/docs/add-section/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/background/</loc>
+    <loc>https://docs.ptah.pro/docs/background/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/integrations-ga/</loc>
+    <loc>https://docs.ptah.pro/docs/integrations-ga/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/integrations-mailchimp/</loc>
+    <loc>https://docs.ptah.pro/docs/integrations-mailchimp/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/align/</loc>
+    <loc>https://docs.ptah.pro/docs/align/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/cookies/</loc>
+    <loc>https://docs.ptah.pro/docs/cookies/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/customization/</loc>
+    <loc>https://docs.ptah.pro/docs/customization/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/</loc>
+    <loc>https://docs.ptah.pro/docs/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/edit-section/</loc>
+    <loc>https://docs.ptah.pro/docs/edit-section/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/integrations-gt/</loc>
+    <loc>https://docs.ptah.pro/docs/integrations-gt/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/images/</loc>
+    <loc>https://docs.ptah.pro/docs/images/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/marketing/</loc>
+    <loc>https://docs.ptah.pro/docs/marketing/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/payments/</loc>
+    <loc>https://docs.ptah.pro/docs/payments/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/</loc>
+    <loc>https://docs.ptah.pro/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/quick-start/</loc>
+    <loc>https://docs.ptah.pro/docs/publish/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/seo/</loc>
+    <loc>https://docs.ptah.pro/docs/quick-start/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/size/</loc>
+    <loc>https://docs.ptah.pro/docs/seo/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/fonts-and-colors/</loc>
+    <loc>https://docs.ptah.pro/docs/size/</loc>
   </url>
   
   <url>
-    <loc>https://docs.ptah.super.com/docs/videos/</loc>
+    <loc>https://docs.ptah.pro/docs/fonts-and-colors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ptah.pro/docs/videos/</loc>
   </url>
   
 </urlset>
