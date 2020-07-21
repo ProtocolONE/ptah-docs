@@ -14,18 +14,17 @@ To share your landing page and index it in search engines you need to get a publ
 To update your landing page, you need to edit page content in Ptah editor and publish it again with the same link.
 {{< /hint >}}
 
-{{< hint >}}
 To publish your landing page:
 
 - Click the *Publish button* at the top menu.
-- Paste a page name to the *address field* and click the *Publish button*.
-{{< /hint >}}
-
-Search engines start to index your page right after publishing.
-
 {{< figure src="/images/ptah-editor-publish.png">}}
 
+- Paste a page name to the *address field* and click the *Publish button*.
+The public link **https://mygame.ptah.me**
+
 {{< figure src="/images/ptah-editor-preview.png">}}
+
+Search engines start to index your page right after publishing.
 
 ## Code export
 
