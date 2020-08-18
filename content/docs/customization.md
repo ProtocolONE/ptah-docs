@@ -28,6 +28,8 @@ To upload a JavaScript library:
 - Click the *Save button*.
 {{< /hint >}}
 
+{{< figure src="/images/ptah-editor-code-libraries.png">}}
+
 ***
 
 {{< hint info >}}
