@@ -20,6 +20,16 @@ Moreover, you can add custom styles using the CSS editor and embed custom script
 
 {{< figure src="/images/custom-css-js.png">}}
 
+To upload a JavaScript library:
+
+{{< hint >}}
+- Open the panel Code Injection > JS libraries.
+- Enter the JS library URL in the *Library field* and click the *Add button*.
+- Click the *Save button*.
+{{< /hint >}}
+
+{{< figure src="/images/ptah-editor-code-libraries.png">}}
+
 ***
 
 {{< hint info >}}

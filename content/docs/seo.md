@@ -3,29 +3,29 @@ title: Search engine optimization
 bookToc: true
 ---
 
-# SEO checklist for your gaming landing page
+# SEO checklist for your game's landing page
 ***
 
 The best SEO strategies help you to increase organic traffic and rankings in search engines.
 
 First of all, you should always keep in touch that your website is designed for humans who use search engines. 
 
-**As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.**
+**Meaning, you have to optimize your content by already knowing what words and phrases your audience is searching for.**
 
 {{< figure src="/images/seo.png">}}
 
 Ptah helps you to optimize landing page perfectly. It's the essential part that increases traffic to your web page. 
 We recommend using Ptah Settings to adjust SEO parameters of your landing page.
 
-To achieve the goals of your landing page you can follow this checklist:
+Here's the checklist to get you started:
 
-**For the web page URLs:**
+**For web page URLs:**
 
 - [Choose the right domain name for your page](#choose-the-right-domain-name)
 - [Set up the secure protocol HTTPS](#set-up-the-secure-protocol-https)
 - [Keep reader-friendly URLs](#keep-reader-friendly-urls)
 
-**For the web page descriptions:**
+**For web page descriptions:**
 
 - [Add a page title](#add-a-page-title)
 - [Add a page description](#add-a-page-description)
@@ -44,7 +44,7 @@ To achieve the goals of your landing page you can follow this checklist:
 
 - [Optimize visual data](#optimize-visual-data)
 
-**After you launched the landing page:**
+**After you've launched the landing page:**
 
 - [Verify and index your site](#verify-your-site-with-google-search-console)
 
@@ -71,10 +71,10 @@ Moreover, at the Chrome browser’s alerting system looks more reliable for the 
 ## Keep reader-friendly URLs
 ***
 
-- **Keep URL short**
+- **Keep URLs short**
 
 A well-designed URL provides a reader-friendly link for humans and an easy-to-understand link for search engines. 
-More than that, do not use too many similar words in a URL to avoid a keyword stuffing if you.
+On the other side, do not use too many similar words in a URL to avoid a keyword stuffing if you.
 
 - **Use hyphens to separate words in URL**
 
@@ -88,7 +88,7 @@ Search engines can decrypt from uppercase and lowercase letters in URLs, which c
 ***
 
 The title and description mean that you can tell for a search engine exactly what you're talking about to categorize and understand your web page.
-Remember, the title appears in search engines and the Web browser’s title bar.
+Also, the title appears in search engines and the Web browser’s title bar.
 
 {{< figure src="/images/seo1.png">}}
 
@@ -125,7 +125,7 @@ You should match your descriptions to search terms as closely as possible.
 
 - **Keep your description under 160 characters**
 
-It's not a character limit, but you can take into account, that the description length depends on the display width, search engine and others.
+It's not a technical limit, but you can take into account, that the description length depends on the display width, search engine and others.
 
 - **Don't include double quotation marks**
 
@@ -185,12 +185,12 @@ Encourage people to share your content using your social media links. It's impor
 {{< figure src="/images/post.png">}}
 
 {{< hint >}}
-To add social icons to any block hover, over the block and click the *Add element icon* at the top-left. Select the *Social networks element* and set up desired social icons and enter links in Settings Panel.
+To add social icons to any block hover, over the block and click the *Add element icon* at the top-left. Select the *Social networks element*, set up desired social icons and enter links in Settings Panel.
 {{< /hint >}}
 
 {{< figure src="/images/social-icons.png">}}
 
-Moreover, Ptah has the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
+Moreover, Ptah supports the Open Graph tags, so you can tell social media networks like Facebook, Twitter and others what information to display whenever you or anyone else shares a link from your site.
 
 {{< hint >}}
 To set up Open Graph tags, click the *Settings icon* on the top menu. Choose the *Open Graph tab* to enter data and click *Save*:
@@ -210,7 +210,7 @@ To set up Open Graph tags, click the *Settings icon* on the top menu. Choose the
 ***
 
 - **Give your image and video resources readable file names and use keywords**
-- **File name should only contain letters, numbers and hyphens (instead of underscores)**
+- **File names should only contain letters, numbers and hyphens (instead of underscores)**
 - **[Keep optimised image size](/docs/background/#recommended-image-parameters)**
 - **[Keep optimised video size](/docs/background/#recommended-video-parameters)**
 
