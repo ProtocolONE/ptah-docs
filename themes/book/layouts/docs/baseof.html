@@ -6,6 +6,17 @@
   {{ partial "docs/inject/head" . }}
   <script src="https://cdn.pay.super.com/paysdk/latest/paysuper.js"></script>
   <script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170261270-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-170261270-1', 'linker': {
+    'domains': ['ptah.pro', 'editor.ptah.pro']
+  });
+</script>
 </head>
 
 <body>
