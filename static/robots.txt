@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*utm_source
+Sitemap: https://docs.ptah.pro/sitemap.xml
