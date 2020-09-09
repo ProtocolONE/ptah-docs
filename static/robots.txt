@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /*utm_source
-Disallow: /restore
-Disallow: /account
+Sitemap: https://docs.ptah.pro/sitemap.xml
