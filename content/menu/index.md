@@ -4,7 +4,7 @@ headless: true
 
 - **GETTING STARTED**
   - [Overview]({{< relref "/" >}})
-  - [Add a section]({{< relref "/docs/add-section" >}})
+  - [Add a section]({{< relref "/docs" >}})
   - [Publish]({{< relref "/docs/publish" >}})
   - [Marketing]({{< relref "/docs/marketing" >}})
 - **PAGE EDITING**
