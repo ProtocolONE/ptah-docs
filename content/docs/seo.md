@@ -175,7 +175,7 @@ You can use Ptah pre-designed sections and elements to organize content:
 
 {{< figure src="/images/skimmable.png">}}
 
-[Take a look at how to adjust the ready-to-use sections.](/docs/add-section)
+[Take a look at how to adjust the ready-to-use sections.](/docs)
 
 ## Social media links
 ***

@@ -83,7 +83,7 @@ Build your desired page from a wide range of Ptah pre-designed blocks
 ### Header
 
 A header is the top section of the web page, thus it's the first thing visitors see. 
-The [fixed (sticky) header](/docs/add-section/#header) persists on all sections.
+The [fixed (sticky) header](/docs/#header) persists on all sections.
 
 {{< hint info >}}
 Tips for this section:
