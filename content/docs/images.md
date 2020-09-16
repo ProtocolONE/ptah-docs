@@ -23,7 +23,7 @@ Any image uploaded to one of your landing pages will store in Images Library.
 - Now you can upload a new image or select an already stored image in Images Library. 
 {{< /hint >}}
 
-{{< figure src="/images/image-library.png">}}
+{{< figure src="/images/images-library.gif">}}
 
 ## Placing an image to a section
 ***
