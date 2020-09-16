@@ -79,7 +79,7 @@ Open Integrations &amp;gt; Mailchimp.
       
       <guid>https://docs.ptah.pro/docs/align/</guid>
       <description>Content alignment Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section&amp;rsquo;s blocks.
- To set the alignment of the block&amp;rsquo;s content, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu. Click the Settings icon at the block&amp;rsquo;s menu. Adjust indents in Settings Panel.   Flow elements into a row or column  To display elements of a block in a line, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu.</description>
+ To set the alignment of the block&amp;rsquo;s content, hover over the block in Preview Area and click the Settings icon at the block&amp;rsquo;s menu. Click the Settings icon at the block&amp;rsquo;s menu. Adjust indents in Settings Panel.   Flow elements into a row or column  To display elements of a block in a line, hover over the block in Preview Area and click the Settings icon at the block&amp;rsquo;s menu.</description>
     </item>
     
     <item>
@@ -130,10 +130,8 @@ Clicking a block or element in Preview Area, you can view icons to adjust proper
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docs.ptah.pro/docs/images/</guid>
-      <description>Images  Placing an image to a section Styling a button with images Background image Recommended image parameters  Placing an image to a section Images are crucial to your landing page design.
-Follow this instruction to upload an image from your computer or to link to an external resource.
-Styling a button with images Style your buttons with a background or a hover image.
-Upload images in Settings Panel to style the buttons.</description>
+      <description>Images  Images library Placing an image to a section Styling a button with images Background image Recommended image parameters  Images library Any image uploaded to one of your landing pages will store in Images Library.
+ To open an Images Library, click an element on Preview Area where you want to add an image. Press the Upload image icon at the element&amp;rsquo;s menu. Now you can upload a new image or select an already stored image in Images Library.</description>
     </item>
     
     <item>
