@@ -94,7 +94,7 @@ To insert a background image to the section, click the *Background icon* in Sett
 {{< /hint >}}
 
 {{< hint >}}
-To upload an image to the block's background, hover over the block in *Preview Area* and click the *Background icon*.
+To upload an image to the block's background, hover over the block in Preview Area and click the *Background icon*.
 {{< /hint >}}
 
 {{< figure src="/images/background-section-block.gif">}}

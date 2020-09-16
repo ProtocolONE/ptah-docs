@@ -9,7 +9,7 @@ bookToc: true
 Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section's blocks.
 
 {{< hint >}}
-- To set the alignment of the block's content, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- To set the alignment of the block's content, hover over the block in Preview Area and click the *Settings icon* at the block's menu.
 - Click the *Settings icon* at the block's menu.
 - Adjust indents in Settings Panel.
 {{< /hint >}}
@@ -18,14 +18,14 @@ Ptah Sections are designed for responsive landing pages. You can customise the a
 ***
 
 {{< hint >}}
-- To display elements of a block in a line, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- To display elements of a block in a line, hover over the block in Preview Area and click the *Settings icon* at the block's menu.
 - Click the *Row Direction icon*.
 {{< /hint >}}
 
 {{< figure src="/images/alignment1.png">}}
 
 {{< hint >}}
-- To display each element of a block in a new line, hover over the block in the Preview Area and click the *Settings icon* at the block's menu.
+- To display each element of a block in a new line, hover over the block in Preview Area and click the *Settings icon* at the block's menu.
 - Click the *Column Direction icon*.
 {{< /hint >}}
 

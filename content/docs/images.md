@@ -6,10 +6,24 @@ bookToc: true
 # Images
 ***
 
+- [Images library](#images-library)
 - [Placing an image to a section](#placing-an-image-to-a-section)
 - [Styling a button with images](#styling-a-button-with-images)
 - [Background image](#background-image)
 - [Recommended image parameters](#recommended-image-parameters)
+
+## Images library
+***
+
+Any image uploaded to one of your landing pages will store in Images Library.
+
+{{< hint >}}
+- To open an Images Library, click an element on Preview Area where you want to add an image.
+- Press the *Upload image icon* at the element's menu.
+- Now you can upload a new image or select an already stored image in Images Library. 
+{{< /hint >}}
+
+{{< figure src="/images/images-library.gif">}}
 
 ## Placing an image to a section
 ***
