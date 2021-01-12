@@ -1,7 +1,7 @@
 # Terms:
 ***
 
-- **Ptah Landing Page Builder** = **Ptah Builder** = **Ptah** - the open-source landing page builder for video games
+- **Ptah Landing Page Builder** = **Ptah Builder** = **Ptah** - the landing page builder for video games
 - **Sections Library**
 - **Elements Library**
 
